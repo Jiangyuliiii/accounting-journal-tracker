@@ -15,7 +15,11 @@
     "tax_related": true,
     "link": "https://doi.org/10.1504/ijmfa.2027.10070040",
     "doi": "10.1504/ijmfa.2027.10070040",
-    "fetched_at": "2026-05-12T11:17:55.851705+00:00"
+    "fetched_at": "2026-05-12T11:17:55.851705+00:00",
+    "tax_match_reason": [
+      "title:\\btax\\b",
+      "title:\\btax avoidance\\b"
+    ]
   },
   {
     "source_category": "working_paper",
@@ -30,10 +34,11 @@
       "Shi Yang"
     ],
     "posted_date": "2027",
-    "tax_related": true,
+    "tax_related": false,
     "link": "https://doi.org/10.1504/ijmfa.2027.10070059",
     "doi": "10.1504/ijmfa.2027.10070059",
-    "fetched_at": "2026-05-12T11:17:40.470335+00:00"
+    "fetched_at": "2026-05-12T11:17:40.470335+00:00",
+    "tax_match_reason": []
   },
   {
     "source_category": "working_paper",
@@ -52,10 +57,11 @@
       "Morteza Hadizadeh"
     ],
     "posted_date": "2027",
-    "tax_related": true,
+    "tax_related": false,
     "link": "https://doi.org/10.1504/ijte.2027.10075119",
     "doi": "10.1504/ijte.2027.10075119",
-    "fetched_at": "2026-05-12T11:17:33.638643+00:00"
+    "fetched_at": "2026-05-12T11:17:33.638643+00:00",
+    "tax_match_reason": []
   },
   {
     "source_category": "working_paper",
@@ -72,10 +78,11 @@
       "Aida Albu"
     ],
     "posted_date": "2026-12-30",
-    "tax_related": true,
+    "tax_related": false,
     "link": "https://doi.org/10.59463/rjvs.2025.4.38",
     "doi": "10.59463/rjvs.2025.4.38",
-    "fetched_at": "2026-05-12T11:17:33.638643+00:00"
+    "fetched_at": "2026-05-12T11:17:33.638643+00:00",
+    "tax_match_reason": []
   },
   {
     "source_category": "working_paper",
@@ -94,7 +101,12 @@
     "tax_related": true,
     "link": "https://doi.org/10.1016/j.jcae.2026.100557",
     "doi": "10.1016/j.jcae.2026.100557",
-    "fetched_at": "2026-05-12T11:17:45.770697+00:00"
+    "fetched_at": "2026-05-12T11:17:45.770697+00:00",
+    "tax_match_reason": [
+      "title:\\btax\\b",
+      "title:\\btax avoidance\\b",
+      "title:\\bcorporate tax\\b"
+    ]
   },
   {
     "source_category": "working_paper",
@@ -114,7 +126,11 @@
     "tax_related": true,
     "link": "https://doi.org/10.1016/j.jbusres.2026.116213",
     "doi": "10.1016/j.jbusres.2026.116213",
-    "fetched_at": "2026-05-12T11:17:45.770697+00:00"
+    "fetched_at": "2026-05-12T11:17:45.770697+00:00",
+    "tax_match_reason": [
+      "title:\\btax\\b",
+      "title:\\bcorporate tax\\b"
+    ]
   },
   {
     "source_category": "working_paper",
@@ -132,7 +148,11 @@
     "tax_related": true,
     "link": "https://doi.org/10.1016/j.ribaf.2026.103418",
     "doi": "10.1016/j.ribaf.2026.103418",
-    "fetched_at": "2026-05-12T11:17:45.770697+00:00"
+    "fetched_at": "2026-05-12T11:17:45.770697+00:00",
+    "tax_match_reason": [
+      "title:\\btax\\b",
+      "title:\\btax haven[s]?\\b"
+    ]
   },
   {
     "source_category": "working_paper",
@@ -146,10 +166,11 @@
       "Ishtiaq Ahmad"
     ],
     "posted_date": "2026-12-26",
-    "tax_related": true,
+    "tax_related": false,
     "link": "https://doi.org/10.47363/jdrr/2026(8)209",
     "doi": "10.47363/jdrr/2026(8)209",
-    "fetched_at": "2026-05-12T11:17:50.647049+00:00"
+    "fetched_at": "2026-05-12T11:17:50.647049+00:00",
+    "tax_match_reason": []
   },
   {
     "source_category": "working_paper",
@@ -166,10 +187,11 @@
       "Malancha Dey"
     ],
     "posted_date": "2029-10-01",
-    "tax_related": true,
+    "tax_related": false,
     "link": "https://doi.org/10.30852/sb.2025.2889",
     "doi": "10.30852/sb.2025.2889",
-    "fetched_at": "2026-05-12T11:17:55.851705+00:00"
+    "fetched_at": "2026-05-12T11:17:55.851705+00:00",
+    "tax_match_reason": []
   },
   {
     "source_category": "working_paper",
@@ -186,7 +208,10 @@
     "tax_related": true,
     "link": "https://arxiv.org/abs/2603.15974v2",
     "doi": "",
-    "fetched_at": "2026-05-12T11:18:07.873769+00:00"
+    "fetched_at": "2026-05-12T11:18:07.873769+00:00",
+    "tax_match_reason": [
+      "title:\\btaxes\\b"
+    ]
   },
   {
     "source_category": "working_paper",
@@ -208,7 +233,10 @@
     "tax_related": true,
     "link": "https://arxiv.org/abs/2602.07190v1",
     "doi": "",
-    "fetched_at": "2026-05-12T11:18:07.873769+00:00"
+    "fetched_at": "2026-05-12T11:18:07.873769+00:00",
+    "tax_match_reason": [
+      "abstract:\\bcorporate tax\\b"
+    ]
   },
   {
     "source_category": "working_paper",
@@ -230,7 +258,12 @@
     "tax_related": true,
     "link": "https://arxiv.org/abs/2511.04094v1",
     "doi": "",
-    "fetched_at": "2026-05-12T11:18:12.963593+00:00"
+    "fetched_at": "2026-05-12T11:18:12.963593+00:00",
+    "tax_match_reason": [
+      "title:\\btax\\b",
+      "title:\\btax avoidance\\b",
+      "title:\\bcorporate tax\\b"
+    ]
   },
   {
     "source_category": "working_paper",
@@ -249,7 +282,11 @@
     "tax_related": true,
     "link": "https://arxiv.org/abs/2509.23862v1",
     "doi": "",
-    "fetched_at": "2026-05-12T11:18:07.874776+00:00"
+    "fetched_at": "2026-05-12T11:18:07.874776+00:00",
+    "tax_match_reason": [
+      "title:\\btax\\b",
+      "title:\\bcorporate tax\\b"
+    ]
   },
   {
     "source_category": "working_paper",
@@ -266,7 +303,10 @@
     "tax_related": true,
     "link": "https://arxiv.org/abs/2401.13686v1",
     "doi": "",
-    "fetched_at": "2026-05-12T11:18:07.874776+00:00"
+    "fetched_at": "2026-05-12T11:18:07.874776+00:00",
+    "tax_match_reason": [
+      "title:\\btax\\b"
+    ]
   },
   {
     "source_category": "working_paper",
@@ -283,7 +323,10 @@
     "tax_related": true,
     "link": "https://arxiv.org/abs/2306.08797v1",
     "doi": "",
-    "fetched_at": "2026-05-12T11:18:07.874776+00:00"
+    "fetched_at": "2026-05-12T11:18:07.874776+00:00",
+    "tax_match_reason": [
+      "abstract:\\bcorporate tax\\b"
+    ]
   },
   {
     "source_category": "working_paper",
@@ -300,7 +343,10 @@
     "tax_related": true,
     "link": "https://arxiv.org/abs/2210.15776v1",
     "doi": "",
-    "fetched_at": "2026-05-12T11:18:07.874776+00:00"
+    "fetched_at": "2026-05-12T11:18:07.874776+00:00",
+    "tax_match_reason": [
+      "title:\\btaxes\\b"
+    ]
   },
   {
     "source_category": "working_paper",
@@ -317,7 +363,10 @@
     "tax_related": true,
     "link": "https://arxiv.org/abs/2202.00839v3",
     "doi": "",
-    "fetched_at": "2026-05-12T11:18:07.874776+00:00"
+    "fetched_at": "2026-05-12T11:18:07.874776+00:00",
+    "tax_match_reason": [
+      "abstract:basic_tax_count=8"
+    ]
   },
   {
     "source_category": "working_paper",
@@ -335,7 +384,10 @@
     "tax_related": true,
     "link": "https://arxiv.org/abs/2201.02919v4",
     "doi": "",
-    "fetched_at": "2026-05-12T11:18:07.874776+00:00"
+    "fetched_at": "2026-05-12T11:18:07.874776+00:00",
+    "tax_match_reason": [
+      "title:\\btransfer pricing\\b"
+    ]
   },
   {
     "source_category": "working_paper",
@@ -352,7 +404,11 @@
     "tax_related": true,
     "link": "https://arxiv.org/abs/2111.12799v2",
     "doi": "",
-    "fetched_at": "2026-05-12T11:18:07.874776+00:00"
+    "fetched_at": "2026-05-12T11:18:07.874776+00:00",
+    "tax_match_reason": [
+      "title:\\btax\\b",
+      "title:\\bcorporate tax\\b"
+    ]
   },
   {
     "source_category": "working_paper",
@@ -369,7 +425,10 @@
     "tax_related": true,
     "link": "https://arxiv.org/abs/2106.10844v1",
     "doi": "",
-    "fetched_at": "2026-05-12T11:18:07.874776+00:00"
+    "fetched_at": "2026-05-12T11:18:07.874776+00:00",
+    "tax_match_reason": [
+      "title:\\btax\\b"
+    ]
   },
   {
     "source_category": "working_paper",
@@ -386,7 +445,10 @@
     "tax_related": true,
     "link": "https://arxiv.org/abs/1808.01666v1",
     "doi": "",
-    "fetched_at": "2026-05-12T11:18:07.874776+00:00"
+    "fetched_at": "2026-05-12T11:18:07.874776+00:00",
+    "tax_match_reason": [
+      "title:\\btaxation\\b"
+    ]
   },
   {
     "source_category": "working_paper",
@@ -403,7 +465,12 @@
     "tax_related": true,
     "link": "https://arxiv.org/abs/1509.00136v1",
     "doi": "",
-    "fetched_at": "2026-05-12T11:18:12.963593+00:00"
+    "fetched_at": "2026-05-12T11:18:12.963593+00:00",
+    "tax_match_reason": [
+      "title:\\btax\\b",
+      "title:\\btax avoidance\\b",
+      "title:\\bcorporate tax\\b"
+    ]
   },
   {
     "source_category": "working_paper",
@@ -422,7 +489,10 @@
     "tax_related": true,
     "link": "https://arxiv.org/abs/2509.09415v1",
     "doi": "",
-    "fetched_at": "2026-05-12T11:18:12.963593+00:00"
+    "fetched_at": "2026-05-12T11:18:12.963593+00:00",
+    "tax_match_reason": [
+      "title:\\btaxation\\b"
+    ]
   },
   {
     "source_category": "working_paper",
@@ -441,7 +511,11 @@
     "tax_related": true,
     "link": "https://arxiv.org/abs/2509.08450v1",
     "doi": "",
-    "fetched_at": "2026-05-12T11:18:12.963593+00:00"
+    "fetched_at": "2026-05-12T11:18:12.963593+00:00",
+    "tax_match_reason": [
+      "title:\\btax\\b",
+      "title:\\btax avoidance\\b"
+    ]
   },
   {
     "source_category": "working_paper",
@@ -460,7 +534,10 @@
     "tax_related": true,
     "link": "https://arxiv.org/abs/1912.03781v3",
     "doi": "",
-    "fetched_at": "2026-05-12T11:18:12.963593+00:00"
+    "fetched_at": "2026-05-12T11:18:12.963593+00:00",
+    "tax_match_reason": [
+      "title:\\btax\\b"
+    ]
   },
   {
     "source_category": "working_paper",
@@ -479,7 +556,10 @@
     "tax_related": true,
     "link": "https://arxiv.org/abs/1904.12397v1",
     "doi": "",
-    "fetched_at": "2026-05-12T11:18:12.963593+00:00"
+    "fetched_at": "2026-05-12T11:18:12.963593+00:00",
+    "tax_match_reason": [
+      "abstract:\\btax avoidance\\b"
+    ]
   },
   {
     "source_category": "working_paper",
@@ -498,7 +578,10 @@
     "tax_related": true,
     "link": "https://arxiv.org/abs/1904.09165v1",
     "doi": "",
-    "fetched_at": "2026-05-12T11:18:12.963593+00:00"
+    "fetched_at": "2026-05-12T11:18:12.963593+00:00",
+    "tax_match_reason": [
+      "title:\\btax\\b"
+    ]
   },
   {
     "source_category": "working_paper",
@@ -518,6 +601,9 @@
     "tax_related": true,
     "link": "https://arxiv.org/abs/1703.03016v2",
     "doi": "",
-    "fetched_at": "2026-05-12T11:18:12.963593+00:00"
+    "fetched_at": "2026-05-12T11:18:12.963593+00:00",
+    "tax_match_reason": [
+      "abstract:\\btax avoidance\\b"
+    ]
   }
 ]

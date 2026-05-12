@@ -13,7 +13,6 @@ CONFERENCE_DATA_PATH = ROOT / "data" / "conferences.json"
 SITE_DIR = ROOT / "docs"
 INDEX_PATH = SITE_DIR / "index.html"
 
-
 JOURNAL_ORDER = ["TAR", "JAE", "JAR", "CAR", "RAST"]
 NEW_DAYS = 7
 
@@ -66,7 +65,7 @@ HTML_TEMPLATE = """
     <section id="tax-section" class="major-section tax-section">
       <h2>Tax 期刊文献</h2>
       <p class="section-note">
-        识别依据：标题或摘要中包含 tax、taxation、tax avoidance、ETR、book-tax、tax loss、transfer pricing 等关键词。
+        识别依据：标题或摘要中包含 tax、taxation、tax avoidance、ETR、book-tax、tax loss、transfer pricing 等关键词。已使用更严格规则减少误判。
       </p>
 
       {% if tax_grouped %}
@@ -90,6 +89,10 @@ HTML_TEMPLATE = """
                       <div class="meta">
                         {{ paper.journal }} · {{ paper.section or "Unknown section" }} · {{ paper.published or "No date" }}
                       </div>
+
+                      {% if paper.is_new %}
+                        <span class="new-badge">本周新增</span>
+                      {% endif %}
 
                       <h3>
                         <a href="{{ paper.link }}" target="_blank">
@@ -161,6 +164,10 @@ HTML_TEMPLATE = """
                         {{ paper.journal }} · {{ paper.section or "Unknown section" }} · {{ paper.published or "No date" }}
                       </div>
 
+                      {% if paper.is_new %}
+                        <span class="new-badge">本周新增</span>
+                      {% endif %}
+
                       <h3>
                         <a href="{{ paper.link }}" target="_blank">
                           {{ paper.title_en or paper.title }}
@@ -222,6 +229,10 @@ HTML_TEMPLATE = """
                   {{ paper.source_name }} · {{ paper.posted_date or "No date" }}
                 </div>
 
+                {% if paper.is_new %}
+                  <span class="new-badge">本周新增</span>
+                {% endif %}
+
                 <h3>
                   <a href="{{ paper.link }}" target="_blank">
                     {{ paper.title_en }}
@@ -253,107 +264,115 @@ HTML_TEMPLATE = """
       {% endif %}
     </section>
 
-   <section id="conference-section" class="major-section conference-section">
-  <h2>Tax Conferences / Seminars</h2>
-  <p class="section-note">
-    自动检索税收、税收会计、会计会议、研讨会、征稿信息和 seminar 信息。会议栏目按来源分组，每个来源下再区分最近 {{ new_days }} 天新增条目与近一年归档条目。
-  </p>
+    <section id="conference-section" class="major-section conference-section">
+      <h2>Tax Conferences / Seminars</h2>
+      <p class="section-note">
+        自动检索税收、税收会计、会计会议、研讨会、征稿信息和 seminar 信息。会议栏目按来源分组，每个来源下再区分最近 {{ new_days }} 天新增条目与近一年归档条目。
+      </p>
 
-  {% if conference_by_source %}
-    {% for source_name, groups in conference_by_source.items() %}
-      <details class="journal-block" open>
-        <summary>
-          <span>{{ source_name }}</span>
-          <span>{{ groups.total }} 条</span>
-        </summary>
+      {% if conference_by_source %}
+        {% for source_name, groups in conference_by_source.items() %}
+          <details class="journal-block" open>
+            <summary>
+              <span>{{ source_name }}</span>
+              <span>{{ groups.total }} 条</span>
+            </summary>
 
-        <div class="conference-split">
-          <h3>This Week’s New Items</h3>
-          <p class="mini-note">最近 {{ new_days }} 天首次抓取到的会议、讲座、征稿或相关链接。</p>
+            <div class="conference-split">
+              <h3>This Week’s New Items</h3>
+              <p class="mini-note">最近 {{ new_days }} 天首次抓取到的会议、讲座、征稿或相关链接。</p>
 
-          {% if groups.new %}
-            {% for event in groups.new %}
-              <article class="card conference-card">
-                <div class="meta">
-                  {{ event.source_label or "Conference / Seminar" }} · {{ event.event_date or "No date" }}
-                </div>
+              {% if groups.new %}
+                {% for event in groups.new %}
+                  <article class="card conference-card">
+                    <div class="meta">
+                      {{ event.source_label or "Conference / Seminar" }} · {{ event.event_date or "No date" }}
+                    </div>
 
-                <h3>
-                  <a href="{{ event.link }}" target="_blank">
-                    {{ event.title_en }}
-                  </a>
-                </h3>
+                    {% if event.is_new %}
+                      <span class="new-badge">本周新增</span>
+                    {% endif %}
 
-                <div class="abstract-block">
-                  <h4>Details</h4>
-                  <p>{{ event.description_en or "No detailed description available. Only title/link was detected." }}</p>
-                </div>
+                    <h3>
+                      <a href="{{ event.link }}" target="_blank">
+                        {{ event.title_en }}
+                      </a>
+                    </h3>
 
-                <p class="authors">
-                  First seen: {{ event.first_seen_display or "Unknown" }}
-                  {% if event.last_seen_display %}
-                    · Last seen: {{ event.last_seen_display }}
-                  {% endif %}
-                </p>
+                    <div class="abstract-block">
+                      <h4>Details</h4>
+                      <p>{{ event.description_en or "No detailed description available. Only title/link was detected." }}</p>
+                    </div>
 
-                <p>
-                  <span class="tag conference-tag">{{ event.source_label or "Conference / Seminar" }}</span>
-                  <span class="tag">New</span>
-                  <span class="tag">Score: {{ event.relevance_score or 0 }}</span>
-                </p>
-              </article>
-            {% endfor %}
-          {% else %}
-            <p class="empty">最近 {{ new_days }} 天暂无新增条目。</p>
-          {% endif %}
-        </div>
+                    <p class="authors">
+                      First seen: {{ event.first_seen_display or "Unknown" }}
+                      {% if event.last_seen_display %}
+                        · Last seen: {{ event.last_seen_display }}
+                      {% endif %}
+                    </p>
 
-        <div class="conference-split archive-split">
-          <h3>Past-Year Archive</h3>
-          <p class="mini-note">过去一年内已检索到、但不属于最近 {{ new_days }} 天新增的会议、讲座、征稿或相关链接。</p>
+                    <p>
+                      <span class="tag conference-tag">{{ event.source_label or "Conference / Seminar" }}</span>
+                      <span class="tag">New</span>
+                      <span class="tag">Score: {{ event.relevance_score or 0 }}</span>
+                    </p>
+                  </article>
+                {% endfor %}
+              {% else %}
+                <p class="empty">最近 {{ new_days }} 天暂无新增条目。</p>
+              {% endif %}
+            </div>
 
-          {% if groups.archive %}
-            {% for event in groups.archive %}
-              <article class="card conference-card">
-                <div class="meta">
-                  {{ event.source_label or "Conference / Seminar" }} · {{ event.event_date or "No date" }}
-                </div>
+            <div class="conference-split archive-split">
+              <h3>Past-Year Archive</h3>
+              <p class="mini-note">过去一年内已检索到、但不属于最近 {{ new_days }} 天新增的会议、讲座、征稿或相关链接。</p>
 
-                <h3>
-                  <a href="{{ event.link }}" target="_blank">
-                    {{ event.title_en }}
-                  </a>
-                </h3>
+              {% if groups.archive %}
+                {% for event in groups.archive %}
+                  <article class="card conference-card">
+                    <div class="meta">
+                      {{ event.source_label or "Conference / Seminar" }} · {{ event.event_date or "No date" }}
+                    </div>
 
-                <div class="abstract-block">
-                  <h4>Details</h4>
-                  <p>{{ event.description_en or "No detailed description available. Only title/link was detected." }}</p>
-                </div>
+                    {% if event.is_new %}
+                      <span class="new-badge">本周新增</span>
+                    {% endif %}
 
-                <p class="authors">
-                  First seen: {{ event.first_seen_display or "Unknown" }}
-                  {% if event.last_seen_display %}
-                    · Last seen: {{ event.last_seen_display }}
-                  {% endif %}
-                </p>
+                    <h3>
+                      <a href="{{ event.link }}" target="_blank">
+                        {{ event.title_en }}
+                      </a>
+                    </h3>
 
-                <p>
-                  <span class="tag conference-tag">{{ event.source_label or "Conference / Seminar" }}</span>
-                  <span class="tag">Archive</span>
-                  <span class="tag">Score: {{ event.relevance_score or 0 }}</span>
-                </p>
-              </article>
-            {% endfor %}
-          {% else %}
-            <p class="empty">近一年归档中暂无旧条目。当前数据都是最近 {{ new_days }} 天首次抓取到的内容，下一周更新后会自动进入归档。</p>
-          {% endif %}
-        </div>
-      </details>
-    {% endfor %}
-  {% else %}
-    <p class="empty">当前暂无 Tax Conferences / Seminars 数据。</p>
-  {% endif %}
-</section>
+                    <div class="abstract-block">
+                      <h4>Details</h4>
+                      <p>{{ event.description_en or "No detailed description available. Only title/link was detected." }}</p>
+                    </div>
+
+                    <p class="authors">
+                      First seen: {{ event.first_seen_display or "Unknown" }}
+                      {% if event.last_seen_display %}
+                        · Last seen: {{ event.last_seen_display }}
+                      {% endif %}
+                    </p>
+
+                    <p>
+                      <span class="tag conference-tag">{{ event.source_label or "Conference / Seminar" }}</span>
+                      <span class="tag">Archive</span>
+                      <span class="tag">Score: {{ event.relevance_score or 0 }}</span>
+                    </p>
+                  </article>
+                {% endfor %}
+              {% else %}
+                <p class="empty">近一年归档中暂无旧条目。当前数据都是最近 {{ new_days }} 天首次抓取到的内容，下一周更新后会自动进入归档。</p>
+              {% endif %}
+            </div>
+          </details>
+        {% endfor %}
+      {% else %}
+        <p class="empty">当前暂无 Tax Conferences / Seminars 数据。</p>
+      {% endif %}
+    </section>
   </main>
 </body>
 </html>
@@ -385,6 +404,19 @@ def display_date(value):
     return dt.strftime("%Y-%m-%d")
 
 
+def mark_is_new(item):
+    if not item.get("first_seen"):
+        item["first_seen"] = item.get("fetched_at", "")
+
+    first_seen = parse_dt(item.get("first_seen"))
+    if first_seen:
+        item["is_new"] = first_seen >= datetime.now(timezone.utc) - timedelta(days=NEW_DAYS)
+    else:
+        item["is_new"] = False
+
+    return item
+
+
 def normalize_journal_papers(papers):
     normalized = []
 
@@ -405,6 +437,7 @@ def normalize_journal_papers(papers):
         paper.setdefault("published", "")
         paper.setdefault("link", "")
 
+        mark_is_new(paper)
         normalized.append(paper)
 
     return normalized
@@ -423,6 +456,7 @@ def normalize_working_papers(papers):
         paper.setdefault("tax_related", True)
         paper.setdefault("link", "")
 
+        mark_is_new(paper)
         normalized.append(paper)
 
     return normalized
@@ -451,6 +485,8 @@ def normalize_conferences(events):
 
         event["first_seen_display"] = display_date(event.get("first_seen"))
         event["last_seen_display"] = display_date(event.get("last_seen"))
+
+        mark_is_new(event)
 
         if event.get("description_en") and len(event["description_en"]) > 500:
             event["description_en"] = event["description_en"][:500] + "..."
@@ -490,26 +526,7 @@ def group_by_source(items):
     return dict(grouped)
 
 
-def split_conferences(events):
-    now = datetime.now(timezone.utc)
-    cutoff = now - timedelta(days=NEW_DAYS)
-
-    new_items = []
-    archive_items = []
-
-    for event in events:
-        first_seen = parse_dt(event.get("first_seen") or event.get("fetched_at"))
-
-        if first_seen and first_seen >= cutoff:
-            new_items.append(event)
-        else:
-            archive_items.append(event)
-
-    return new_items, archive_items
 def group_conferences_by_source_with_new_archive(events):
-    now = datetime.now(timezone.utc)
-    cutoff = now - timedelta(days=NEW_DAYS)
-
     grouped = {}
 
     for event in events:
@@ -522,9 +539,7 @@ def group_conferences_by_source_with_new_archive(events):
                 "total": 0
             }
 
-        first_seen = parse_dt(event.get("first_seen") or event.get("fetched_at"))
-
-        if first_seen and first_seen >= cutoff:
+        if event.get("is_new"):
             grouped[source_name]["new"].append(event)
         else:
             grouped[source_name]["archive"].append(event)
@@ -532,6 +547,7 @@ def group_conferences_by_source_with_new_archive(events):
         grouped[source_name]["total"] += 1
 
     return grouped
+
 
 def main():
     journal_papers = normalize_journal_papers(load_json(JOURNAL_DATA_PATH))
@@ -559,8 +575,6 @@ def main():
         reverse=True
     )
 
-    conference_by_source = group_conferences_by_source_with_new_archive(conferences)
-
     tax_papers = [p for p in journal_papers if p.get("tax_related")]
     non_tax_papers = [p for p in journal_papers if not p.get("tax_related")]
 
@@ -571,7 +585,7 @@ def main():
     journal_counts_non_tax = count_by_journal(non_tax_grouped)
 
     working_grouped = group_by_source(working_papers)
-   
+    conference_by_source = group_conferences_by_source_with_new_archive(conferences)
 
     template = Template(HTML_TEMPLATE)
     html = template.render(

@@ -116,7 +116,33 @@ def extract_date_from_metadata(text):
 
 def is_tax_related(title, abstract):
     text = f"{title} {abstract}".lower()
-    return any(keyword in text for keyword in TAX_KEYWORDS)
+
+    tax_patterns = [
+        r"\btax\b",
+        r"\btaxes\b",
+        r"\btaxation\b",
+        r"\btaxable\b",
+        r"\btaxpayer[s]?\b",
+        r"\btax avoidance\b",
+        r"\btax aggressiveness\b",
+        r"\btax planning\b",
+        r"\btax enforcement\b",
+        r"\btax compliance\b",
+        r"\btax policy\b",
+        r"\btax disclosure\b",
+        r"\btax haven[s]?\b",
+        r"\bbook[- ]tax\b",
+        r"\beffective tax rate[s]?\b",
+        r"\bdeferred tax\b",
+        r"\btax loss(?:es)?\b",
+        r"\bnol[s]?\b",
+        r"\btransfer pricing\b",
+        r"\bcorporate tax\b",
+        r"\bincome tax\b",
+        r"\birs\b"
+    ]
+
+    return any(re.search(pattern, text) for pattern in tax_patterns)
 
 
 def infer_method(title, abstract):

@@ -556,3 +556,14 @@ main {
   border: 1px solid #e2e8f0;
   font-size: 14px;
 }
+.new-badge {
+  display: inline-block;
+  margin: 10px 0 6px;
+  padding: 6px 12px;
+  border-radius: 999px;
+  background: #dcfce7;
+  color: #166534;
+  border: 1px solid #86efac;
+  font-size: 13px;
+  font-weight: 800;
+}

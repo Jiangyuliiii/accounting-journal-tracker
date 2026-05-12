@@ -1,4 +1,5 @@
 import json
+import re
 from pathlib import Path
 from datetime import datetime, timezone
 from urllib.parse import quote_plus
@@ -47,7 +48,32 @@ def contains_any(text, keywords):
 def is_relevant_tax_working_paper(title, abstract):
     text = f"{title} {abstract}".lower()
 
-    has_tax = contains_any(text, TAX_KEYWORDS)
+    tax_patterns = [
+        r"\btax\b",
+        r"\btaxes\b",
+        r"\btaxation\b",
+        r"\btaxable\b",
+        r"\btaxpayer[s]?\b",
+        r"\btax avoidance\b",
+        r"\btax aggressiveness\b",
+        r"\btax planning\b",
+        r"\btax enforcement\b",
+        r"\btax compliance\b",
+        r"\btax policy\b",
+        r"\btax disclosure\b",
+        r"\btax haven[s]?\b",
+        r"\bbook[- ]tax\b",
+        r"\beffective tax rate[s]?\b",
+        r"\bdeferred tax\b",
+        r"\btax loss(?:es)?\b",
+        r"\bnol[s]?\b",
+        r"\btransfer pricing\b",
+        r"\bcorporate tax\b",
+        r"\bincome tax\b",
+        r"\birs\b"
+    ]
+
+    has_tax = any(re.search(pattern, text) for pattern in tax_patterns)
     has_accounting_or_econ = contains_any(text, ACCOUNTING_ECON_KEYWORDS)
 
     return has_tax and has_accounting_or_econ
