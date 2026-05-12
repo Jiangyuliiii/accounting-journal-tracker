@@ -10,7 +10,7 @@ ROOT = Path(__file__).resolve().parents[1]
 JOURNAL_DATA_PATH = ROOT / "data" / "papers.json"
 WORKING_PAPER_DATA_PATH = ROOT / "data" / "working_papers.json"
 CONFERENCE_DATA_PATH = ROOT / "data" / "conferences.json"
-SITE_DIR = ROOT / "site"
+SITE_DIR = ROOT / "docs"
 INDEX_PATH = SITE_DIR / "index.html"
 
 
