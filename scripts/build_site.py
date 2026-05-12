@@ -272,7 +272,7 @@ HTML_TEMPLATE = """
 
       {% if conference_by_source %}
         {% for source_name, groups in conference_by_source.items() %}
-          <details class="journal-block" open>
+          <details class="journal-block">
             <summary>
               <span>{{ source_name }}</span>
               <span>{{ groups.total }} 条</span>
