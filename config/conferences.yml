@@ -1,0 +1,55 @@
+sources:
+  - id: ATA_MIDYEAR
+    name: American Taxation Association Midyear Meeting
+    source_type: webpage
+    url: https://aaahq.org/Meetings/2026/ATA-Midyear-Meeting
+    source_label: Conference
+    keywords:
+      - tax
+      - taxation
+      - tax accounting
+      - tax avoidance
+      - tax compliance
+      - tax policy
+      - tax enforcement
+      - transfer pricing
+
+  - id: AAA_CALLS
+    name: AAA Calls for Submissions
+    source_type: webpage
+    url: https://aaahq.org/Research/Calls-for-Submissions
+    source_label: Call for Papers
+    keywords:
+      - tax
+      - taxation
+      - tax accounting
+      - conference
+      - workshop
+      - symposium
+      - call for papers
+
+  - id: EAA_CONGRESS
+    name: European Accounting Association Congress
+    source_type: webpage
+    url: https://eaa-online.org/congress-2026/
+    source_label: Conference
+    keywords:
+      - tax
+      - taxation
+      - tax accounting
+      - accounting conference
+      - congress
+
+  - id: SSRN_ANNOUNCEMENTS
+    name: SSRN Accounting Research Network Announcements
+    source_type: webpage
+    url: https://www.ssrn.com/index.cfm/en/janda/professional-announcements/?annsNet=204
+    source_label: Announcement
+    keywords:
+      - tax
+      - taxation
+      - accounting
+      - conference
+      - seminar
+      - workshop
+      - symposium

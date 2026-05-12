@@ -1,0 +1,26 @@
+sources:
+  - id: CROSSREF
+    name: Crossref Working Papers / Posted Content
+    source_type: api
+    url: https://api.crossref.org/works
+    queries:
+      - tax accounting
+      - tax avoidance accounting
+      - corporate tax disclosure
+      - book-tax differences
+      - effective tax rate
+      - tax compliance firms
+      - tax enforcement accounting
+      - tax aggressiveness
+      - tax loss carryforward
+      - transfer pricing accounting
+
+  - id: ARXIV
+    name: arXiv
+    source_type: api
+    url: http://export.arxiv.org/api/query
+    queries:
+      - tax accounting
+      - corporate tax
+      - tax avoidance
+      - taxation economics

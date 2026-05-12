@@ -1,0 +1,50 @@
+journals:
+  - id: TAR
+    name: The Accounting Review
+    sections:
+      - label: Early Access
+        source_type: webpage
+        url: https://publications.aaahq.org/accounting-review/publish-ahead-of-print
+      - label: Journal Home
+        source_type: webpage
+        url: https://publications.aaahq.org/accounting-review
+
+  - id: JAE
+    name: Journal of Accounting and Economics
+    sections:
+      - label: Articles in Press
+        source_type: webpage
+        url: https://www.sciencedirect.com/journal/journal-of-accounting-and-economics/articles-in-press
+      - label: RSS / Latest Articles
+        source_type: rss
+        url: https://rss.sciencedirect.com/publication/science/01654101
+
+  - id: JAR
+    name: Journal of Accounting Research
+    sections:
+      - label: Most Recent RSS
+        source_type: rss
+        url: https://onlinelibrary.wiley.com/feed/1475679x/most-recent
+      - label: Journal Home
+        source_type: webpage
+        url: https://onlinelibrary.wiley.com/journal/1475679x
+
+  - id: CAR
+    name: Contemporary Accounting Research
+    sections:
+      - label: Early View
+        source_type: webpage
+        url: https://onlinelibrary.wiley.com/toc/19113846/0/0
+      - label: Most Recent RSS
+        source_type: rss
+        url: https://onlinelibrary.wiley.com/feed/19113846/most-recent
+
+  - id: RAST
+    name: Review of Accounting Studies
+    sections:
+      - label: Online First
+        source_type: webpage
+        url: https://link.springer.com/journal/11142/online-first
+      - label: Latest Articles
+        source_type: webpage
+        url: https://link.springer.com/journal/11142/articles

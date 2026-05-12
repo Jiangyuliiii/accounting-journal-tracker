@@ -1,0 +1,558 @@
+:root {
+  --bg: #f3f7fc;
+  --text: #172033;
+  --muted: #64748b;
+  --card: #ffffff;
+  --line: #e5e7eb;
+
+  --navy: #0f2a55;
+  --navy-dark: #0b1f3f;
+  --soft-blue: #eaf3ff;
+
+  --tax: #b91c1c;
+  --journal: #2563eb;
+  --working: #047857;
+  --conference: #7c3aed;
+
+  --soft-tax: #fff5f5;
+  --soft-journal: #f4f8ff;
+  --soft-working: #f2fbf7;
+  --soft-conference: #fbf8ff;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Microsoft YaHei", sans-serif;
+  margin: 0;
+  background:
+    radial-gradient(circle at top left, rgba(37, 99, 235, 0.11), transparent 32%),
+    radial-gradient(circle at top right, rgba(124, 58, 237, 0.08), transparent 30%),
+    var(--bg);
+  color: var(--text);
+}
+
+/* 顶部介绍 */
+header {
+  background: linear-gradient(135deg, #0b1f3f 0%, #0f2a55 52%, #143a70 100%);
+  color: white;
+  padding: 54px 0 76px;
+  position: relative;
+  overflow: hidden;
+}
+
+header::after {
+  content: "";
+  position: absolute;
+  right: -110px;
+  top: -130px;
+  width: 360px;
+  height: 360px;
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.08);
+}
+
+header::before {
+  content: "";
+  position: absolute;
+  left: -120px;
+  bottom: -160px;
+  width: 340px;
+  height: 340px;
+  border-radius: 999px;
+  background: rgba(147, 197, 253, 0.12);
+}
+
+header h1,
+header p {
+  max-width: 1180px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 30px;
+  padding-right: 30px;
+  position: relative;
+  z-index: 1;
+}
+
+header h1 {
+  margin-top: 0;
+  margin-bottom: 18px;
+  font-size: 41px;
+  line-height: 1.12;
+  letter-spacing: -0.045em;
+}
+
+header p {
+  margin-top: 8px;
+  margin-bottom: 8px;
+  font-size: 17px;
+  color: #dbeafe;
+  max-width: 1040px;
+}
+
+.updated {
+  color: #bfdbfe;
+  font-size: 14px;
+  margin-top: 18px;
+}
+
+/* 主体布局 */
+main {
+  max-width: 1180px;
+  margin: 0 auto 80px;
+  padding: 0 30px;
+}
+
+/* 顶部数量统计：浅蓝小卡片 */
+.summary {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(150px, 1fr));
+  gap: 16px;
+  margin: -38px 0 28px;
+  position: relative;
+  z-index: 2;
+}
+
+.summary div {
+  background: var(--soft-blue);
+  border: 1px solid #bfdbfe;
+  border-radius: 18px;
+  padding: 17px 20px;
+  box-shadow: 0 12px 28px rgba(15, 42, 85, 0.10);
+}
+
+.summary strong {
+  display: block;
+  font-size: 28px;
+  line-height: 1;
+  margin-bottom: 7px;
+  letter-spacing: -0.035em;
+  color: var(--navy);
+}
+
+.summary span {
+  color: #355581;
+  font-size: 14px;
+  font-weight: 700;
+}
+
+/* 顶部四类入口：深蓝椭圆 */
+.top-tabs {
+  display: flex;
+  gap: 13px;
+  margin: 28px 0 36px;
+  flex-wrap: wrap;
+}
+
+.top-tabs a {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  background: var(--navy);
+  color: white;
+  text-decoration: none;
+  padding: 12px 20px;
+  border-radius: 999px;
+  font-weight: 800;
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  box-shadow: 0 9px 18px rgba(15, 42, 85, 0.18);
+  transition: transform 0.15s ease, box-shadow 0.15s ease, background 0.15s ease;
+}
+
+.top-tabs a:hover {
+  transform: translateY(-2px);
+  background: var(--navy-dark);
+  box-shadow: 0 13px 26px rgba(15, 42, 85, 0.24);
+}
+
+/* 大板块 */
+.major-section {
+  margin-top: 36px;
+  background: rgba(255, 255, 255, 0.98);
+  border-radius: 28px;
+  padding: 32px;
+  border: 1px solid rgba(226, 232, 240, 0.95);
+  box-shadow: 0 16px 42px rgba(15, 23, 42, 0.07);
+}
+
+.major-section h2 {
+  margin-top: 0;
+  margin-bottom: 14px;
+  font-size: 30px;
+  letter-spacing: -0.035em;
+}
+
+/* 不同板块用不同颜色线条划分 */
+.tax-section {
+  border-top: 10px solid var(--tax);
+  background: linear-gradient(180deg, #ffffff 0%, var(--soft-tax) 100%);
+}
+
+.non-tax-section {
+  border-top: 10px solid var(--journal);
+  background: linear-gradient(180deg, #ffffff 0%, var(--soft-journal) 100%);
+}
+
+.working-section {
+  border-top: 10px solid var(--working);
+  background: linear-gradient(180deg, #ffffff 0%, var(--soft-working) 100%);
+}
+
+.conference-section {
+  border-top: 10px solid var(--conference);
+  background: linear-gradient(180deg, #ffffff 0%, var(--soft-conference) 100%);
+}
+
+/* 识别依据：白色气泡 */
+.section-note {
+  display: inline-block;
+  color: #475569;
+  background: #ffffff;
+  border: 1px solid #e2e8f0;
+  border-radius: 18px;
+  padding: 14px 18px;
+  margin: 0 0 24px;
+  line-height: 1.75;
+  max-width: 960px;
+  box-shadow: 0 8px 20px rgba(15, 23, 42, 0.05);
+}
+
+/* 可展开来源块 */
+.journal-block {
+  margin: 18px 0;
+  border-radius: 20px;
+  overflow: hidden;
+  background: #f8fafc;
+  border: 2px solid #dbeafe;
+}
+
+/* 每个板块下的 JAE 7篇 外框颜色跟线条一致 */
+.tax-section .journal-block {
+  border-color: rgba(185, 28, 28, 0.38);
+}
+
+.non-tax-section .journal-block {
+  border-color: rgba(37, 99, 235, 0.38);
+}
+
+.working-section .journal-block {
+  border-color: rgba(4, 120, 87, 0.38);
+}
+
+.conference-section .journal-block {
+  border-color: rgba(124, 58, 237, 0.38);
+}
+
+.journal-block summary {
+  cursor: pointer;
+  padding: 18px 23px;
+  font-size: 19px;
+  font-weight: 900;
+  background: #ffffff;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: #0f172a;
+  list-style-position: inside;
+}
+
+.tax-section .journal-block summary {
+  background: linear-gradient(90deg, #fffafa, #ffffff);
+}
+
+.non-tax-section .journal-block summary {
+  background: linear-gradient(90deg, #f5f9ff, #ffffff);
+}
+
+.working-section .journal-block summary {
+  background: linear-gradient(90deg, #f2fbf7, #ffffff);
+}
+
+.conference-section .journal-block summary {
+  background: linear-gradient(90deg, #fbf8ff, #ffffff);
+}
+
+.journal-block summary:hover {
+  filter: brightness(0.98);
+}
+
+.journal-block summary span:last-child {
+  font-size: 14px;
+  color: var(--navy);
+  background: #f8fafc;
+  padding: 6px 11px;
+  border-radius: 999px;
+  border: 1px solid #dbeafe;
+}
+
+/* 文献卡片 */
+.card {
+  background: white;
+  border-radius: 20px;
+  padding: 25px 26px;
+  margin: 18px;
+  border: 1px solid #eef2f7;
+  box-shadow: 0 10px 26px rgba(15, 23, 42, 0.065);
+}
+
+.tax-card {
+  border-left: 7px solid var(--tax);
+}
+
+.working-card {
+  border-left: 7px solid var(--working);
+}
+
+.conference-card {
+  border-left: 7px solid var(--conference);
+}
+
+.card h3 {
+  margin: 12px 0 18px;
+  font-size: 21px;
+  line-height: 1.45;
+  letter-spacing: -0.015em;
+}
+
+.card a {
+  color: #1d4ed8;
+  text-decoration: none;
+}
+
+.card a:hover {
+  text-decoration: underline;
+}
+
+.meta {
+  display: inline-block;
+  color: #355581;
+  background: #eef6ff;
+  font-size: 13px;
+  line-height: 1.5;
+  padding: 6px 11px;
+  border-radius: 999px;
+  border: 1px solid #dbeafe;
+}
+
+.authors {
+  color: #475569;
+  font-size: 14px;
+  margin-top: 18px;
+  line-height: 1.6;
+}
+
+/* 摘要和来源信息 */
+.abstract-block,
+.source-info {
+  border-radius: 16px;
+  padding: 16px 18px;
+  margin: 14px 0;
+  border: 1px solid #e5e7eb;
+}
+
+.abstract-block {
+  background: #f8fafc;
+}
+
+.source-info {
+  background: #fff7ed;
+}
+
+.abstract-block h4,
+.source-info h4 {
+  margin: 0 0 9px;
+  font-size: 15px;
+  color: #334155;
+  letter-spacing: -0.01em;
+}
+
+.abstract-block p,
+.source-info p {
+  margin: 0;
+  line-height: 1.78;
+  color: #1f2937;
+}
+
+/* 标签 */
+.tag {
+  display: inline-block;
+  background: #e5e7eb;
+  color: #374151;
+  padding: 7px 12px;
+  border-radius: 999px;
+  font-size: 13px;
+  font-weight: 700;
+  margin-right: 6px;
+  margin-top: 4px;
+}
+
+.tax-tag {
+  background: #fee2e2;
+  color: #991b1b;
+}
+
+.conference-tag {
+  background: #ede9fe;
+  color: #5b21b6;
+}
+
+.empty {
+  color: #64748b;
+  background: #ffffff;
+  padding: 18px;
+  border-radius: 16px;
+  border: 1px solid #e5e7eb;
+}
+
+/* 小屏适配 */
+@media (max-width: 980px) {
+  .summary {
+    grid-template-columns: repeat(2, minmax(150px, 1fr));
+  }
+
+  header h1 {
+    font-size: 36px;
+  }
+}
+
+@media (max-width: 640px) {
+  header {
+    padding: 40px 0 70px;
+  }
+
+  header h1,
+  header p {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
+  header h1 {
+    font-size: 30px;
+  }
+
+  main {
+    padding: 0 18px;
+  }
+
+  .summary {
+    grid-template-columns: 1fr;
+    margin-top: -38px;
+  }
+
+  .major-section {
+    padding: 22px;
+    border-radius: 22px;
+  }
+
+  .card {
+    margin: 14px;
+    padding: 19px;
+  }
+
+  .journal-block summary {
+    font-size: 17px;
+    padding: 16px 18px;
+  }
+
+  .top-tabs a {
+    width: 100%;
+  }
+}
+.section-subgroup {
+  margin: 18px;
+  padding: 16px 0 2px;
+  border-radius: 18px;
+  background: rgba(248, 250, 252, 0.7);
+}
+
+.section-subtitle {
+  margin: 0 18px 14px;
+  padding: 12px 15px;
+  border-radius: 14px;
+  background: white;
+  border: 1px solid #e2e8f0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-weight: 850;
+  color: #0f2a55;
+  box-shadow: 0 6px 16px rgba(15, 42, 85, 0.05);
+}
+
+.section-subtitle span:first-child {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.section-subtitle span:first-child::before {
+  content: "";
+  width: 9px;
+  height: 9px;
+  border-radius: 999px;
+  background: currentColor;
+}
+
+.section-subtitle span:last-child {
+  font-size: 13px;
+  color: #355581;
+  background: #eef6ff;
+  padding: 5px 10px;
+  border-radius: 999px;
+}
+
+.tax-section .section-subtitle {
+  border-color: rgba(185, 28, 28, 0.28);
+  color: #991b1b;
+}
+
+.non-tax-section .section-subtitle {
+  border-color: rgba(37, 99, 235, 0.28);
+  color: #1d4ed8;
+}
+
+.working-section .section-subtitle {
+  border-color: rgba(4, 120, 87, 0.28);
+  color: #047857;
+}
+
+.conference-section .section-subtitle {
+  border-color: rgba(124, 58, 237, 0.28);
+  color: #6d28d9;
+}
+.conference-split {
+  margin-top: 22px;
+  padding: 20px;
+  border-radius: 22px;
+  background: rgba(255, 255, 255, 0.72);
+  border: 1px solid rgba(124, 58, 237, 0.22);
+}
+
+.conference-split h3 {
+  margin: 0 0 8px;
+  color: #5b21b6;
+  font-size: 22px;
+  letter-spacing: -0.02em;
+}
+
+.archive-split {
+  margin-top: 28px;
+  background: rgba(248, 250, 252, 0.8);
+}
+
+.mini-note {
+  display: inline-block;
+  margin: 0 0 18px;
+  padding: 10px 14px;
+  border-radius: 999px;
+  background: white;
+  color: #64748b;
+  border: 1px solid #e2e8f0;
+  font-size: 14px;
+}

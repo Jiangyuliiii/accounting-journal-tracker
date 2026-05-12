@@ -1,0 +1,6 @@
+feedparser
+pyyaml
+requests
+beautifulsoup4
+jinja2
+python-dateutil
