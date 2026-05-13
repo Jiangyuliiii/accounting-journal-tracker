@@ -13,7 +13,7 @@ CONFERENCE_DATA_PATH = ROOT / "data" / "conferences.json"
 SITE_DIR = ROOT / "docs"
 INDEX_PATH = SITE_DIR / "index.html"
 
-JOURNAL_ORDER = ["TAR", "JAE", "JAR", "CAR", "RAST"]
+JOURNAL_ORDER = ["TAR", "JAE", "JAR", "CAR", "RAS"]
 NEW_DAYS = 7
 
 
@@ -29,9 +29,9 @@ HTML_TEMPLATE = """
 <body>
   <header>
     <h1>Accounting & Tax Research Weekly Tracker</h1>
-    <p>这是江小毛建立的学术研究辅助网站，用于自己的会计学与税收方向论文写作。</p>
-    <p>网站主要进行一键式会计学五大期刊最新文献追踪，方便快速浏览前沿动态。</p>
-    <p>优先追踪 Early Access / Articles in Press / Online First / Most Recent，并单独整理 Tax working papers 与 Tax conferences/seminars。</p>
+    <p>这里是江小毛博士建立的文献阅读辅助网站，用于自己的税务会计研究。</p>
+<p>本网站定期对会计学五大期刊最新文献进行一键追踪，方便快速浏览会计学前沿动态，每周一 8:00 进行更新。</p>
+<p>工作论文和学术会议板块还比较粗糙，目前以文献追踪功能为主。</p>
     <p class="updated">Last updated: {{ updated_at }}</p>
   </header>
 
@@ -73,7 +73,7 @@ HTML_TEMPLATE = """
           {% if tax_grouped.get(journal_id) %}
             <details class="journal-block">
               <summary>
-                <span>{{ journal_id }}</span>
+                <span>{{ journal_labels.get(journal_id, journal_id) }}</span>
                 <span>{{ journal_counts_tax[journal_id] }} 篇</span>
               </summary>
 
@@ -147,7 +147,7 @@ HTML_TEMPLATE = """
           {% if non_tax_grouped.get(journal_id) %}
             <details class="journal-block">
               <summary>
-                <span>{{ journal_id }}</span>
+                <span>{{ journal_labels.get(journal_id, journal_id) }}</span>
                 <span>{{ journal_counts_non_tax[journal_id] }} 篇</span>
               </summary>
 
@@ -602,6 +602,7 @@ def main():
         working_grouped=working_grouped,
         conference_by_source=conference_by_source,
         journal_order=JOURNAL_ORDER,
+        journal_labels=JOURNAL_LABELS,
         new_days=NEW_DAYS
     )
 
