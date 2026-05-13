@@ -13,7 +13,16 @@ CONFERENCE_DATA_PATH = ROOT / "data" / "conferences.json"
 SITE_DIR = ROOT / "docs"
 INDEX_PATH = SITE_DIR / "index.html"
 
-JOURNAL_ORDER = ["TAR", "JAE", "JAR", "CAR", "RAS"]
+JOURNAL_ORDER = ["TAR", "JAE", "JAR", "CAR", "RAST"]
+
+JOURNAL_LABELS = {
+    "TAR": "TAR",
+    "JAE": "JAE",
+    "JAR": "JAR",
+    "CAR": "CAR",
+    "RAST": "RAS"
+}
+
 NEW_DAYS = 7
 
 
