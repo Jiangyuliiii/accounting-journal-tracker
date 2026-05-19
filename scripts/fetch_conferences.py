@@ -382,7 +382,7 @@ def main():
             print(f"  failed: {e}")
 
     # 为了避免旧噪音越积越多，这里不合并旧数据，直接用本轮结果覆盖
-   new_cleaned = deduplicate(all_new)
+new_cleaned = deduplicate(all_new)
 new_cleaned = limit_per_source(new_cleaned)
 
 existing = load_existing()
