@@ -259,7 +259,7 @@ def fetch_source_page(source):
 
 def load_existing():
     def item_key(event):
-    return event.get("link") or event.get("title_en")
+        return event.get("link") or event.get("title_en")
 
 
 def parse_dt(value):
