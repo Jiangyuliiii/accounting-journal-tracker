@@ -15,11 +15,7 @@
     "tax_related": true,
     "link": "https://doi.org/10.1504/ijmfa.2027.10070040",
     "doi": "10.1504/ijmfa.2027.10070040",
-    "fetched_at": "2026-05-12T11:17:55.851705+00:00",
-    "tax_match_reason": [
-      "title:\\btax\\b",
-      "title:\\btax avoidance\\b"
-    ]
+    "fetched_at": "2026-06-04T01:11:07.595925+00:00"
   },
   {
     "source_category": "working_paper",
@@ -208,10 +204,7 @@
     "tax_related": true,
     "link": "https://arxiv.org/abs/2603.15974v2",
     "doi": "",
-    "fetched_at": "2026-05-12T11:18:07.873769+00:00",
-    "tax_match_reason": [
-      "title:\\btaxes\\b"
-    ]
+    "fetched_at": "2026-06-04T01:11:08.493318+00:00"
   },
   {
     "source_category": "working_paper",
@@ -233,10 +226,7 @@
     "tax_related": true,
     "link": "https://arxiv.org/abs/2602.07190v1",
     "doi": "",
-    "fetched_at": "2026-05-12T11:18:07.873769+00:00",
-    "tax_match_reason": [
-      "abstract:\\bcorporate tax\\b"
-    ]
+    "fetched_at": "2026-06-04T01:11:08.493537+00:00"
   },
   {
     "source_category": "working_paper",
@@ -258,12 +248,7 @@
     "tax_related": true,
     "link": "https://arxiv.org/abs/2511.04094v1",
     "doi": "",
-    "fetched_at": "2026-05-12T11:18:12.963593+00:00",
-    "tax_match_reason": [
-      "title:\\btax\\b",
-      "title:\\btax avoidance\\b",
-      "title:\\bcorporate tax\\b"
-    ]
+    "fetched_at": "2026-06-04T01:11:08.580985+00:00"
   },
   {
     "source_category": "working_paper",
@@ -282,11 +267,7 @@
     "tax_related": true,
     "link": "https://arxiv.org/abs/2509.23862v1",
     "doi": "",
-    "fetched_at": "2026-05-12T11:18:07.874776+00:00",
-    "tax_match_reason": [
-      "title:\\btax\\b",
-      "title:\\bcorporate tax\\b"
-    ]
+    "fetched_at": "2026-06-04T01:11:08.493815+00:00"
   },
   {
     "source_category": "working_paper",
@@ -303,10 +284,7 @@
     "tax_related": true,
     "link": "https://arxiv.org/abs/2401.13686v1",
     "doi": "",
-    "fetched_at": "2026-05-12T11:18:07.874776+00:00",
-    "tax_match_reason": [
-      "title:\\btax\\b"
-    ]
+    "fetched_at": "2026-06-04T01:11:08.493948+00:00"
   },
   {
     "source_category": "working_paper",
@@ -323,10 +301,7 @@
     "tax_related": true,
     "link": "https://arxiv.org/abs/2306.08797v1",
     "doi": "",
-    "fetched_at": "2026-05-12T11:18:07.874776+00:00",
-    "tax_match_reason": [
-      "abstract:\\bcorporate tax\\b"
-    ]
+    "fetched_at": "2026-06-04T01:11:08.494154+00:00"
   },
   {
     "source_category": "working_paper",
@@ -343,10 +318,7 @@
     "tax_related": true,
     "link": "https://arxiv.org/abs/2210.15776v1",
     "doi": "",
-    "fetched_at": "2026-05-12T11:18:07.874776+00:00",
-    "tax_match_reason": [
-      "title:\\btaxes\\b"
-    ]
+    "fetched_at": "2026-06-04T01:11:08.494316+00:00"
   },
   {
     "source_category": "working_paper",
@@ -363,10 +335,7 @@
     "tax_related": true,
     "link": "https://arxiv.org/abs/2202.00839v3",
     "doi": "",
-    "fetched_at": "2026-05-12T11:18:07.874776+00:00",
-    "tax_match_reason": [
-      "abstract:basic_tax_count=8"
-    ]
+    "fetched_at": "2026-06-04T01:11:08.494451+00:00"
   },
   {
     "source_category": "working_paper",
@@ -384,10 +353,7 @@
     "tax_related": true,
     "link": "https://arxiv.org/abs/2201.02919v4",
     "doi": "",
-    "fetched_at": "2026-05-12T11:18:07.874776+00:00",
-    "tax_match_reason": [
-      "title:\\btransfer pricing\\b"
-    ]
+    "fetched_at": "2026-06-04T01:11:08.494578+00:00"
   },
   {
     "source_category": "working_paper",
@@ -404,11 +370,7 @@
     "tax_related": true,
     "link": "https://arxiv.org/abs/2111.12799v2",
     "doi": "",
-    "fetched_at": "2026-05-12T11:18:07.874776+00:00",
-    "tax_match_reason": [
-      "title:\\btax\\b",
-      "title:\\bcorporate tax\\b"
-    ]
+    "fetched_at": "2026-06-04T01:11:08.494675+00:00"
   },
   {
     "source_category": "working_paper",
@@ -425,10 +387,7 @@
     "tax_related": true,
     "link": "https://arxiv.org/abs/2106.10844v1",
     "doi": "",
-    "fetched_at": "2026-05-12T11:18:07.874776+00:00",
-    "tax_match_reason": [
-      "title:\\btax\\b"
-    ]
+    "fetched_at": "2026-06-04T01:11:08.494815+00:00"
   },
   {
     "source_category": "working_paper",
@@ -445,10 +404,7 @@
     "tax_related": true,
     "link": "https://arxiv.org/abs/1808.01666v1",
     "doi": "",
-    "fetched_at": "2026-05-12T11:18:07.874776+00:00",
-    "tax_match_reason": [
-      "title:\\btaxation\\b"
-    ]
+    "fetched_at": "2026-06-04T01:11:08.494936+00:00"
   },
   {
     "source_category": "working_paper",
@@ -465,12 +421,7 @@
     "tax_related": true,
     "link": "https://arxiv.org/abs/1509.00136v1",
     "doi": "",
-    "fetched_at": "2026-05-12T11:18:12.963593+00:00",
-    "tax_match_reason": [
-      "title:\\btax\\b",
-      "title:\\btax avoidance\\b",
-      "title:\\bcorporate tax\\b"
-    ]
+    "fetched_at": "2026-06-04T01:11:08.582031+00:00"
   },
   {
     "source_category": "working_paper",
@@ -489,10 +440,7 @@
     "tax_related": true,
     "link": "https://arxiv.org/abs/2509.09415v1",
     "doi": "",
-    "fetched_at": "2026-05-12T11:18:12.963593+00:00",
-    "tax_match_reason": [
-      "title:\\btaxation\\b"
-    ]
+    "fetched_at": "2026-06-04T01:11:08.581183+00:00"
   },
   {
     "source_category": "working_paper",
@@ -511,11 +459,7 @@
     "tax_related": true,
     "link": "https://arxiv.org/abs/2509.08450v1",
     "doi": "",
-    "fetched_at": "2026-05-12T11:18:12.963593+00:00",
-    "tax_match_reason": [
-      "title:\\btax\\b",
-      "title:\\btax avoidance\\b"
-    ]
+    "fetched_at": "2026-06-04T01:11:08.581309+00:00"
   },
   {
     "source_category": "working_paper",
@@ -534,10 +478,7 @@
     "tax_related": true,
     "link": "https://arxiv.org/abs/1912.03781v3",
     "doi": "",
-    "fetched_at": "2026-05-12T11:18:12.963593+00:00",
-    "tax_match_reason": [
-      "title:\\btax\\b"
-    ]
+    "fetched_at": "2026-06-04T01:11:08.581506+00:00"
   },
   {
     "source_category": "working_paper",
@@ -556,10 +497,7 @@
     "tax_related": true,
     "link": "https://arxiv.org/abs/1904.12397v1",
     "doi": "",
-    "fetched_at": "2026-05-12T11:18:12.963593+00:00",
-    "tax_match_reason": [
-      "abstract:\\btax avoidance\\b"
-    ]
+    "fetched_at": "2026-06-04T01:11:08.581647+00:00"
   },
   {
     "source_category": "working_paper",
@@ -578,10 +516,7 @@
     "tax_related": true,
     "link": "https://arxiv.org/abs/1904.09165v1",
     "doi": "",
-    "fetched_at": "2026-05-12T11:18:12.963593+00:00",
-    "tax_match_reason": [
-      "title:\\btax\\b"
-    ]
+    "fetched_at": "2026-06-04T01:11:08.581771+00:00"
   },
   {
     "source_category": "working_paper",
@@ -601,9 +536,25 @@
     "tax_related": true,
     "link": "https://arxiv.org/abs/1703.03016v2",
     "doi": "",
-    "fetched_at": "2026-05-12T11:18:12.963593+00:00",
-    "tax_match_reason": [
-      "abstract:\\btax avoidance\\b"
-    ]
+    "fetched_at": "2026-06-04T01:11:08.581913+00:00"
+  },
+  {
+    "source_category": "working_paper",
+    "source_name": "Crossref Working Papers / Posted Content · journal-article",
+    "source_id": "CROSSREF",
+    "title_en": "Rethinking tax avoidance: Introducing a novel metric for assessing tax compliance",
+    "title_zh": "",
+    "abstract_en": "",
+    "abstract_zh": "",
+    "authors": [
+      "Tomas Baco",
+      "Vanda Lieskovska",
+      "Peter Nemec"
+    ],
+    "posted_date": "2026-12",
+    "tax_related": true,
+    "link": "https://doi.org/10.1016/j.intaccaudtax.2026.100777",
+    "doi": "10.1016/j.intaccaudtax.2026.100777",
+    "fetched_at": "2026-06-04T01:11:06.658340+00:00"
   }
 ]
