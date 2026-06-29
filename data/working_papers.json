@@ -15,7 +15,7 @@
     "tax_related": true,
     "link": "https://doi.org/10.1504/ijmfa.2027.10070040",
     "doi": "10.1504/ijmfa.2027.10070040",
-    "fetched_at": "2026-06-23T02:29:07.003953+00:00"
+    "fetched_at": "2026-06-29T16:01:24.510224+00:00"
   },
   {
     "source_category": "working_paper",
@@ -555,7 +555,7 @@
     "tax_related": true,
     "link": "https://doi.org/10.1016/j.intaccaudtax.2026.100777",
     "doi": "10.1016/j.intaccaudtax.2026.100777",
-    "fetched_at": "2026-06-23T02:29:06.464292+00:00"
+    "fetched_at": "2026-06-29T16:01:18.539088+00:00"
   },
   {
     "source_category": "working_paper",
@@ -574,7 +574,7 @@
     "tax_related": true,
     "link": "https://doi.org/10.1016/j.econmod.2026.107722",
     "doi": "10.1016/j.econmod.2026.107722",
-    "fetched_at": "2026-06-23T02:29:06.464360+00:00"
+    "fetched_at": "2026-06-29T16:01:18.539151+00:00"
   },
   {
     "source_category": "working_paper",
@@ -591,6 +591,25 @@
     "tax_related": true,
     "link": "https://doi.org/10.1016/j.ssaho.2026.103043",
     "doi": "10.1016/j.ssaho.2026.103043",
-    "fetched_at": "2026-06-23T02:29:06.464230+00:00"
+    "fetched_at": "2026-06-29T16:01:18.539052+00:00"
+  },
+  {
+    "source_category": "working_paper",
+    "source_name": "Crossref Working Papers / Posted Content · journal-article",
+    "source_id": "CROSSREF",
+    "title_en": "How do tax courts affect tax compliance and tax audits? A game-theoretic analysis",
+    "title_zh": "",
+    "abstract_en": "",
+    "abstract_zh": "",
+    "authors": [
+      "Thomas Kourouxous",
+      "Peter Krenn",
+      "Rainer Niemann"
+    ],
+    "posted_date": "2026-12",
+    "tax_related": true,
+    "link": "https://doi.org/10.1016/j.intaccaudtax.2026.100771",
+    "doi": "10.1016/j.intaccaudtax.2026.100771",
+    "fetched_at": "2026-06-29T16:01:18.539117+00:00"
   }
 ]
