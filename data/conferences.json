@@ -1,6 +1,23 @@
 [
   {
     "source_category": "conference",
+    "source_name": "AAA Calls for Submissions",
+    "source_id": "AAA_CALLS",
+    "source_label": "Call for Papers",
+    "title_en": "Calls for Submissions | American Accounting Association",
+    "description_en": "Calls for Submissions | American Accounting Association Skip to main content Digital Library Journals Career Center People Directory Member Portal Contact FAQs 🌙 Dark American Accounting Association A Global Community for Career Advancement About About AAA Our Story & Mission Value of Membership Mission & Vision History & Heritage The Accounting Hall of Fame AAA Foundation Impact Hub Ijiri Lecture Series AAA Archive Leadership Board of Directors Council Management Team Past Presidents Staff Dire...",
+    "event_date": "2026",
+    "location": "",
+    "tax_related": true,
+    "link": "https://aaahq.org/Research/Calls-for-Submissions",
+    "relevance_score": 40,
+    "first_seen": "2026-05-12T10:22:12.738672+00:00",
+    "last_seen": "2026-08-31T18:53:51.173687+00:00",
+    "fetched_at": "2026-08-31T18:53:49.395395+00:00",
+    "is_new": false
+  },
+  {
+    "source_category": "conference",
     "source_name": "American Taxation Association Midyear Meeting",
     "source_id": "ATA_MIDYEAR",
     "source_label": "Conference",
@@ -12,25 +29,8 @@
     "link": "https://aaahq.org/Meetings/2026/ATA-Midyear-Meeting",
     "relevance_score": 40,
     "first_seen": "2026-05-12T10:22:10.279861+00:00",
-    "last_seen": "2026-08-24T12:51:54.542867+00:00",
-    "fetched_at": "2026-08-24T12:51:52.044428+00:00",
-    "is_new": false
-  },
-  {
-    "source_category": "conference",
-    "source_name": "AAA Calls for Submissions",
-    "source_id": "AAA_CALLS",
-    "source_label": "Call for Papers",
-    "title_en": "Calls for Submissions | American Accounting Association",
-    "description_en": "Calls for Submissions | American Accounting Association Skip to main content Digital Library Journals Career Center People Directory Member Portal Contact FAQs 🌙 Dark American Accounting Association A Global Community for Career Advancement About About AAA Our Story & Mission Value of Membership Mission & Vision History & Heritage The Accounting Hall of Fame AAA Foundation Impact Hub Ijiri Lecture Series AAA Archive Leadership Board of Directors Council Management Team Past Presidents Staff Dire...",
-    "event_date": "2026",
-    "location": "",
-    "tax_related": true,
-    "link": "https://aaahq.org/Research/Calls-for-Submissions",
-    "relevance_score": 38,
-    "first_seen": "2026-05-12T10:22:12.738672+00:00",
-    "last_seen": "2026-08-24T12:51:54.542867+00:00",
-    "fetched_at": "2026-08-24T12:51:52.900195+00:00",
+    "last_seen": "2026-08-31T18:53:51.173687+00:00",
+    "fetched_at": "2026-08-31T18:53:48.310821+00:00",
     "is_new": false
   },
   {
@@ -61,8 +61,8 @@
     "link": "https://eaa-online.org/congress-2026/",
     "relevance_score": 34,
     "first_seen": "2026-05-12T10:22:18.934535+00:00",
-    "last_seen": "2026-08-24T12:51:54.542867+00:00",
-    "fetched_at": "2026-08-24T12:51:54.466311+00:00",
+    "last_seen": "2026-08-31T18:53:51.173687+00:00",
+    "fetched_at": "2026-08-31T18:53:50.984337+00:00",
     "is_new": false
   },
   {
@@ -95,8 +95,8 @@
     "link": "https://publications.aaahq.org/jata",
     "relevance_score": 18,
     "first_seen": "2026-05-12T10:22:10.296604+00:00",
-    "last_seen": "2026-08-24T12:51:54.542867+00:00",
-    "fetched_at": "2026-08-24T12:51:52.070938+00:00",
+    "last_seen": "2026-08-31T18:53:51.173687+00:00",
+    "fetched_at": "2026-08-31T18:53:48.337152+00:00",
     "is_new": false
   },
   {
@@ -112,8 +112,8 @@
     "link": "https://publications.aaahq.org/atajltr",
     "relevance_score": 18,
     "first_seen": "2026-05-12T10:22:10.289405+00:00",
-    "last_seen": "2026-08-24T12:51:54.542867+00:00",
-    "fetched_at": "2026-08-24T12:51:52.058698+00:00",
+    "last_seen": "2026-08-31T18:53:51.173687+00:00",
+    "fetched_at": "2026-08-31T18:53:48.325006+00:00",
     "is_new": false
   },
   {
@@ -129,8 +129,8 @@
     "link": "https://aaahq.org/Sections",
     "relevance_score": 18,
     "first_seen": "2026-05-12T10:22:10.285893+00:00",
-    "last_seen": "2026-08-24T12:51:54.542867+00:00",
-    "fetched_at": "2026-08-24T12:51:52.051273+00:00",
+    "last_seen": "2026-08-31T18:53:51.173687+00:00",
+    "fetched_at": "2026-08-31T18:53:48.317658+00:00",
     "is_new": false
   },
   {
@@ -146,8 +146,8 @@
     "link": "https://aaahq.org/ATA",
     "relevance_score": 18,
     "first_seen": "2026-05-12T10:22:10.285893+00:00",
-    "last_seen": "2026-08-24T12:51:54.542867+00:00",
-    "fetched_at": "2026-08-24T12:51:52.051617+00:00",
+    "last_seen": "2026-08-31T18:53:51.173687+00:00",
+    "fetched_at": "2026-08-31T18:53:48.317999+00:00",
     "is_new": false
   },
   {
@@ -163,8 +163,8 @@
     "link": "https://eaa-online.org/congress-2026/photogallery/",
     "relevance_score": 17,
     "first_seen": "2026-06-04T01:11:11.632470+00:00",
-    "last_seen": "2026-08-24T12:51:54.542867+00:00",
-    "fetched_at": "2026-08-24T12:51:54.467639+00:00",
+    "last_seen": "2026-08-31T18:53:51.173687+00:00",
+    "fetched_at": "2026-08-31T18:53:50.985667+00:00",
     "is_new": false
   },
   {
@@ -195,8 +195,8 @@
     "link": "https://aaahq.org/Education",
     "relevance_score": 12,
     "first_seen": "2026-05-12T10:22:10.289405+00:00",
-    "last_seen": "2026-08-24T12:51:54.542867+00:00",
-    "fetched_at": "2026-08-24T12:51:52.059364+00:00",
+    "last_seen": "2026-08-31T18:53:51.173687+00:00",
+    "fetched_at": "2026-08-31T18:53:48.325669+00:00",
     "is_new": false
   },
   {
@@ -212,9 +212,26 @@
     "link": "https://aaahq.org/Meetings/2026/AAA-Global-Connect",
     "relevance_score": 12,
     "first_seen": "2026-05-12T10:22:10.286897+00:00",
-    "last_seen": "2026-08-24T12:51:54.542867+00:00",
-    "fetched_at": "2026-08-24T12:51:52.053931+00:00",
+    "last_seen": "2026-08-31T18:53:51.173687+00:00",
+    "fetched_at": "2026-08-31T18:53:48.320272+00:00",
     "is_new": false
+  },
+  {
+    "source_category": "conference",
+    "source_name": "AAA Calls for Submissions",
+    "source_id": "AAA_CALLS",
+    "source_label": "Call for Papers",
+    "title_en": "The University of North Carolina’s Thirtieth Anniversary Tax Symposium: Call for Papers",
+    "description_en": "",
+    "event_date": "",
+    "location": "",
+    "tax_related": true,
+    "link": "https://aaahq.org/portals/0/documents/calls/2027/Call_for_Papers_27.pdf",
+    "relevance_score": 11,
+    "first_seen": "2026-08-31T18:53:49.432523+00:00",
+    "last_seen": "2026-08-31T18:53:51.173687+00:00",
+    "fetched_at": "2026-08-31T18:53:49.432523+00:00",
+    "is_new": true
   },
   {
     "source_category": "conference",
@@ -229,9 +246,9 @@
     "link": "https://aaahq.org/meetings/2026/SET%252520Transformative%252520Technologies",
     "relevance_score": 10,
     "first_seen": "2026-08-24T12:51:52.053482+00:00",
-    "last_seen": "2026-08-24T12:51:54.542867+00:00",
-    "fetched_at": "2026-08-24T12:51:52.053482+00:00",
-    "is_new": true
+    "last_seen": "2026-08-31T18:53:51.173687+00:00",
+    "fetched_at": "2026-08-31T18:53:48.319799+00:00",
+    "is_new": false
   },
   {
     "source_category": "conference",
@@ -280,8 +297,8 @@
     "link": "https://aaahq.org/Meetings/2026/ATA-Midyear-Meeting/TCC",
     "relevance_score": 10,
     "first_seen": "2026-05-12T10:22:10.298613+00:00",
-    "last_seen": "2026-08-24T12:51:54.542867+00:00",
-    "fetched_at": "2026-08-24T12:51:52.075331+00:00",
+    "last_seen": "2026-08-31T18:53:51.173687+00:00",
+    "fetched_at": "2026-08-31T18:53:48.341479+00:00",
     "is_new": false
   },
   {
@@ -297,8 +314,8 @@
     "link": "https://aaahq.org/AMSubmissions",
     "relevance_score": 10,
     "first_seen": "2026-05-12T10:22:10.287901+00:00",
-    "last_seen": "2026-08-24T12:51:54.542867+00:00",
-    "fetched_at": "2026-08-24T12:51:52.054934+00:00",
+    "last_seen": "2026-08-31T18:53:51.173687+00:00",
+    "fetched_at": "2026-08-31T18:53:48.321282+00:00",
     "is_new": false
   },
   {
@@ -314,8 +331,8 @@
     "link": "https://aaahq.org/Submissions",
     "relevance_score": 10,
     "first_seen": "2026-05-12T10:22:10.287901+00:00",
-    "last_seen": "2026-08-24T12:51:54.542867+00:00",
-    "fetched_at": "2026-08-24T12:51:52.055086+00:00",
+    "last_seen": "2026-08-31T18:53:51.173687+00:00",
+    "fetched_at": "2026-08-31T18:53:48.321435+00:00",
     "is_new": false
   },
   {
@@ -331,8 +348,8 @@
     "link": "https://aaahq.org/Meetings/Section-Meetings",
     "relevance_score": 10,
     "first_seen": "2026-05-12T10:22:10.286897+00:00",
-    "last_seen": "2026-08-24T12:51:54.542867+00:00",
-    "fetched_at": "2026-08-24T12:51:52.054218+00:00",
+    "last_seen": "2026-08-31T18:53:51.173687+00:00",
+    "fetched_at": "2026-08-31T18:53:48.320539+00:00",
     "is_new": false
   },
   {
@@ -380,8 +397,8 @@
     "link": "https://eaa-online.org/congress-2026/the-first-eaa-annual-congress-social-run/",
     "relevance_score": 9,
     "first_seen": "2026-06-04T01:11:11.635625+00:00",
-    "last_seen": "2026-08-24T12:51:54.542867+00:00",
-    "fetched_at": "2026-08-24T12:51:54.470866+00:00",
+    "last_seen": "2026-08-31T18:53:51.173687+00:00",
+    "fetched_at": "2026-08-31T18:53:50.988849+00:00",
     "is_new": false
   },
   {
@@ -397,8 +414,8 @@
     "link": "https://aaahq.org/Meetings/2026/ATA-Midyear-Meeting/Doctoral-Consortium",
     "relevance_score": 8,
     "first_seen": "2026-06-04T01:11:09.581662+00:00",
-    "last_seen": "2026-08-24T12:51:54.542867+00:00",
-    "fetched_at": "2026-08-24T12:51:52.075049+00:00",
+    "last_seen": "2026-08-31T18:53:51.173687+00:00",
+    "fetched_at": "2026-08-31T18:53:48.341218+00:00",
     "is_new": false
   },
   {
@@ -414,8 +431,8 @@
     "link": "https://aaahq.org/Meetings/2026/ATA-Midyear-Meeting/Submissions",
     "relevance_score": 8,
     "first_seen": "2026-05-12T10:22:10.298613+00:00",
-    "last_seen": "2026-08-24T12:51:54.542867+00:00",
-    "fetched_at": "2026-08-24T12:51:52.074847+00:00",
+    "last_seen": "2026-08-31T18:53:51.173687+00:00",
+    "fetched_at": "2026-08-31T18:53:48.340994+00:00",
     "is_new": false
   },
   {
@@ -431,8 +448,8 @@
     "link": "https://aaahq.org/Meetings/2026/ATA-Midyear-Meeting/Pipeline-Program",
     "relevance_score": 8,
     "first_seen": "2026-05-12T10:22:10.298613+00:00",
-    "last_seen": "2026-08-24T12:51:54.542867+00:00",
-    "fetched_at": "2026-08-24T12:51:52.075594+00:00",
+    "last_seen": "2026-08-31T18:53:51.173687+00:00",
+    "fetched_at": "2026-08-31T18:53:48.341732+00:00",
     "is_new": false
   },
   {
@@ -448,8 +465,8 @@
     "link": "https://aaahq.org/Meetings",
     "relevance_score": 8,
     "first_seen": "2026-05-12T10:22:10.295601+00:00",
-    "last_seen": "2026-08-24T12:51:54.542867+00:00",
-    "fetched_at": "2026-08-24T12:51:52.068232+00:00",
+    "last_seen": "2026-08-31T18:53:51.173687+00:00",
+    "fetched_at": "2026-08-31T18:53:48.334456+00:00",
     "is_new": false
   },
   {
@@ -465,8 +482,8 @@
     "link": "https://aaahq.org/Pipeline-Webinar-Series",
     "relevance_score": 8,
     "first_seen": "2026-05-12T10:22:10.290416+00:00",
-    "last_seen": "2026-08-24T12:51:54.542867+00:00",
-    "fetched_at": "2026-08-24T12:51:52.060614+00:00",
+    "last_seen": "2026-08-31T18:53:51.173687+00:00",
+    "fetched_at": "2026-08-31T18:53:48.326908+00:00",
     "is_new": false
   },
   {
@@ -482,8 +499,8 @@
     "link": "https://aaahq.org/Education/Webinars",
     "relevance_score": 8,
     "first_seen": "2026-05-12T10:22:10.290416+00:00",
-    "last_seen": "2026-08-24T12:51:54.542867+00:00",
-    "fetched_at": "2026-08-24T12:51:52.060769+00:00",
+    "last_seen": "2026-08-31T18:53:51.173687+00:00",
+    "fetched_at": "2026-08-31T18:53:48.327062+00:00",
     "is_new": false
   },
   {
@@ -499,8 +516,8 @@
     "link": "https://aaahq.org/Meetings/Shareables",
     "relevance_score": 8,
     "first_seen": "2026-05-12T10:22:10.287901+00:00",
-    "last_seen": "2026-08-24T12:51:54.542867+00:00",
-    "fetched_at": "2026-08-24T12:51:52.055259+00:00",
+    "last_seen": "2026-08-31T18:53:51.173687+00:00",
+    "fetched_at": "2026-08-31T18:53:48.321584+00:00",
     "is_new": false
   },
   {
@@ -516,8 +533,8 @@
     "link": "https://aaahq.org/Meetings/Archive",
     "relevance_score": 8,
     "first_seen": "2026-05-12T10:22:10.287901+00:00",
-    "last_seen": "2026-08-24T12:51:54.542867+00:00",
-    "fetched_at": "2026-08-24T12:51:52.055526+00:00",
+    "last_seen": "2026-08-31T18:53:51.173687+00:00",
+    "fetched_at": "2026-08-31T18:53:48.321840+00:00",
     "is_new": false
   },
   {
@@ -533,8 +550,8 @@
     "link": "https://aaahq.org/Education/Resources/Online",
     "relevance_score": 8,
     "first_seen": "2026-05-12T10:22:10.287901+00:00",
-    "last_seen": "2026-08-24T12:51:54.542867+00:00",
-    "fetched_at": "2026-08-24T12:51:52.055683+00:00",
+    "last_seen": "2026-08-31T18:53:51.173687+00:00",
+    "fetched_at": "2026-08-31T18:53:48.321995+00:00",
     "is_new": false
   },
   {
@@ -550,8 +567,8 @@
     "link": "https://aaahq.org/Meetings/",
     "relevance_score": 8,
     "first_seen": "2026-05-12T10:22:10.286897+00:00",
-    "last_seen": "2026-08-24T12:51:54.542867+00:00",
-    "fetched_at": "2026-08-24T12:51:52.053771+00:00",
+    "last_seen": "2026-08-31T18:53:51.173687+00:00",
+    "fetched_at": "2026-08-31T18:53:48.320084+00:00",
     "is_new": false
   },
   {
@@ -567,8 +584,8 @@
     "link": "https://aaahq.org/Meetings/AAA-Meetings",
     "relevance_score": 8,
     "first_seen": "2026-05-12T10:22:10.284889+00:00",
-    "last_seen": "2026-08-24T12:51:54.542867+00:00",
-    "fetched_at": "2026-08-24T12:51:52.049965+00:00",
+    "last_seen": "2026-08-31T18:53:51.173687+00:00",
+    "fetched_at": "2026-08-31T18:53:48.316369+00:00",
     "is_new": false
   },
   {
@@ -584,8 +601,8 @@
     "link": "https://aaahq.org/Ijiri-Lecture",
     "relevance_score": 8,
     "first_seen": "2026-05-12T10:22:10.283885+00:00",
-    "last_seen": "2026-08-24T12:51:54.542867+00:00",
-    "fetched_at": "2026-08-24T12:51:52.047713+00:00",
+    "last_seen": "2026-08-31T18:53:51.173687+00:00",
+    "fetched_at": "2026-08-31T18:53:48.314080+00:00",
     "is_new": false
   }
 ]
