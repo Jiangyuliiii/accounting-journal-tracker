@@ -12,8 +12,8 @@
     "link": "https://aaahq.org/Research/Calls-for-Submissions",
     "relevance_score": 38,
     "first_seen": "2026-05-12T10:22:12.738672+00:00",
-    "last_seen": "2026-10-26T18:24:41.282091+00:00",
-    "fetched_at": "2026-10-26T18:24:39.429537+00:00",
+    "last_seen": "2026-11-02T21:30:10.483430+00:00",
+    "fetched_at": "2026-11-02T21:30:09.349074+00:00",
     "is_new": false
   },
   {
@@ -29,8 +29,8 @@
     "link": "https://aaahq.org/Meetings/2026/ATA-Midyear-Meeting",
     "relevance_score": 38,
     "first_seen": "2026-05-12T10:22:10.279861+00:00",
-    "last_seen": "2026-10-26T18:24:41.282091+00:00",
-    "fetched_at": "2026-10-26T18:24:38.521752+00:00",
+    "last_seen": "2026-11-02T21:30:10.483430+00:00",
+    "fetched_at": "2026-11-02T21:30:08.599792+00:00",
     "is_new": false
   },
   {
@@ -61,8 +61,8 @@
     "link": "https://eaa-online.org/congress-2026/",
     "relevance_score": 34,
     "first_seen": "2026-05-12T10:22:18.934535+00:00",
-    "last_seen": "2026-10-26T18:24:41.282091+00:00",
-    "fetched_at": "2026-10-26T18:24:41.133787+00:00",
+    "last_seen": "2026-11-02T21:30:10.483430+00:00",
+    "fetched_at": "2026-11-02T21:30:10.236677+00:00",
     "is_new": false
   },
   {
@@ -72,14 +72,14 @@
     "source_label": "Announcement",
     "title_en": "professional-announcements :: SSRN",
     "description_en": "professional-announcements :: SSRN Feedback to SSRN Feedback (required) Email (required) Submit Skip to main content Research Networks: Select Network Accounting ARN Agricultural Science AgriSciRN Anthropology & Archaeology AARN Architecture ArchRN Biochemistry BiochemRN Biology BioRN Business History & Nonprofit Organizations BHNP Chemistry ChemRN Classics CRN Cognitive Science CSN Communication Studies CommRN Computer Science CompSciRN Corporate Governance CGN Corporate Strategy & Business Pol...",
-    "event_date": "27 May 2026",
+    "event_date": "21 May 2027",
     "location": "",
     "tax_related": true,
     "link": "https://www.ssrn.com/index.cfm/en/janda/professional-announcements/?annsNet=204",
-    "relevance_score": 30,
+    "relevance_score": 26,
     "first_seen": "2026-05-12T10:22:22.035302+00:00",
-    "last_seen": "2026-08-03T14:42:30.692404+00:00",
-    "fetched_at": "2026-08-03T14:42:30.642269+00:00",
+    "last_seen": "2026-11-02T21:30:10.483430+00:00",
+    "fetched_at": "2026-11-02T21:30:10.419448+00:00",
     "is_new": false
   },
   {
@@ -95,8 +95,8 @@
     "link": "https://publications.aaahq.org/jata",
     "relevance_score": 18,
     "first_seen": "2026-05-12T10:22:10.296604+00:00",
-    "last_seen": "2026-10-26T18:24:41.282091+00:00",
-    "fetched_at": "2026-10-26T18:24:38.535016+00:00",
+    "last_seen": "2026-11-02T21:30:10.483430+00:00",
+    "fetched_at": "2026-11-02T21:30:08.625426+00:00",
     "is_new": false
   },
   {
@@ -112,8 +112,8 @@
     "link": "https://publications.aaahq.org/atajltr",
     "relevance_score": 18,
     "first_seen": "2026-05-12T10:22:10.289405+00:00",
-    "last_seen": "2026-10-26T18:24:41.282091+00:00",
-    "fetched_at": "2026-10-26T18:24:38.528973+00:00",
+    "last_seen": "2026-11-02T21:30:10.483430+00:00",
+    "fetched_at": "2026-11-02T21:30:08.613669+00:00",
     "is_new": false
   },
   {
@@ -129,8 +129,8 @@
     "link": "https://aaahq.org/Sections",
     "relevance_score": 18,
     "first_seen": "2026-05-12T10:22:10.285893+00:00",
-    "last_seen": "2026-10-26T18:24:41.282091+00:00",
-    "fetched_at": "2026-10-26T18:24:38.525286+00:00",
+    "last_seen": "2026-11-02T21:30:10.483430+00:00",
+    "fetched_at": "2026-11-02T21:30:08.606372+00:00",
     "is_new": false
   },
   {
@@ -146,8 +146,8 @@
     "link": "https://aaahq.org/ATA",
     "relevance_score": 18,
     "first_seen": "2026-05-12T10:22:10.285893+00:00",
-    "last_seen": "2026-10-26T18:24:41.282091+00:00",
-    "fetched_at": "2026-10-26T18:24:38.525464+00:00",
+    "last_seen": "2026-11-02T21:30:10.483430+00:00",
+    "fetched_at": "2026-11-02T21:30:08.606722+00:00",
     "is_new": false
   },
   {
@@ -163,9 +163,26 @@
     "link": "https://eaa-online.org/congress-2026/photogallery/",
     "relevance_score": 17,
     "first_seen": "2026-06-04T01:11:11.632470+00:00",
-    "last_seen": "2026-10-26T18:24:41.282091+00:00",
-    "fetched_at": "2026-10-26T18:24:41.134519+00:00",
+    "last_seen": "2026-11-02T21:30:10.483430+00:00",
+    "fetched_at": "2026-11-02T21:30:10.237930+00:00",
     "is_new": false
+  },
+  {
+    "source_category": "conference",
+    "source_name": "SSRN Accounting Research Network Announcements",
+    "source_id": "SSRN_ANNOUNCEMENTS",
+    "source_label": "Announcement",
+    "title_en": "PhD Students - Doctoral Program in International Business Taxation, WU Vienna University of Economics and Business",
+    "description_en": "PhD Students - Doctoral Program in International Business Taxation, WU Vienna University of Economics and Business Posted: 28 Oct 2026",
+    "event_date": "2026",
+    "location": "",
+    "tax_related": true,
+    "link": "https://www.ssrn.com/index.cfm/en/janda/announcement/?id=20065",
+    "relevance_score": 16,
+    "first_seen": "2026-11-02T21:30:10.481309+00:00",
+    "last_seen": "2026-11-02T21:30:10.483430+00:00",
+    "fetched_at": "2026-11-02T21:30:10.481309+00:00",
+    "is_new": true
   },
   {
     "source_category": "conference",
@@ -195,8 +212,8 @@
     "link": "https://aaahq.org/Education",
     "relevance_score": 12,
     "first_seen": "2026-05-12T10:22:10.289405+00:00",
-    "last_seen": "2026-10-26T18:24:41.282091+00:00",
-    "fetched_at": "2026-10-26T18:24:38.529261+00:00",
+    "last_seen": "2026-11-02T21:30:10.483430+00:00",
+    "fetched_at": "2026-11-02T21:30:08.614182+00:00",
     "is_new": false
   },
   {
@@ -229,8 +246,8 @@
     "link": "https://aaahq.org/portals/0/documents/calls/2027/Call_for_Papers_27.pdf",
     "relevance_score": 11,
     "first_seen": "2026-08-31T18:53:49.432523+00:00",
-    "last_seen": "2026-10-26T18:24:41.282091+00:00",
-    "fetched_at": "2026-10-26T18:24:39.443639+00:00",
+    "last_seen": "2026-11-02T21:30:10.483430+00:00",
+    "fetched_at": "2026-11-02T21:30:09.376260+00:00",
     "is_new": false
   },
   {
@@ -297,8 +314,8 @@
     "link": "https://aaahq.org/Meetings/2026/ATA-Midyear-Meeting/TCC",
     "relevance_score": 10,
     "first_seen": "2026-05-12T10:22:10.298613+00:00",
-    "last_seen": "2026-10-26T18:24:41.282091+00:00",
-    "fetched_at": "2026-10-26T18:24:38.537127+00:00",
+    "last_seen": "2026-11-02T21:30:10.483430+00:00",
+    "fetched_at": "2026-11-02T21:30:08.629559+00:00",
     "is_new": false
   },
   {
@@ -314,8 +331,8 @@
     "link": "https://aaahq.org/AMSubmissions",
     "relevance_score": 10,
     "first_seen": "2026-05-12T10:22:10.287901+00:00",
-    "last_seen": "2026-10-26T18:24:41.282091+00:00",
-    "fetched_at": "2026-10-26T18:24:38.527091+00:00",
+    "last_seen": "2026-11-02T21:30:10.483430+00:00",
+    "fetched_at": "2026-11-02T21:30:08.609976+00:00",
     "is_new": false
   },
   {
@@ -331,8 +348,8 @@
     "link": "https://aaahq.org/Submissions",
     "relevance_score": 10,
     "first_seen": "2026-05-12T10:22:10.287901+00:00",
-    "last_seen": "2026-10-26T18:24:41.282091+00:00",
-    "fetched_at": "2026-10-26T18:24:38.527162+00:00",
+    "last_seen": "2026-11-02T21:30:10.483430+00:00",
+    "fetched_at": "2026-11-02T21:30:08.610123+00:00",
     "is_new": false
   },
   {
@@ -348,8 +365,8 @@
     "link": "https://aaahq.org/Meetings/Section-Meetings",
     "relevance_score": 10,
     "first_seen": "2026-05-12T10:22:10.286897+00:00",
-    "last_seen": "2026-10-26T18:24:41.282091+00:00",
-    "fetched_at": "2026-10-26T18:24:38.526745+00:00",
+    "last_seen": "2026-11-02T21:30:10.483430+00:00",
+    "fetched_at": "2026-11-02T21:30:08.609268+00:00",
     "is_new": false
   },
   {
@@ -397,8 +414,8 @@
     "link": "https://eaa-online.org/congress-2026/the-first-eaa-annual-congress-social-run/",
     "relevance_score": 9,
     "first_seen": "2026-06-04T01:11:11.635625+00:00",
-    "last_seen": "2026-10-26T18:24:41.282091+00:00",
-    "fetched_at": "2026-10-26T18:24:41.136139+00:00",
+    "last_seen": "2026-11-02T21:30:10.483430+00:00",
+    "fetched_at": "2026-11-02T21:30:10.240977+00:00",
     "is_new": false
   },
   {
@@ -414,8 +431,8 @@
     "link": "https://aaahq.org/Meetings/2026/ATA-Midyear-Meeting/Doctoral-Consortium",
     "relevance_score": 8,
     "first_seen": "2026-06-04T01:11:09.581662+00:00",
-    "last_seen": "2026-10-26T18:24:41.282091+00:00",
-    "fetched_at": "2026-10-26T18:24:38.537002+00:00",
+    "last_seen": "2026-11-02T21:30:10.483430+00:00",
+    "fetched_at": "2026-11-02T21:30:08.629317+00:00",
     "is_new": false
   },
   {
@@ -431,8 +448,8 @@
     "link": "https://aaahq.org/Meetings/2026/ATA-Midyear-Meeting/Submissions",
     "relevance_score": 8,
     "first_seen": "2026-05-12T10:22:10.298613+00:00",
-    "last_seen": "2026-10-26T18:24:41.282091+00:00",
-    "fetched_at": "2026-10-26T18:24:38.536901+00:00",
+    "last_seen": "2026-11-02T21:30:10.483430+00:00",
+    "fetched_at": "2026-11-02T21:30:08.629123+00:00",
     "is_new": false
   },
   {
@@ -448,8 +465,8 @@
     "link": "https://aaahq.org/Meetings/2026/ATA-Midyear-Meeting/Pipeline-Program",
     "relevance_score": 8,
     "first_seen": "2026-05-12T10:22:10.298613+00:00",
-    "last_seen": "2026-10-26T18:24:41.282091+00:00",
-    "fetched_at": "2026-10-26T18:24:38.537250+00:00",
+    "last_seen": "2026-11-02T21:30:10.483430+00:00",
+    "fetched_at": "2026-11-02T21:30:08.629822+00:00",
     "is_new": false
   },
   {
@@ -465,8 +482,8 @@
     "link": "https://aaahq.org/Meetings",
     "relevance_score": 8,
     "first_seen": "2026-05-12T10:22:10.295601+00:00",
-    "last_seen": "2026-10-26T18:24:41.282091+00:00",
-    "fetched_at": "2026-10-26T18:24:38.533658+00:00",
+    "last_seen": "2026-11-02T21:30:10.483430+00:00",
+    "fetched_at": "2026-11-02T21:30:08.622814+00:00",
     "is_new": false
   },
   {
@@ -482,8 +499,8 @@
     "link": "https://aaahq.org/Pipeline-Webinar-Series",
     "relevance_score": 8,
     "first_seen": "2026-05-12T10:22:10.290416+00:00",
-    "last_seen": "2026-10-26T18:24:41.282091+00:00",
-    "fetched_at": "2026-10-26T18:24:38.529873+00:00",
+    "last_seen": "2026-11-02T21:30:10.483430+00:00",
+    "fetched_at": "2026-11-02T21:30:08.615380+00:00",
     "is_new": false
   },
   {
@@ -499,8 +516,8 @@
     "link": "https://aaahq.org/Education/Webinars",
     "relevance_score": 8,
     "first_seen": "2026-05-12T10:22:10.290416+00:00",
-    "last_seen": "2026-10-26T18:24:41.282091+00:00",
-    "fetched_at": "2026-10-26T18:24:38.529944+00:00",
+    "last_seen": "2026-11-02T21:30:10.483430+00:00",
+    "fetched_at": "2026-11-02T21:30:08.615523+00:00",
     "is_new": false
   },
   {
@@ -516,8 +533,8 @@
     "link": "https://aaahq.org/Meetings/Shareables",
     "relevance_score": 8,
     "first_seen": "2026-05-12T10:22:10.287901+00:00",
-    "last_seen": "2026-10-26T18:24:41.282091+00:00",
-    "fetched_at": "2026-10-26T18:24:38.527236+00:00",
+    "last_seen": "2026-11-02T21:30:10.483430+00:00",
+    "fetched_at": "2026-11-02T21:30:08.610273+00:00",
     "is_new": false
   },
   {
@@ -533,8 +550,8 @@
     "link": "https://aaahq.org/Meetings/Archive",
     "relevance_score": 8,
     "first_seen": "2026-05-12T10:22:10.287901+00:00",
-    "last_seen": "2026-10-26T18:24:41.282091+00:00",
-    "fetched_at": "2026-10-26T18:24:38.527358+00:00",
+    "last_seen": "2026-11-02T21:30:10.483430+00:00",
+    "fetched_at": "2026-11-02T21:30:08.610522+00:00",
     "is_new": false
   },
   {
@@ -550,8 +567,8 @@
     "link": "https://aaahq.org/Education/Resources/Online",
     "relevance_score": 8,
     "first_seen": "2026-05-12T10:22:10.287901+00:00",
-    "last_seen": "2026-10-26T18:24:41.282091+00:00",
-    "fetched_at": "2026-10-26T18:24:38.527433+00:00",
+    "last_seen": "2026-11-02T21:30:10.483430+00:00",
+    "fetched_at": "2026-11-02T21:30:08.610694+00:00",
     "is_new": false
   },
   {
@@ -567,8 +584,8 @@
     "link": "https://aaahq.org/Meetings/",
     "relevance_score": 8,
     "first_seen": "2026-05-12T10:22:10.286897+00:00",
-    "last_seen": "2026-10-26T18:24:41.282091+00:00",
-    "fetched_at": "2026-10-26T18:24:38.526498+00:00",
+    "last_seen": "2026-11-02T21:30:10.483430+00:00",
+    "fetched_at": "2026-11-02T21:30:08.608800+00:00",
     "is_new": false
   },
   {
@@ -584,8 +601,8 @@
     "link": "https://aaahq.org/Meetings/AAA-Meetings",
     "relevance_score": 8,
     "first_seen": "2026-05-12T10:22:10.284889+00:00",
-    "last_seen": "2026-10-26T18:24:41.282091+00:00",
-    "fetched_at": "2026-10-26T18:24:38.524591+00:00",
+    "last_seen": "2026-11-02T21:30:10.483430+00:00",
+    "fetched_at": "2026-11-02T21:30:08.605168+00:00",
     "is_new": false
   },
   {
@@ -601,8 +618,8 @@
     "link": "https://aaahq.org/Ijiri-Lecture",
     "relevance_score": 8,
     "first_seen": "2026-05-12T10:22:10.283885+00:00",
-    "last_seen": "2026-10-26T18:24:41.282091+00:00",
-    "fetched_at": "2026-10-26T18:24:38.523450+00:00",
+    "last_seen": "2026-11-02T21:30:10.483430+00:00",
+    "fetched_at": "2026-11-02T21:30:08.602940+00:00",
     "is_new": false
   }
 ]
