@@ -258,7 +258,7 @@
     "tax_related": false,
     "link": "https://www.sciencedirect.com/science/article/pii/S0165410126000431?dgcid=rss_sd_all",
     "doi": "",
-    "fetched_at": "2026-11-09T21:58:32.536950+00:00"
+    "fetched_at": "2026-11-16T21:41:01.509703+00:00"
   },
   {
     "source_category": "journal_article",
@@ -282,7 +282,7 @@
     "tax_related": false,
     "link": "https://www.sciencedirect.com/science/article/pii/S0165410126000443?dgcid=rss_sd_all",
     "doi": "",
-    "fetched_at": "2026-11-09T21:58:32.536776+00:00"
+    "fetched_at": "2026-11-16T21:41:01.509432+00:00"
   },
   {
     "source_category": "journal_article",
@@ -306,7 +306,7 @@
     "tax_related": false,
     "link": "https://www.sciencedirect.com/science/article/pii/S0165410126000406?dgcid=rss_sd_all",
     "doi": "",
-    "fetched_at": "2026-11-09T21:58:32.539952+00:00"
+    "fetched_at": "2026-11-16T21:41:01.513946+00:00"
   },
   {
     "source_category": "journal_article",
@@ -331,7 +331,7 @@
     "tax_related": true,
     "link": "https://www.sciencedirect.com/science/article/pii/S0165410126000418?dgcid=rss_sd_all",
     "doi": "",
-    "fetched_at": "2026-11-09T21:58:32.537208+00:00"
+    "fetched_at": "2026-11-16T21:41:01.510071+00:00"
   },
   {
     "source_category": "journal_article",
@@ -354,7 +354,7 @@
     "tax_related": true,
     "link": "https://www.sciencedirect.com/science/article/pii/S016541012600042X?dgcid=rss_sd_all",
     "doi": "",
-    "fetched_at": "2026-11-09T21:58:32.537081+00:00"
+    "fetched_at": "2026-11-16T21:41:01.509888+00:00"
   },
   {
     "source_category": "journal_article",
@@ -377,7 +377,7 @@
     "tax_related": false,
     "link": "https://www.sciencedirect.com/science/article/pii/S0165410126000388?dgcid=rss_sd_all",
     "doi": "",
-    "fetched_at": "2026-11-09T21:58:32.540344+00:00"
+    "fetched_at": "2026-11-16T21:41:01.514443+00:00"
   },
   {
     "source_category": "journal_article",
@@ -401,7 +401,7 @@
     "tax_related": false,
     "link": "https://www.sciencedirect.com/science/article/pii/S0165410126000376?dgcid=rss_sd_all",
     "doi": "",
-    "fetched_at": "2026-11-09T21:58:32.540490+00:00"
+    "fetched_at": "2026-11-16T21:41:01.514663+00:00"
   },
   {
     "source_category": "journal_article",
@@ -424,7 +424,7 @@
     "tax_related": false,
     "link": "https://www.sciencedirect.com/science/article/pii/S016541012600039X?dgcid=rss_sd_all",
     "doi": "",
-    "fetched_at": "2026-11-09T21:58:32.540193+00:00"
+    "fetched_at": "2026-11-16T21:41:01.514240+00:00"
   },
   {
     "source_category": "journal_article",
@@ -703,7 +703,7 @@
     "tax_related": false,
     "link": "https://www.sciencedirect.com/science/article/pii/S0165410126000285?dgcid=rss_sd_all",
     "doi": "",
-    "fetched_at": "2026-11-09T21:58:32.540624+00:00"
+    "fetched_at": "2026-11-16T21:41:01.514862+00:00"
   },
   {
     "source_category": "journal_article",
@@ -725,7 +725,7 @@
     "tax_related": false,
     "link": "https://www.sciencedirect.com/science/article/pii/S0165410126000273?dgcid=rss_sd_all",
     "doi": "",
-    "fetched_at": "2026-11-09T21:58:32.540764+00:00"
+    "fetched_at": "2026-11-16T21:41:01.515065+00:00"
   },
   {
     "source_category": "journal_article",
@@ -750,7 +750,7 @@
     "tax_related": false,
     "link": "https://www.sciencedirect.com/science/article/pii/S0165410126000261?dgcid=rss_sd_all",
     "doi": "",
-    "fetched_at": "2026-11-09T21:58:32.540975+00:00"
+    "fetched_at": "2026-11-16T21:41:01.515274+00:00"
   },
   {
     "source_category": "journal_article",
@@ -774,7 +774,7 @@
     "tax_related": true,
     "link": "https://www.sciencedirect.com/science/article/pii/S0165410126000169?dgcid=rss_sd_all",
     "doi": "",
-    "fetched_at": "2026-11-09T21:58:32.541266+00:00"
+    "fetched_at": "2026-11-16T21:41:01.515669+00:00"
   },
   {
     "source_category": "journal_article",
@@ -790,15 +790,15 @@
       "Christina Zhu"
     ],
     "published": "August 2026",
-    "abstract": "We study the informational value of trading networks in over-the-counter (OTC) markets. Using detailed transaction-level data from the corporate bond market, we show that investors with larger dealer networks make superior trading decisions before changes in credit fundamentals, resulting in better risk-adjusted performance. We trace these investors' superior trading decisions to trading connections where dealers are most likely to have access to novel credit-relevant information, supporting the interpretation that these investors obtain private information through their trading networks. Collectively, our evidence highlights the importance of trading relationships for investors' private information acquisition.",
-    "abstract_en": "We study the informational value of trading networks in over-the-counter (OTC) markets. Using detailed transaction-level data from the corporate bond market, we show that investors with larger dealer networks make superior trading decisions before changes in credit fundamentals, resulting in better risk-adjusted performance. We trace these investors' superior trading decisions to trading connections where dealers are most likely to have access to novel credit-relevant information, supporting the interpretation that these investors obtain private information through their trading networks. Collectively, our evidence highlights the importance of trading relationships for investors' private information acquisition.",
+    "abstract": "We study the informational value of trading networks in over-the-counter (OTC) markets. Using detailed transaction-level data from the corporate bond market, we show that investors with larger dealer networks make superior trading decisions before changes in credit fundamentals, resulting in better risk-adjusted performance. We trace these investors’ superior trading decisions to trading connections where dealers are most likely to have access to novel credit-relevant information, supporting the interpretation that these investors obtain private information through their trading networks. Collectively, our evidence highlights the importance of trading relationships for investors’ private information acquisition.",
+    "abstract_en": "We study the informational value of trading networks in over-the-counter (OTC) markets. Using detailed transaction-level data from the corporate bond market, we show that investors with larger dealer networks make superior trading decisions before changes in credit fundamentals, resulting in better risk-adjusted performance. We trace these investors’ superior trading decisions to trading connections where dealers are most likely to have access to novel credit-relevant information, supporting the interpretation that these investors obtain private information through their trading networks. Collectively, our evidence highlights the importance of trading relationships for investors’ private information acquisition.",
     "abstract_zh": "",
     "source_info": "Publication date: August 2026 Source: Journal of Accounting and Economics, Volume 82, Issue 1 Author(s): Stefan J. Huber, Edward M. Watts, Christina Zhu",
     "method": "Unclassified",
     "tax_related": false,
     "link": "https://www.sciencedirect.com/science/article/pii/S0165410126000194?dgcid=rss_sd_all",
     "doi": "",
-    "fetched_at": "2026-11-09T21:58:32.541137+00:00"
+    "fetched_at": "2026-11-16T21:41:01.515469+00:00"
   },
   {
     "source_category": "journal_article",
@@ -823,7 +823,7 @@
     "tax_related": false,
     "link": "https://www.sciencedirect.com/science/article/pii/S0165410126000157?dgcid=rss_sd_all",
     "doi": "",
-    "fetched_at": "2026-11-09T21:58:32.541411+00:00"
+    "fetched_at": "2026-11-16T21:41:01.515875+00:00"
   },
   {
     "source_category": "journal_article",
@@ -848,7 +848,7 @@
     "tax_related": false,
     "link": "https://www.sciencedirect.com/science/article/pii/S016541012600008X?dgcid=rss_sd_all",
     "doi": "",
-    "fetched_at": "2026-11-09T21:58:32.541558+00:00"
+    "fetched_at": "2026-11-16T21:41:01.516078+00:00"
   },
   {
     "source_category": "journal_article",
@@ -864,15 +864,15 @@
       "Frank Zhang"
     ],
     "published": "August 2026",
-    "abstract": "This paper contributes to the research in accounting and the debate about the nature of carbon footprint reporting for society. This paper utilises numbers and narratives to explore changes in carbon footprint using UK national carbon emissions data for the period 1990–2009 and six years (2006–2011) of carbon emissions data for the FTSE 100 group of companies and a case study that focuses on the UK mixed grocery sector. Our argument is that existing approaches to framing carbon disclosure generate malleable, inconsistent and irreconcilable numbers and narratives. In this paper we argue for an alternative framing of carbon disclosure informed by a reporting entities business model. Specifically, we suggest, that a reporting entity disclose its carbon–material stakeholder relations. This alternative, we argue, would increase the visibility of carbon generating stakeholder relations and avoid some of the difficulties and arbitrariness associated with framing carbon disclosure around a reporting entity boundary where judgements have to be made about responsibility and operational control.",
-    "abstract_en": "This paper contributes to the research in accounting and the debate about the nature of carbon footprint reporting for society. This paper utilises numbers and narratives to explore changes in carbon footprint using UK national carbon emissions data for the period 1990–2009 and six years (2006–2011) of carbon emissions data for the FTSE 100 group of companies and a case study that focuses on the UK mixed grocery sector. Our argument is that existing approaches to framing carbon disclosure generate malleable, inconsistent and irreconcilable numbers and narratives. In this paper we argue for an alternative framing of carbon disclosure informed by a reporting entities business model. Specifically, we suggest, that a reporting entity disclose its carbon–material stakeholder relations. This alternative, we argue, would increase the visibility of carbon generating stakeholder relations and avoid some of the difficulties and arbitrariness associated with framing carbon disclosure around a reporting entity boundary where judgements have to be made about responsibility and operational control.",
+    "abstract": "We examine firms’ response to a carbon disclosure mandate imposed on French firms with more than 500 employees by the Grenelle II law. We find that only half of the firms subject to the mandate comply and file at least one carbon report between 2014 and 2021. Conditional on filing a report, virtually all the firms report their scope 1 and scope 2 emissions. However, only a fraction of the firms report their scope 3 emissions. Similarly, we document considerable heterogeneity in firms’ decisions to provide an action plan to reach targeted reductions in future carbon emissions. Importantly, the propensity to file a carbon report and to include an action plan is lower for firms in more carbon-intensive industries. Finally, we find that expected carbon emission reduction is associated with the actual reduction in emissions, especially for firms that provide clear action plans with quantitative metrics.",
+    "abstract_en": "We examine firms’ response to a carbon disclosure mandate imposed on French firms with more than 500 employees by the Grenelle II law. We find that only half of the firms subject to the mandate comply and file at least one carbon report between 2014 and 2021. Conditional on filing a report, virtually all the firms report their scope 1 and scope 2 emissions. However, only a fraction of the firms report their scope 3 emissions. Similarly, we document considerable heterogeneity in firms’ decisions to provide an action plan to reach targeted reductions in future carbon emissions. Importantly, the propensity to file a carbon report and to include an action plan is lower for firms in more carbon-intensive industries. Finally, we find that expected carbon emission reduction is associated with the actual reduction in emissions, especially for firms that provide clear action plans with quantitative metrics.",
     "abstract_zh": "",
     "source_info": "Publication date: August 2026 Source: Journal of Accounting and Economics, Volume 82, Issue 1 Author(s): Raphael Duguay, Chenchen Li, Frank Zhang",
     "method": "Unclassified",
     "tax_related": false,
     "link": "https://www.sciencedirect.com/science/article/pii/S0165410126000078?dgcid=rss_sd_all",
     "doi": "",
-    "fetched_at": "2026-11-09T21:58:32.541702+00:00"
+    "fetched_at": "2026-11-16T21:41:01.516279+00:00"
   },
   {
     "source_category": "journal_article",
@@ -908,15 +908,15 @@
       "THERESA BÜHRLE, \nELISA CASI, \nBARBARA STAGE, \nJOHANNES VOGET"
     ],
     "published": "Wed, 21 Oct 2026 21:49:23 -0700",
-    "abstract": "We study the economic consequences of anti-loss trafficking rules, which disallow the use of loss carryforwards as a tax shield after a substantial ownership change. We use staggered changes to these rules in the EU27 Member States, Norway, and the United Kingdom from 1998 to 2019 and find that limiting the transfer of tax losses is related to the number of mergers and acquisitions (M&amp;A) declining by 18%, driven by loss making targets. Turning to broader industry dynamics, we find decreases in survival rates of young companies after tighter regulations. Loosening of regulation is associated with increased firm survival. Tightening (loosening) anti-loss trafficking rules is related to decreased (increased) industry productivity, especially in R&amp;D-intensive industries that are more prone to loss-making. Finally, tighter anti-loss trafficking rules are associated with lower deal synergies and risk-taking. All effects concentrate in strict regimes.",
-    "abstract_en": "We study the economic consequences of anti-loss trafficking rules, which disallow the use of loss carryforwards as a tax shield after a substantial ownership change. We use staggered changes to these rules in the EU27 Member States, Norway, and the United Kingdom from 1998 to 2019 and find that limiting the transfer of tax losses is related to the number of mergers and acquisitions (M&amp;A) declining by 18%, driven by loss making targets. Turning to broader industry dynamics, we find decreases in survival rates of young companies after tighter regulations. Loosening of regulation is associated with increased firm survival. Tightening (loosening) anti-loss trafficking rules is related to decreased (increased) industry productivity, especially in R&amp;D-intensive industries that are more prone to loss-making. Finally, tighter anti-loss trafficking rules are associated with lower deal synergies and risk-taking. All effects concentrate in strict regimes.",
+    "abstract": "ABSTRACT We study the economic consequences of anti‐loss trafficking rules, which disallow the use of loss carryforwards as a tax shield after a substantial ownership change. We use staggered changes to these rules in the EU27 Member States, Norway, and the United Kingdom from 1998 to 2019 and find that limiting the transfer of tax losses is related to the number of mergers and acquisitions (M&A) declining by 18%, driven by loss‐making targets. Turning to broader industry dynamics, we find decreases in survival rates of young companies after tighter regulations. Loosening of regulation is associated with increased firm survival. Tightening (loosening) anti‐loss trafficking rules is related to decreased (increased) industry productivity, especially in R&D‐intensive industries that are more prone to loss‐making. Finally, tighter anti‐loss trafficking rules are associated with lower deal synergies and risk‐taking. All effects concentrate in strict regimes.",
+    "abstract_en": "ABSTRACT We study the economic consequences of anti‐loss trafficking rules, which disallow the use of loss carryforwards as a tax shield after a substantial ownership change. We use staggered changes to these rules in the EU27 Member States, Norway, and the United Kingdom from 1998 to 2019 and find that limiting the transfer of tax losses is related to the number of mergers and acquisitions (M&A) declining by 18%, driven by loss‐making targets. Turning to broader industry dynamics, we find decreases in survival rates of young companies after tighter regulations. Loosening of regulation is associated with increased firm survival. Tightening (loosening) anti‐loss trafficking rules is related to decreased (increased) industry productivity, especially in R&D‐intensive industries that are more prone to loss‐making. Finally, tighter anti‐loss trafficking rules are associated with lower deal synergies and risk‐taking. All effects concentrate in strict regimes.",
     "abstract_zh": "",
     "source_info": "Journal of Accounting Research, Volume 64, Issue 5, Page 2131-2176, December 2026.",
     "method": "Unclassified",
     "tax_related": true,
     "link": "https://onlinelibrary.wiley.com/doi/10.1111/1475-679x.70070?af=R",
     "doi": "",
-    "fetched_at": "2026-11-09T21:58:32.714356+00:00"
+    "fetched_at": "2026-11-16T21:41:01.705592+00:00"
   },
   {
     "source_category": "journal_article",
@@ -960,7 +960,7 @@
     "tax_related": false,
     "link": "https://onlinelibrary.wiley.com/doi/10.1111/1475-679x.70069?af=R",
     "doi": "",
-    "fetched_at": "2026-11-09T21:58:32.714189+00:00"
+    "fetched_at": "2026-11-16T21:41:01.705332+00:00"
   },
   {
     "source_category": "journal_article",
@@ -980,7 +980,7 @@
     "tax_related": false,
     "link": "https://onlinelibrary.wiley.com/doi/10.1111/1475-679x.70057?af=R",
     "doi": "",
-    "fetched_at": "2026-11-09T21:58:32.716751+00:00"
+    "fetched_at": "2026-11-16T21:41:01.708955+00:00"
   },
   {
     "source_category": "journal_article",
@@ -1002,7 +1002,7 @@
     "tax_related": false,
     "link": "https://onlinelibrary.wiley.com/doi/10.1111/1475-679x.70064?af=R",
     "doi": "",
-    "fetched_at": "2026-11-09T21:58:32.714609+00:00"
+    "fetched_at": "2026-11-16T21:41:01.705956+00:00"
   },
   {
     "source_category": "journal_article",
@@ -1016,15 +1016,15 @@
       "Blake Holman, \nBenjamin P. Commerford, \nFinn Kinserdal"
     ],
     "published": "Wed, 21 Oct 2026 21:49:23 -0700",
-    "abstract": "Complex accounting estimates are becoming increasingly important to financial statements. Yet, such estimates create ample opportunities for bias. Although both management and independent auditors are tasked with ensuring these estimates are free from error and bias, evaluating the appropriateness of these measures can be quite difficult. Drawing on Unconscious Thought Theory, we predict and find across three experiments that engaging in unconscious thought can improve accounting practitioners' evaluations of accounting estimates. In Experiment 1, we use practicing auditors as participants and find that unconscious thought improves less-experienced auditors' ability to recognize income-decreasing patterns of bias. In contrast, more-experienced auditors respond similarly to both incoming-increasing and income-decreasing bias, regardless of whether they use conscious or unconscious processing. In Experiments 2 and 3, we provide evidence that prompting managers to engage in unconscious thought also improves their recognition of patterns of bias within estimates. Overall, our findings demonstrate how unconscious processing can be intentionally prompted to improve accounting professionals' ability to recognize subtle patterns of bias that they might otherwise overlook.",
-    "abstract_en": "Complex accounting estimates are becoming increasingly important to financial statements. Yet, such estimates create ample opportunities for bias. Although both management and independent auditors are tasked with ensuring these estimates are free from error and bias, evaluating the appropriateness of these measures can be quite difficult. Drawing on Unconscious Thought Theory, we predict and find across three experiments that engaging in unconscious thought can improve accounting practitioners' evaluations of accounting estimates. In Experiment 1, we use practicing auditors as participants and find that unconscious thought improves less-experienced auditors' ability to recognize income-decreasing patterns of bias. In contrast, more-experienced auditors respond similarly to both incoming-increasing and income-decreasing bias, regardless of whether they use conscious or unconscious processing. In Experiments 2 and 3, we provide evidence that prompting managers to engage in unconscious thought also improves their recognition of patterns of bias within estimates. Overall, our findings demonstrate how unconscious processing can be intentionally prompted to improve accounting professionals' ability to recognize subtle patterns of bias that they might otherwise overlook.",
+    "abstract": "ABSTRACT Complex accounting estimates are becoming increasingly important to financial statements. Yet, such estimates create ample opportunities for bias. Although both management and independent auditors are tasked with ensuring these estimates are free from error and bias, evaluating the appropriateness of these measures can be quite difficult. Drawing on unconscious thought theory, we predict and find across three experiments that engaging in unconscious thought can improve accounting practitioners’ evaluations of accounting estimates. In Experiment 1, we use practicing auditors as participants and find that unconscious thought improves less‐experienced auditors’ ability to recognize income‐decreasing patterns of bias. In contrast, more‐experienced auditors respond similarly to both incoming‐increasing and income‐decreasing bias, regardless of whether they use conscious or unconscious processing. In Experiments 2 and 3, we provide evidence that prompting managers to engage in unconscious thought also improves their recognition of patterns of bias within estimates. Overall, our findings demonstrate how unconscious processing can be intentionally prompted to improve accounting professionals’ ability to recognize subtle patterns of bias that they might otherwise overlook.",
+    "abstract_en": "ABSTRACT Complex accounting estimates are becoming increasingly important to financial statements. Yet, such estimates create ample opportunities for bias. Although both management and independent auditors are tasked with ensuring these estimates are free from error and bias, evaluating the appropriateness of these measures can be quite difficult. Drawing on unconscious thought theory, we predict and find across three experiments that engaging in unconscious thought can improve accounting practitioners’ evaluations of accounting estimates. In Experiment 1, we use practicing auditors as participants and find that unconscious thought improves less‐experienced auditors’ ability to recognize income‐decreasing patterns of bias. In contrast, more‐experienced auditors respond similarly to both incoming‐increasing and income‐decreasing bias, regardless of whether they use conscious or unconscious processing. In Experiments 2 and 3, we provide evidence that prompting managers to engage in unconscious thought also improves their recognition of patterns of bias within estimates. Overall, our findings demonstrate how unconscious processing can be intentionally prompted to improve accounting professionals’ ability to recognize subtle patterns of bias that they might otherwise overlook.",
     "abstract_zh": "",
     "source_info": "Journal of Accounting Research, Volume 64, Issue 5, Page 2287-2322, December 2026.",
     "method": "Unclassified",
     "tax_related": false,
     "link": "https://onlinelibrary.wiley.com/doi/10.1111/1475-679x.70062?af=R",
     "doi": "",
-    "fetched_at": "2026-11-09T21:58:32.714074+00:00"
+    "fetched_at": "2026-11-16T21:41:01.705192+00:00"
   },
   {
     "source_category": "journal_article",
@@ -1090,7 +1090,7 @@
     "tax_related": false,
     "link": "https://onlinelibrary.wiley.com/doi/10.1111/1475-679x.70056?af=R",
     "doi": "",
-    "fetched_at": "2026-11-09T21:58:32.713851+00:00"
+    "fetched_at": "2026-11-16T21:41:01.704935+00:00"
   },
   {
     "source_category": "journal_article",
@@ -1112,7 +1112,7 @@
     "tax_related": false,
     "link": "https://onlinelibrary.wiley.com/doi/10.1111/1475-679x.70060?af=R",
     "doi": "",
-    "fetched_at": "2026-11-09T21:58:32.714796+00:00"
+    "fetched_at": "2026-11-16T21:41:01.706326+00:00"
   },
   {
     "source_category": "journal_article",
@@ -1156,7 +1156,7 @@
     "tax_related": false,
     "link": "https://onlinelibrary.wiley.com/doi/10.1111/1475-679x.70059?af=R",
     "doi": "",
-    "fetched_at": "2026-11-09T21:58:32.713970+00:00"
+    "fetched_at": "2026-11-16T21:41:01.705069+00:00"
   },
   {
     "source_category": "journal_article",
@@ -1200,7 +1200,7 @@
     "tax_related": false,
     "link": "https://onlinelibrary.wiley.com/doi/10.1111/1475-679x.70055?af=R",
     "doi": "",
-    "fetched_at": "2026-11-09T21:58:32.714521+00:00"
+    "fetched_at": "2026-11-16T21:41:01.705835+00:00"
   },
   {
     "source_category": "journal_article",
@@ -1244,7 +1244,7 @@
     "tax_related": false,
     "link": "https://onlinelibrary.wiley.com/doi/10.1111/1475-679x.70049?af=R",
     "doi": "",
-    "fetched_at": "2026-11-09T21:58:32.713757+00:00"
+    "fetched_at": "2026-11-16T21:41:01.704813+00:00"
   },
   {
     "source_category": "journal_article",
@@ -1604,7 +1604,7 @@
     "tax_related": false,
     "link": "https://onlinelibrary.wiley.com/doi/10.1111/1475-679x.70045?af=R",
     "doi": "",
-    "fetched_at": "2026-11-09T21:58:32.714439+00:00"
+    "fetched_at": "2026-11-16T21:41:01.705714+00:00"
   },
   {
     "source_category": "journal_article",
@@ -1868,7 +1868,7 @@
     "tax_related": false,
     "link": "https://onlinelibrary.wiley.com/doi/10.1111/1475-679X.12593?af=R",
     "doi": "",
-    "fetched_at": "2026-11-09T21:58:32.716840+00:00"
+    "fetched_at": "2026-11-16T21:41:01.709081+00:00"
   },
   {
     "source_category": "journal_article",
@@ -1882,15 +1882,15 @@
       "Ta‐Tung (Stephanie) Cheng, \nXi (Jason) Kuang, \nBrian Vansant, \nSuyun (Sue) Wu"
     ],
     "published": "Tue, 22 Sep 2026 00:00:00 -0700",
-    "abstract": "ABSTRACT We conduct two experiments to examine whether and how the framing (bonus vs. penalty) of a target‐based incentive contract affects knowledge sharing and knowledge seeking. In the first experiment, we predict and find that penalty‐framed contracts increase employees' stress due to the fear of potential loss, which in turn reduces their willingness to share knowledge. Additionally, consistent with loss aversion, employees under penalty‐framed contracts are more likely to seek knowledge than those under bonus‐framed contracts. The second experiment corroborates our theoretical arguments by demonstrating the crucial role of stress in reducing knowledge‐sharing behavior. The results show that, when stress is alleviated through an informal control mechanism, penalty‐framed contracts no longer reduce knowledge sharing. The implications of our findings for research and practice are discussed.",
-    "abstract_en": "ABSTRACT We conduct two experiments to examine whether and how the framing (bonus vs. penalty) of a target‐based incentive contract affects knowledge sharing and knowledge seeking. In the first experiment, we predict and find that penalty‐framed contracts increase employees' stress due to the fear of potential loss, which in turn reduces their willingness to share knowledge. Additionally, consistent with loss aversion, employees under penalty‐framed contracts are more likely to seek knowledge than those under bonus‐framed contracts. The second experiment corroborates our theoretical arguments by demonstrating the crucial role of stress in reducing knowledge‐sharing behavior. The results show that, when stress is alleviated through an informal control mechanism, penalty‐framed contracts no longer reduce knowledge sharing. The implications of our findings for research and practice are discussed.",
+    "abstract": "",
+    "abstract_en": "",
     "abstract_zh": "",
     "source_info": "Contemporary Accounting Research, Volume 43, Issue 3, Page 1504-1527, Fall 2026.",
     "method": "Unclassified",
     "tax_related": false,
     "link": "https://onlinelibrary.wiley.com/doi/10.1111/1911-3846.70054?af=R",
     "doi": "",
-    "fetched_at": "2026-11-09T21:58:32.941122+00:00"
+    "fetched_at": "2026-11-16T21:41:01.971953+00:00"
   },
   {
     "source_category": "journal_article",
@@ -1912,7 +1912,7 @@
     "tax_related": false,
     "link": "https://onlinelibrary.wiley.com/doi/10.1111/1911-3846.70055?af=R",
     "doi": "",
-    "fetched_at": "2026-11-09T21:58:32.941206+00:00"
+    "fetched_at": "2026-11-16T21:41:01.972074+00:00"
   },
   {
     "source_category": "journal_article",
@@ -2832,7 +2832,7 @@
     "tax_related": false,
     "link": "https://link.springer.com/journal/11142",
     "doi": "",
-    "fetched_at": "2026-11-09T21:58:35.740559+00:00"
+    "fetched_at": "2026-11-16T21:41:04.714934+00:00"
   },
   {
     "source_category": "journal_article",
@@ -2852,7 +2852,7 @@
     "tax_related": false,
     "link": "https://link.springer.com/journal/11142/ethics-and-disclosures",
     "doi": "",
-    "fetched_at": "2026-11-09T21:58:35.744255+00:00"
+    "fetched_at": "2026-11-16T21:41:04.720197+00:00"
   },
   {
     "source_category": "journal_article",
@@ -2912,7 +2912,7 @@
     "tax_related": false,
     "link": "https://link.springer.com/article/10.1007/s11142-026-09934-7",
     "doi": "",
-    "fetched_at": "2026-11-09T21:58:34.477476+00:00"
+    "fetched_at": "2026-11-16T21:41:03.415118+00:00"
   },
   {
     "source_category": "journal_article",
@@ -3112,7 +3112,7 @@
     "tax_related": false,
     "link": "https://link.springer.com/article/10.1007/s11142-026-09935-6",
     "doi": "",
-    "fetched_at": "2026-11-09T21:58:34.477549+00:00"
+    "fetched_at": "2026-11-16T21:41:03.415221+00:00"
   },
   {
     "source_category": "journal_article",
@@ -4173,7 +4173,7 @@
     "tax_related": false,
     "link": "https://onlinelibrary.wiley.com/doi/10.1111/1475-679x.70071?af=R",
     "doi": "",
-    "fetched_at": "2026-11-09T21:58:32.714290+00:00"
+    "fetched_at": "2026-11-16T21:41:01.705480+00:00"
   },
   {
     "source_category": "journal_article",
@@ -4338,7 +4338,7 @@
     "tax_related": false,
     "link": "https://www.sciencedirect.com/science/article/pii/S0165410126000479?dgcid=rss_sd_all",
     "doi": "",
-    "fetched_at": "2026-11-09T21:58:32.536220+00:00"
+    "fetched_at": "2026-11-16T21:41:01.508691+00:00"
   },
   {
     "source_category": "journal_article",
@@ -4362,7 +4362,7 @@
     "tax_related": true,
     "link": "https://www.sciencedirect.com/science/article/pii/S0165410126000467?dgcid=rss_sd_all",
     "doi": "",
-    "fetched_at": "2026-11-09T21:58:32.536450+00:00"
+    "fetched_at": "2026-11-16T21:41:01.509000+00:00"
   },
   {
     "source_category": "journal_article",
@@ -4377,15 +4377,15 @@
       "Ningzhong Li"
     ],
     "published": "November 2026",
-    "abstract": "<p><span>This study examines the role of the accounting quality of U.S. federal agencies, measured with audit opinions, in federal budget allocations to those agencies. We find that, when an agency receives a modified audit opinion, the president proposes and Congress enacts a lower budget for the agency, and the budgetary disagreement between them increases. These effects strengthen when the president and Congress have stronger incentives to demonstrate spending accountability to taxpayers. Exploiting the enactment of the Department of Homeland Security (DHS) Audit Requirement Target Act, which required the DHS to end its longstanding modified audit opinions, we find that following the act’s implementation, the president proposed higher budgets for the DHS and the budgetary disagreement over the DHS diminished. These findings suggest that high-quality federal agency accounting influences budgetary decisions by reducing agencies’ information asymmetry with politicians (the president and Congress) and taxpayers, facilitating the evaluation of agencies’ spending accountability.&nbsp;</span></p>",
-    "abstract_en": "<p><span>This study examines the role of the accounting quality of U.S. federal agencies, measured with audit opinions, in federal budget allocations to those agencies. We find that, when an agency receives a modified audit opinion, the president proposes and Congress enacts a lower budget for the agency, and the budgetary disagreement between them increases. These effects strengthen when the president and Congress have stronger incentives to demonstrate spending accountability to taxpayers. Exploiting the enactment of the Department of Homeland Security (DHS) Audit Requirement Target Act, which required the DHS to end its longstanding modified audit opinions, we find that following the act’s implementation, the president proposed higher budgets for the DHS and the budgetary disagreement over the DHS diminished. These findings suggest that high-quality federal agency accounting influences budgetary decisions by reducing agencies’ information asymmetry with politicians (the president and Congress) and taxpayers, facilitating the evaluation of agencies’ spending accountability.&nbsp;</span></p>",
+    "abstract": "Public budget is an important role in achieving a country’s economic and social development goals. It essentially requires that an entire government budget be managed effectively and efficiently to ensure attainment of those goals as well as well-being of the citizens. Therefore, it is necessary to examine government spending behaviour and the process of budget preparation. This study looks into the relationship between changes in current budget and expenditure variances, in particular, operating expenditure of the Malaysia federal government. The influence of expenditure variances (overspending/ under spending) on current budget changes is examined to determine if prior year expenditure variances cause non-symmetry changes in current budget so as to identify the presence of budget ratcheting. Dynamic Panel Regression Analysis is used to examine the data from forty four government agencies/programs, covering the period from 2010 until 2014. The findings reveal that there is a significant positive association between changes in current budget with prior year overspending by agency/program. However, the relationship between changes in current budget with prior year underspending by agency/program is not significant. The contribution of the research highlights that the presence of budget ratcheting among the federal government agencies/programs of public organisations needs to be indicated to enhance budget administration regarding ratcheting.",
+    "abstract_en": "Public budget is an important role in achieving a country’s economic and social development goals. It essentially requires that an entire government budget be managed effectively and efficiently to ensure attainment of those goals as well as well-being of the citizens. Therefore, it is necessary to examine government spending behaviour and the process of budget preparation. This study looks into the relationship between changes in current budget and expenditure variances, in particular, operating expenditure of the Malaysia federal government. The influence of expenditure variances (overspending/ under spending) on current budget changes is examined to determine if prior year expenditure variances cause non-symmetry changes in current budget so as to identify the presence of budget ratcheting. Dynamic Panel Regression Analysis is used to examine the data from forty four government agencies/programs, covering the period from 2010 until 2014. The findings reveal that there is a significant positive association between changes in current budget with prior year overspending by agency/program. However, the relationship between changes in current budget with prior year underspending by agency/program is not significant. The contribution of the research highlights that the presence of budget ratcheting among the federal government agencies/programs of public organisations needs to be indicated to enhance budget administration regarding ratcheting.",
     "abstract_zh": "",
     "source_info": "Publication date: November 2026 Source: Journal of Accounting and Economics, Volume 82, Issue 2 Author(s): Jiapeng He, Ningzhong Li",
     "method": "Unclassified",
     "tax_related": false,
     "link": "https://www.sciencedirect.com/science/article/pii/S0165410126000455?dgcid=rss_sd_all",
     "doi": "",
-    "fetched_at": "2026-11-09T21:58:32.536617+00:00"
+    "fetched_at": "2026-11-16T21:41:01.509222+00:00"
   },
   {
     "source_category": "journal_article",
@@ -4487,7 +4487,7 @@
     "tax_related": false,
     "link": "https://onlinelibrary.wiley.com/doi/10.1111/1475-679x.70068?af=R",
     "doi": "",
-    "fetched_at": "2026-11-09T21:58:32.714702+00:00"
+    "fetched_at": "2026-11-16T21:41:01.706077+00:00"
   },
   {
     "source_category": "journal_article",
@@ -4501,15 +4501,15 @@
       "Dingwei Gu, \nHanwen Sun"
     ],
     "published": "Tue, 22 Sep 2026 00:00:00 -0700",
-    "abstract": "ABSTRACT We study how insider trading based on private cost information affects product market outcomes when firms differ in cost variance. In our model, managers exploit firm‐specific cost information to pursue short‐term trading gains, leading them to adjust output decisions and reshape product market competition. We show that trading opportunities have heterogeneous effects on firms' production and value: firms with high cost variance overproduce, whereas those with low cost variance underproduce; correspondingly, the value of firms with high cost variance rises, while that of firms with low cost variance declines. These results demonstrate how heterogeneous costs and private cost information create real economic consequences by linking insider trading incentives to distortions in product market competition and firm value.",
-    "abstract_en": "ABSTRACT We study how insider trading based on private cost information affects product market outcomes when firms differ in cost variance. In our model, managers exploit firm‐specific cost information to pursue short‐term trading gains, leading them to adjust output decisions and reshape product market competition. We show that trading opportunities have heterogeneous effects on firms' production and value: firms with high cost variance overproduce, whereas those with low cost variance underproduce; correspondingly, the value of firms with high cost variance rises, while that of firms with low cost variance declines. These results demonstrate how heterogeneous costs and private cost information create real economic consequences by linking insider trading incentives to distortions in product market competition and firm value.",
+    "abstract": "We study how insider trading based on private cost information affects product market outcomes when firms differ in cost variance. In our model, managers exploit firm-specific cost information to pursue short-term trading gains, leading them to adjust output decisions and reshape product market competition. We show that trading opportunities have heterogeneous effects on firms' production and value: firms with high cost variance overproduce, whereas those with low cost variance underproduce; correspondingly, the value of firms with high cost variance rises, while that of firms with low cost variance declines. These results demonstrate how heterogeneous costs and private cost information create real economic consequences by linking insider trading incentives to distortions in product market competition and firm value.",
+    "abstract_en": "We study how insider trading based on private cost information affects product market outcomes when firms differ in cost variance. In our model, managers exploit firm-specific cost information to pursue short-term trading gains, leading them to adjust output decisions and reshape product market competition. We show that trading opportunities have heterogeneous effects on firms' production and value: firms with high cost variance overproduce, whereas those with low cost variance underproduce; correspondingly, the value of firms with high cost variance rises, while that of firms with low cost variance declines. These results demonstrate how heterogeneous costs and private cost information create real economic consequences by linking insider trading incentives to distortions in product market competition and firm value.",
     "abstract_zh": "",
     "source_info": "Contemporary Accounting Research, Volume 43, Issue 3, Page 1628-1650, Fall 2026.",
     "method": "Analytical / Theory",
     "tax_related": false,
     "link": "https://onlinelibrary.wiley.com/doi/10.1111/1911-3846.70061?af=R",
     "doi": "",
-    "fetched_at": "2026-11-09T21:58:32.942050+00:00"
+    "fetched_at": "2026-11-16T21:41:01.973165+00:00"
   },
   {
     "source_category": "journal_article",
@@ -4531,7 +4531,7 @@
     "tax_related": false,
     "link": "https://onlinelibrary.wiley.com/doi/10.1111/1911-3846.70057?af=R",
     "doi": "",
-    "fetched_at": "2026-11-09T21:58:32.941736+00:00"
+    "fetched_at": "2026-11-16T21:41:01.972840+00:00"
   },
   {
     "source_category": "journal_article",
@@ -4553,7 +4553,7 @@
     "tax_related": false,
     "link": "https://onlinelibrary.wiley.com/doi/10.1111/1911-3846.70056?af=R",
     "doi": "",
-    "fetched_at": "2026-11-09T21:58:32.941650+00:00"
+    "fetched_at": "2026-11-16T21:41:01.972721+00:00"
   },
   {
     "source_category": "journal_article",
@@ -4567,15 +4567,15 @@
       "Clive Lennox, \nChan Li, \nYiqian Wang"
     ],
     "published": "Tue, 22 Sep 2026 00:00:00 -0700",
-    "abstract": "De plus en plus de personnes utilisent quotidiennement la technologie pour communiquer et accéder à l’information, y compris les personnes âgées et les personnes handicapées. Les technologies d’assistance, aussi appelées aides techniques, sont des ressources d’accessibilité et d’inclusion qui offrent un plus grand degré d’autonomie et d’aide aux personnes qui ont un certain degré de difficulté à utiliser les ressources dans leur contact avec des environnements réels et virtuels. Le but de cette étude est d’étudier les perceptions sur l’évaluation heuristique de l’accessibilité dans les logiciels en entreprenant une revue systématique de la littérature qui couvre les 5 dernières années. Cela a commencé avec un total de 8548 articles publiés qui sont indexés dans les bases de données Scopus et Web of Science. Douze questions de recherche pertinentes ont été rédigées et ont reçu une réponse conforme aux résultats trouvés dans la série finale d’articles. Deux groupes de mots-clés ont été créés pour faciliter la recherche d’articles et un processus de filtrage a été appliqué aux résultats des recherches. La recherche montre, au moyen de chiffres et de tableaux, des preuves de la croissance des articles scientifiques dans le domaine. Les auteurs principaux et les revues qui publient sur l’évaluation de l’accessibilité des logiciels sont énumérés, de même que les réponses aux questions sur les modèles d’évaluation, les heuristiques, les mesures, les limites, les technologies d’assistance et les publics cibles les plus cités dans les articles publiés. Cette étude analyse également la co-citation des références et des couples sources bibliographiques. La recherche a montré qu’il n’y a pas de consensus général sur l’utilisation d’un modèle unique pour évaluer l’accessibilité, mais que les directives WCAG du W3C sont les sources les plus utilisées pour référencer les heuristiques et les métriques dans les études de ce type. Il a également été remarqué que la plupart des études ne se concentrent pas sur les technologies d’assistance, mais sont largement utilisées pour appuyer les décisions sur les sites Web.",
-    "abstract_en": "De plus en plus de personnes utilisent quotidiennement la technologie pour communiquer et accéder à l’information, y compris les personnes âgées et les personnes handicapées. Les technologies d’assistance, aussi appelées aides techniques, sont des ressources d’accessibilité et d’inclusion qui offrent un plus grand degré d’autonomie et d’aide aux personnes qui ont un certain degré de difficulté à utiliser les ressources dans leur contact avec des environnements réels et virtuels. Le but de cette étude est d’étudier les perceptions sur l’évaluation heuristique de l’accessibilité dans les logiciels en entreprenant une revue systématique de la littérature qui couvre les 5 dernières années. Cela a commencé avec un total de 8548 articles publiés qui sont indexés dans les bases de données Scopus et Web of Science. Douze questions de recherche pertinentes ont été rédigées et ont reçu une réponse conforme aux résultats trouvés dans la série finale d’articles. Deux groupes de mots-clés ont été créés pour faciliter la recherche d’articles et un processus de filtrage a été appliqué aux résultats des recherches. La recherche montre, au moyen de chiffres et de tableaux, des preuves de la croissance des articles scientifiques dans le domaine. Les auteurs principaux et les revues qui publient sur l’évaluation de l’accessibilité des logiciels sont énumérés, de même que les réponses aux questions sur les modèles d’évaluation, les heuristiques, les mesures, les limites, les technologies d’assistance et les publics cibles les plus cités dans les articles publiés. Cette étude analyse également la co-citation des références et des couples sources bibliographiques. La recherche a montré qu’il n’y a pas de consensus général sur l’utilisation d’un modèle unique pour évaluer l’accessibilité, mais que les directives WCAG du W3C sont les sources les plus utilisées pour référencer les heuristiques et les métriques dans les études de ce type. Il a également été remarqué que la plupart des études ne se concentrent pas sur les technologies d’assistance, mais sont largement utilisées pour appuyer les décisions sur les sites Web.",
+    "abstract": "",
+    "abstract_en": "",
     "abstract_zh": "",
     "source_info": "Contemporary Accounting Research, Volume 43, Issue 3, Page 1179-1252, Fall 2026.",
     "method": "Survey / Interview",
     "tax_related": false,
     "link": "https://onlinelibrary.wiley.com/doi/10.1111/1911-3846.70046?af=R",
     "doi": "",
-    "fetched_at": "2026-11-09T21:58:32.941304+00:00"
+    "fetched_at": "2026-11-16T21:41:01.972211+00:00"
   },
   {
     "source_category": "journal_article",
@@ -4597,7 +4597,7 @@
     "tax_related": false,
     "link": "https://onlinelibrary.wiley.com/doi/10.1111/1911-3846.70058?af=R",
     "doi": "",
-    "fetched_at": "2026-11-09T21:58:32.943185+00:00"
+    "fetched_at": "2026-11-16T21:41:01.974821+00:00"
   },
   {
     "source_category": "journal_article",
@@ -4619,7 +4619,7 @@
     "tax_related": false,
     "link": "https://onlinelibrary.wiley.com/doi/10.1111/1911-3846.70059?af=R",
     "doi": "",
-    "fetched_at": "2026-11-09T21:58:32.941851+00:00"
+    "fetched_at": "2026-11-16T21:41:01.973011+00:00"
   },
   {
     "source_category": "journal_article",
@@ -4679,15 +4679,15 @@
       "Xiangyu Li"
     ],
     "published": "November 2026",
-    "abstract": "<p><span>This study investigates the practice of re-audits—where an incoming audit firm re-audits the prior year’s financial statements previously examined by a predecessor audit firm. We examine the costs and benefits of such re-audits. We find that re-audits are more likely when the risks of misstatement are high and when incoming auditors can expect to win more clients by identifying material misstatements overlooked by predecessor auditors. Our results show that incoming auditors who perform re-audits are more successful in winning new clients from predecessor auditors. Moreover, re-audits result in significantly more restatements. However, consistent with the resource-intensive nature of re-audits, we also find that they are associated with longer audit delays and higher audit fees. Overall, we conclude that re-audits have important consequences for financial statement users, incoming auditors, and predecessor auditors.&nbsp;</span></p>",
-    "abstract_en": "<p><span>This study investigates the practice of re-audits—where an incoming audit firm re-audits the prior year’s financial statements previously examined by a predecessor audit firm. We examine the costs and benefits of such re-audits. We find that re-audits are more likely when the risks of misstatement are high and when incoming auditors can expect to win more clients by identifying material misstatements overlooked by predecessor auditors. Our results show that incoming auditors who perform re-audits are more successful in winning new clients from predecessor auditors. Moreover, re-audits result in significantly more restatements. However, consistent with the resource-intensive nature of re-audits, we also find that they are associated with longer audit delays and higher audit fees. Overall, we conclude that re-audits have important consequences for financial statement users, incoming auditors, and predecessor auditors.&nbsp;</span></p>",
+    "abstract": "This study investigates the practice of re-audits—where an incoming audit firm re-audits the prior year’s financial statements previously examined by a predecessor audit firm. We examine the costs and benefits of such re-audits. We find that re-audits are more likely when the risks of misstatement are high and when incoming auditors can expect to win more clients by identifying material misstatements overlooked by predecessor auditors. Our results show that incoming auditors who perform re-audits are more successful in winning new clients from predecessor auditors. Moreover, re-audits result in significantly more restatements. However, consistent with the resource-intensive nature of re-audits, we also find that they are associated with longer audit delays and higher audit fees. Overall, we conclude that re-audits have important consequences for financial statement users, incoming auditors, and predecessor auditors.",
+    "abstract_en": "This study investigates the practice of re-audits—where an incoming audit firm re-audits the prior year’s financial statements previously examined by a predecessor audit firm. We examine the costs and benefits of such re-audits. We find that re-audits are more likely when the risks of misstatement are high and when incoming auditors can expect to win more clients by identifying material misstatements overlooked by predecessor auditors. Our results show that incoming auditors who perform re-audits are more successful in winning new clients from predecessor auditors. Moreover, re-audits result in significantly more restatements. However, consistent with the resource-intensive nature of re-audits, we also find that they are associated with longer audit delays and higher audit fees. Overall, we conclude that re-audits have important consequences for financial statement users, incoming auditors, and predecessor auditors.",
     "abstract_zh": "",
     "source_info": "Publication date: November 2026 Source: Journal of Accounting and Economics, Volume 82, Issue 2 Author(s): Isabel J. Cho, Clive Lennox, Xiangyu Li",
     "method": "Unclassified",
     "tax_related": false,
     "link": "https://www.sciencedirect.com/science/article/pii/S0165410126000480?dgcid=rss_sd_all",
     "doi": "",
-    "fetched_at": "2026-11-09T21:58:32.536065+00:00"
+    "fetched_at": "2026-11-16T21:41:01.508438+00:00"
   },
   {
     "source_category": "journal_article",
@@ -4711,7 +4711,7 @@
     "tax_related": false,
     "link": "https://www.sciencedirect.com/science/article/pii/S0165410126000492?dgcid=rss_sd_all",
     "doi": "",
-    "fetched_at": "2026-11-09T21:58:32.535882+00:00"
+    "fetched_at": "2026-11-16T21:41:01.508235+00:00"
   },
   {
     "source_category": "journal_article",
@@ -4733,7 +4733,7 @@
     "tax_related": false,
     "link": "https://onlinelibrary.wiley.com/doi/10.1111/1475-679x.70074?af=R",
     "doi": "",
-    "fetched_at": "2026-11-09T21:58:32.716575+00:00"
+    "fetched_at": "2026-11-16T21:41:01.708712+00:00"
   },
   {
     "source_category": "journal_article",
@@ -4755,7 +4755,7 @@
     "tax_related": false,
     "link": "https://onlinelibrary.wiley.com/doi/10.1111/1475-679x.70073?af=R",
     "doi": "",
-    "fetched_at": "2026-11-09T21:58:32.716660+00:00"
+    "fetched_at": "2026-11-16T21:41:01.708828+00:00"
   },
   {
     "source_category": "journal_article",
@@ -4815,7 +4815,7 @@
     "tax_related": false,
     "link": "https://link.springer.com/article/10.1007/s11142-026-09961-4",
     "doi": "",
-    "fetched_at": "2026-11-09T21:58:35.743143+00:00"
+    "fetched_at": "2026-11-16T21:41:04.718901+00:00"
   },
   {
     "source_category": "journal_article",
@@ -4886,7 +4886,7 @@
     "tax_related": false,
     "link": "https://www.sciencedirect.com/science/article/pii/S0165410126000522?dgcid=rss_sd_all",
     "doi": "",
-    "fetched_at": "2026-11-09T21:58:32.535323+00:00"
+    "fetched_at": "2026-11-16T21:41:01.507536+00:00"
   },
   {
     "source_category": "journal_article",
@@ -4910,7 +4910,7 @@
     "tax_related": false,
     "link": "https://www.sciencedirect.com/science/article/pii/S0165410126000510?dgcid=rss_sd_all",
     "doi": "",
-    "fetched_at": "2026-11-09T21:58:32.535481+00:00"
+    "fetched_at": "2026-11-16T21:41:01.507770+00:00"
   },
   {
     "source_category": "journal_article",
@@ -4935,7 +4935,7 @@
     "tax_related": false,
     "link": "https://www.sciencedirect.com/science/article/pii/S0165410126000509?dgcid=rss_sd_all",
     "doi": "",
-    "fetched_at": "2026-11-09T21:58:32.535643+00:00"
+    "fetched_at": "2026-11-16T21:41:01.507994+00:00"
   },
   {
     "source_category": "journal_article",
@@ -4949,15 +4949,15 @@
       "Stephannie Larocque, \nJessica Watkins, \nEric Weisbrod"
     ],
     "published": "Wed, 17 Jun 2026 20:29:19 -0700",
-    "abstract": "<p><span>We compare the earnings information produced by the five largest forecast data providers (FDPs) – Bloomberg, Capital IQ, FactSet, I/B/E/S, and Zacks – and observe substantial differences across FDPs in both forecasted and actual street earnings values, and thus the earnings surprise, for the same firm-quarter. We provide evidence that differences in the earnings surprise across FDPs for the same firm-quarter (i.e., “FDP differences”) have economically meaningful implications for price responsiveness and liquidity around earnings announcements. We also find that, for announcements where FDPs disagree about whether the announcing firm missed or beat earnings expectations, investors are more likely to side with higher quality FDPs but may not fully impound the implications of FDP quality differences during the announcement window. On average, relative to the other FDPs, I/B/E/S ranks highly in our measure of FDP quality, such that investor reactions are likely to align with I/B/E/S earnings information, validating its use as a representative FDP in academic research. Taken together, our results are consistent with FDPs pursuing differentiated information production strategies that generate capital market frictions when these strategies lead to material FDP differences.</span></p>",
-    "abstract_en": "<p><span>We compare the earnings information produced by the five largest forecast data providers (FDPs) – Bloomberg, Capital IQ, FactSet, I/B/E/S, and Zacks – and observe substantial differences across FDPs in both forecasted and actual street earnings values, and thus the earnings surprise, for the same firm-quarter. We provide evidence that differences in the earnings surprise across FDPs for the same firm-quarter (i.e., “FDP differences”) have economically meaningful implications for price responsiveness and liquidity around earnings announcements. We also find that, for announcements where FDPs disagree about whether the announcing firm missed or beat earnings expectations, investors are more likely to side with higher quality FDPs but may not fully impound the implications of FDP quality differences during the announcement window. On average, relative to the other FDPs, I/B/E/S ranks highly in our measure of FDP quality, such that investor reactions are likely to align with I/B/E/S earnings information, validating its use as a representative FDP in academic research. Taken together, our results are consistent with FDPs pursuing differentiated information production strategies that generate capital market frictions when these strategies lead to material FDP differences.</span></p>",
+    "abstract": "ABSTRACT We compare the earnings information produced by the five largest forecast data providers (FDPs)—Bloomberg, Capital IQ, FactSet, I/B/E/S, and Zacks—and observe substantial differences across FDPs in both forecasted and actual street earnings values, and thus the earnings surprise, for the same firm‐quarter. We provide evidence that differences in the earnings surprise across FDPs for the same firm‐quarter (i.e., “FDP differences”) have economically meaningful implications for price responsiveness and liquidity around earnings announcements. We also find that, for announcements where FDPs disagree about whether the announcing firm missed or beat earnings expectations, investors are more likely to side with higher‐quality FDPs but may not fully impound the implications of FDP quality differences during the announcement window. On average, relative to the other FDPs, I/B/E/S ranks highly in our measure of FDP quality, such that investor reactions are likely to align with I/B/E/S earnings information, validating its use as a representative FDP in academic research. Taken together, our results are consistent with FDPs pursuing differentiated information production strategies that generate capital market frictions when these strategies lead to material FDP differences.",
+    "abstract_en": "ABSTRACT We compare the earnings information produced by the five largest forecast data providers (FDPs)—Bloomberg, Capital IQ, FactSet, I/B/E/S, and Zacks—and observe substantial differences across FDPs in both forecasted and actual street earnings values, and thus the earnings surprise, for the same firm‐quarter. We provide evidence that differences in the earnings surprise across FDPs for the same firm‐quarter (i.e., “FDP differences”) have economically meaningful implications for price responsiveness and liquidity around earnings announcements. We also find that, for announcements where FDPs disagree about whether the announcing firm missed or beat earnings expectations, investors are more likely to side with higher‐quality FDPs but may not fully impound the implications of FDP quality differences during the announcement window. On average, relative to the other FDPs, I/B/E/S ranks highly in our measure of FDP quality, such that investor reactions are likely to align with I/B/E/S earnings information, validating its use as a representative FDP in academic research. Taken together, our results are consistent with FDPs pursuing differentiated information production strategies that generate capital market frictions when these strategies lead to material FDP differences.",
     "abstract_zh": "",
     "source_info": "",
     "method": "Unclassified",
     "tax_related": false,
     "link": "https://onlinelibrary.wiley.com/doi/10.1111/1475-679x.70072?af=R",
     "doi": "",
-    "fetched_at": "2026-11-09T21:58:32.716408+00:00"
+    "fetched_at": "2026-11-16T21:41:01.708586+00:00"
   },
   {
     "source_category": "journal_article",
@@ -4979,7 +4979,7 @@
     "tax_related": false,
     "link": "https://onlinelibrary.wiley.com/doi/10.1111/1911-3846.70051?af=R",
     "doi": "",
-    "fetched_at": "2026-11-09T21:58:32.940905+00:00"
+    "fetched_at": "2026-11-16T21:41:01.971661+00:00"
   },
   {
     "source_category": "journal_article",
@@ -5040,15 +5040,15 @@
       "Jinshuai Hu, \nYongtae Kim, \nSiqi Li, \nYibing Wu"
     ],
     "published": "Tue, 22 Sep 2026 00:00:00 -0700",
-    "abstract": "",
-    "abstract_en": "",
+    "abstract": "<p><span><span>Exploiting the staggered rollout of third generation (3G) mobile broadband networks across 40 countries between 1999 and 2012, we examine how technological progress affects capital markets. We find that the introduction of 3G networks is followed by a reduction in bid-ask spreads and an increase in price informativeness. These effects are&nbsp;</span></span><span>more pronounced among firms with lower institutional ownership, indicating that information access through mobile broadband networks disproportionally benefits retail investors<span>. We further show that&nbsp;</span>these effects are concentrated<span>&nbsp;in countries with well-functioning markets as characterized by transparent accounting information,&nbsp;</span>broad<span>&nbsp;investor participation, and strong legal protections for investors</span><span>. Taken together, our findings suggest that mobile broadband connectivity reduces information frictions and improves price informativeness.</span>&nbsp;They further highlight the institutional conditions under which these benefits materialize.&nbsp;<span></span></span></p>",
+    "abstract_en": "<p><span><span>Exploiting the staggered rollout of third generation (3G) mobile broadband networks across 40 countries between 1999 and 2012, we examine how technological progress affects capital markets. We find that the introduction of 3G networks is followed by a reduction in bid-ask spreads and an increase in price informativeness. These effects are&nbsp;</span></span><span>more pronounced among firms with lower institutional ownership, indicating that information access through mobile broadband networks disproportionally benefits retail investors<span>. We further show that&nbsp;</span>these effects are concentrated<span>&nbsp;in countries with well-functioning markets as characterized by transparent accounting information,&nbsp;</span>broad<span>&nbsp;investor participation, and strong legal protections for investors</span><span>. Taken together, our findings suggest that mobile broadband connectivity reduces information frictions and improves price informativeness.</span>&nbsp;They further highlight the institutional conditions under which these benefits materialize.&nbsp;<span></span></span></p>",
     "abstract_zh": "",
     "source_info": "Contemporary Accounting Research, Volume 43, Issue 3, Page 1406-1438, Fall 2026.",
     "method": "Unclassified",
     "tax_related": false,
     "link": "https://onlinelibrary.wiley.com/doi/10.1111/1911-3846.70062?af=R",
     "doi": "",
-    "fetched_at": "2026-11-09T21:58:32.942194+00:00"
+    "fetched_at": "2026-11-16T21:41:01.973354+00:00"
   },
   {
     "source_category": "journal_article",
@@ -5068,7 +5068,7 @@
     "tax_related": false,
     "link": "https://link.springer.com/article/10.1007/s11142-026-09963-2",
     "doi": "",
-    "fetched_at": "2026-11-09T21:58:35.742836+00:00"
+    "fetched_at": "2026-11-16T21:41:04.718460+00:00"
   },
   {
     "source_category": "journal_article",
@@ -5088,7 +5088,7 @@
     "tax_related": false,
     "link": "https://link.springer.com/article/10.1007/s11142-026-09960-5",
     "doi": "",
-    "fetched_at": "2026-11-09T21:58:35.742901+00:00"
+    "fetched_at": "2026-11-16T21:41:04.718564+00:00"
   },
   {
     "source_category": "journal_article",
@@ -5108,7 +5108,7 @@
     "tax_related": false,
     "link": "https://link.springer.com/article/10.1007/s11142-026-09964-1",
     "doi": "",
-    "fetched_at": "2026-11-09T21:58:35.743059+00:00"
+    "fetched_at": "2026-11-16T21:41:04.718780+00:00"
   },
   {
     "source_category": "journal_article",
@@ -5128,7 +5128,7 @@
     "tax_related": false,
     "link": "https://link.springer.com/article/10.1007/s11142-026-09978-9",
     "doi": "",
-    "fetched_at": "2026-11-09T21:58:35.742983+00:00"
+    "fetched_at": "2026-11-16T21:41:04.718677+00:00"
   },
   {
     "source_category": "journal_article",
@@ -5312,7 +5312,7 @@
     "tax_related": false,
     "link": "https://link.springer.com/article/10.1007/s11142-026-09976-x",
     "doi": "",
-    "fetched_at": "2026-11-09T21:58:35.742522+00:00"
+    "fetched_at": "2026-11-16T21:41:04.717902+00:00"
   },
   {
     "source_category": "journal_article",
@@ -5332,7 +5332,7 @@
     "tax_related": false,
     "link": "https://link.springer.com/article/10.1007/s11142-026-09973-0",
     "doi": "",
-    "fetched_at": "2026-11-09T21:58:35.742583+00:00"
+    "fetched_at": "2026-11-16T21:41:04.717992+00:00"
   },
   {
     "source_category": "journal_article",
@@ -5352,7 +5352,7 @@
     "tax_related": true,
     "link": "https://link.springer.com/article/10.1007/s11142-026-09962-3",
     "doi": "",
-    "fetched_at": "2026-11-09T21:58:35.742627+00:00"
+    "fetched_at": "2026-11-16T21:41:04.718056+00:00"
   },
   {
     "source_category": "journal_article",
@@ -5372,7 +5372,7 @@
     "tax_related": false,
     "link": "https://link.springer.com/article/10.1007/s11142-026-09972-1",
     "doi": "",
-    "fetched_at": "2026-11-09T21:58:35.742705+00:00"
+    "fetched_at": "2026-11-16T21:41:04.718175+00:00"
   },
   {
     "source_category": "journal_article",
@@ -5392,7 +5392,7 @@
     "tax_related": false,
     "link": "https://link.springer.com/article/10.1007/s11142-026-09966-z",
     "doi": "",
-    "fetched_at": "2026-11-09T21:58:35.742763+00:00"
+    "fetched_at": "2026-11-16T21:41:04.718263+00:00"
   },
   {
     "source_category": "journal_article",
@@ -5417,7 +5417,7 @@
     "tax_related": false,
     "link": "https://doi.org/10.2308/tar-2024-0095",
     "doi": "10.2308/tar-2024-0095",
-    "fetched_at": "2026-11-09T21:58:32.216404+00:00"
+    "fetched_at": "2026-11-16T21:41:01.237728+00:00"
   },
   {
     "source_category": "journal_article",
@@ -5516,7 +5516,7 @@
     "tax_related": false,
     "link": "https://www.sciencedirect.com/science/article/pii/S0165410126000546?dgcid=rss_sd_all",
     "doi": "",
-    "fetched_at": "2026-11-09T21:58:32.543737+00:00"
+    "fetched_at": "2026-11-16T21:41:01.519089+00:00"
   },
   {
     "source_category": "journal_article",
@@ -5544,7 +5544,7 @@
     "tax_related": false,
     "link": "https://www.sciencedirect.com/science/article/pii/S0165410126000583?dgcid=rss_sd_all",
     "doi": "",
-    "fetched_at": "2026-11-09T21:58:32.541844+00:00"
+    "fetched_at": "2026-11-16T21:41:01.516474+00:00"
   },
   {
     "source_category": "journal_article",
@@ -5568,7 +5568,7 @@
     "tax_related": false,
     "link": "https://www.sciencedirect.com/science/article/pii/S016541012600056X?dgcid=rss_sd_all",
     "doi": "",
-    "fetched_at": "2026-11-09T21:58:32.544008+00:00"
+    "fetched_at": "2026-11-16T21:41:01.519415+00:00"
   },
   {
     "source_category": "journal_article",
@@ -5592,7 +5592,7 @@
     "tax_related": false,
     "link": "https://www.sciencedirect.com/science/article/pii/S0165410126000558?dgcid=rss_sd_all",
     "doi": "",
-    "fetched_at": "2026-11-09T21:58:32.534984+00:00"
+    "fetched_at": "2026-11-16T21:41:01.507080+00:00"
   },
   {
     "source_category": "journal_article",
@@ -5616,7 +5616,7 @@
     "tax_related": true,
     "link": "https://www.sciencedirect.com/science/article/pii/S0165410126000534?dgcid=rss_sd_all",
     "doi": "",
-    "fetched_at": "2026-11-09T21:58:32.535146+00:00"
+    "fetched_at": "2026-11-16T21:41:01.507299+00:00"
   },
   {
     "source_category": "journal_article",
@@ -5636,7 +5636,7 @@
     "tax_related": false,
     "link": "https://link.springer.com/article/10.1007/s11142-026-09974-z",
     "doi": "",
-    "fetched_at": "2026-11-09T21:58:35.742299+00:00"
+    "fetched_at": "2026-11-16T21:41:04.717679+00:00"
   },
   {
     "source_category": "journal_article",
@@ -5656,7 +5656,7 @@
     "tax_related": false,
     "link": "https://link.springer.com/article/10.1007/s11142-026-09979-8",
     "doi": "",
-    "fetched_at": "2026-11-09T21:58:35.742432+00:00"
+    "fetched_at": "2026-11-16T21:41:04.717769+00:00"
   },
   {
     "source_category": "journal_article",
@@ -5680,7 +5680,7 @@
     "tax_related": false,
     "link": "https://doi.org/10.2308/tar-2025-0068",
     "doi": "10.2308/tar-2025-0068",
-    "fetched_at": "2026-11-09T21:58:32.214867+00:00"
+    "fetched_at": "2026-11-16T21:41:01.235017+00:00"
   },
   {
     "source_category": "journal_article",
@@ -5704,7 +5704,7 @@
     "tax_related": false,
     "link": "https://doi.org/10.2308/tar-2024-0427",
     "doi": "10.2308/tar-2024-0427",
-    "fetched_at": "2026-11-09T21:58:32.215346+00:00"
+    "fetched_at": "2026-11-16T21:41:01.235659+00:00"
   },
   {
     "source_category": "journal_article",
@@ -5724,7 +5724,7 @@
     "tax_related": false,
     "link": "https://www.sciencedirect.com/science/article/pii/S0165410126000650?dgcid=rss_sd_all",
     "doi": "",
-    "fetched_at": "2026-11-09T21:58:32.542099+00:00"
+    "fetched_at": "2026-11-16T21:41:01.516781+00:00"
   },
   {
     "source_category": "journal_article",
@@ -5747,7 +5747,7 @@
     "tax_related": false,
     "link": "https://www.sciencedirect.com/science/article/pii/S0165410126000728?dgcid=rss_sd_all",
     "doi": "",
-    "fetched_at": "2026-11-09T21:58:32.543152+00:00"
+    "fetched_at": "2026-11-16T21:41:01.518250+00:00"
   },
   {
     "source_category": "journal_article",
@@ -5773,7 +5773,7 @@
     "tax_related": false,
     "link": "https://www.sciencedirect.com/science/article/pii/S016541012600073X?dgcid=rss_sd_all",
     "doi": "",
-    "fetched_at": "2026-11-09T21:58:32.543298+00:00"
+    "fetched_at": "2026-11-16T21:41:01.518451+00:00"
   },
   {
     "source_category": "journal_article",
@@ -5798,7 +5798,7 @@
     "tax_related": false,
     "link": "https://www.sciencedirect.com/science/article/pii/S0165410126000595?dgcid=rss_sd_all",
     "doi": "",
-    "fetched_at": "2026-11-09T21:58:32.543448+00:00"
+    "fetched_at": "2026-11-16T21:41:01.518676+00:00"
   },
   {
     "source_category": "journal_article",
@@ -5821,7 +5821,7 @@
     "tax_related": false,
     "link": "https://www.sciencedirect.com/science/article/pii/S0165410126000571?dgcid=rss_sd_all",
     "doi": "",
-    "fetched_at": "2026-11-09T21:58:32.543600+00:00"
+    "fetched_at": "2026-11-16T21:41:01.518887+00:00"
   },
   {
     "source_category": "journal_article",
@@ -5843,7 +5843,7 @@
     "tax_related": false,
     "link": "https://onlinelibrary.wiley.com/doi/10.1111/1475-679x.70075?af=R",
     "doi": "",
-    "fetched_at": "2026-11-09T21:58:32.716309+00:00"
+    "fetched_at": "2026-11-16T21:41:01.708330+00:00"
   },
   {
     "source_category": "journal_article",
@@ -5865,7 +5865,7 @@
     "tax_related": false,
     "link": "https://onlinelibrary.wiley.com/doi/10.1111/1911-3846.70065?af=R",
     "doi": "",
-    "fetched_at": "2026-11-09T21:58:32.942394+00:00"
+    "fetched_at": "2026-11-16T21:41:01.973660+00:00"
   },
   {
     "source_category": "journal_article",
@@ -5887,7 +5887,7 @@
     "tax_related": true,
     "link": "https://onlinelibrary.wiley.com/doi/10.1111/1911-3846.70064?af=R",
     "doi": "",
-    "fetched_at": "2026-11-09T21:58:32.942261+00:00"
+    "fetched_at": "2026-11-16T21:41:01.973449+00:00"
   },
   {
     "source_category": "journal_article",
@@ -5909,7 +5909,7 @@
     "tax_related": false,
     "link": "https://onlinelibrary.wiley.com/doi/10.1111/1911-3846.70049?af=R",
     "doi": "",
-    "fetched_at": "2026-11-09T21:58:32.941515+00:00"
+    "fetched_at": "2026-11-16T21:41:01.972514+00:00"
   },
   {
     "source_category": "journal_article",
@@ -5931,7 +5931,7 @@
     "tax_related": false,
     "link": "https://onlinelibrary.wiley.com/doi/10.1111/1911-3846.70066?af=R",
     "doi": "",
-    "fetched_at": "2026-11-09T21:58:32.942526+00:00"
+    "fetched_at": "2026-11-16T21:41:01.973850+00:00"
   },
   {
     "source_category": "journal_article",
@@ -5945,15 +5945,15 @@
       "Jiajia Fu, \nYuan Ji, \nJames Potepa"
     ],
     "published": "Tue, 22 Sep 2026 00:00:00 -0700",
-    "abstract": "ABSTRACT Accounting standards require firms to distinguish recurring revenues and expenses from nonrecurring gains and losses, which are often referred to as special items. However, not all special items are genuinely nonrecurring. Exploiting the setting of earnings conference calls, we explore whether analysts can identify opportunistic special items, as evidenced by asking for more information about them. We find evidence that managers' discussions of special items more often relate to predicted special items, whereas analysts have more questions about potentially opportunistic special items. Managers adopt a relatively more negative tone and use more words when answering questions about potentially opportunistic special items. Finally, we find that analysts who question potentially opportunistic special items have fewer opportunities to speak in the subsequent call, consistent with managerial retaliation.",
-    "abstract_en": "ABSTRACT Accounting standards require firms to distinguish recurring revenues and expenses from nonrecurring gains and losses, which are often referred to as special items. However, not all special items are genuinely nonrecurring. Exploiting the setting of earnings conference calls, we explore whether analysts can identify opportunistic special items, as evidenced by asking for more information about them. We find evidence that managers' discussions of special items more often relate to predicted special items, whereas analysts have more questions about potentially opportunistic special items. Managers adopt a relatively more negative tone and use more words when answering questions about potentially opportunistic special items. Finally, we find that analysts who question potentially opportunistic special items have fewer opportunities to speak in the subsequent call, consistent with managerial retaliation.",
+    "abstract": "",
+    "abstract_en": "",
     "abstract_zh": "",
     "source_info": "Contemporary Accounting Research, Volume 43, Issue 3, Page 1651-1681, Fall 2026.",
     "method": "Unclassified",
     "tax_related": false,
     "link": "https://onlinelibrary.wiley.com/doi/10.1111/1911-3846.70060?af=R",
     "doi": "",
-    "fetched_at": "2026-11-09T21:58:32.941426+00:00"
+    "fetched_at": "2026-11-16T21:41:01.972386+00:00"
   },
   {
     "source_category": "journal_article",
@@ -5976,7 +5976,7 @@
     "tax_related": false,
     "link": "https://doi.org/10.2308/tar-2025-0280",
     "doi": "10.2308/tar-2025-0280",
-    "fetched_at": "2026-11-09T21:58:32.221436+00:00"
+    "fetched_at": "2026-11-16T21:41:01.243395+00:00"
   },
   {
     "source_category": "journal_article",
@@ -6001,7 +6001,7 @@
     "tax_related": false,
     "link": "https://doi.org/10.2308/tar-2019-0605",
     "doi": "10.2308/tar-2019-0605",
-    "fetched_at": "2026-11-09T21:58:32.217617+00:00"
+    "fetched_at": "2026-11-16T21:41:01.238534+00:00"
   },
   {
     "source_category": "journal_article",
@@ -6025,7 +6025,7 @@
     "tax_related": false,
     "link": "https://www.sciencedirect.com/science/article/pii/S0165410126000765?dgcid=rss_sd_all",
     "doi": "",
-    "fetched_at": "2026-11-09T21:58:32.542533+00:00"
+    "fetched_at": "2026-11-16T21:41:01.517395+00:00"
   },
   {
     "source_category": "journal_article",
@@ -6047,7 +6047,7 @@
     "tax_related": false,
     "link": "https://www.sciencedirect.com/science/article/pii/S0165410126000686?dgcid=rss_sd_all",
     "doi": "",
-    "fetched_at": "2026-11-09T21:58:32.542683+00:00"
+    "fetched_at": "2026-11-16T21:41:01.517622+00:00"
   },
   {
     "source_category": "journal_article",
@@ -6061,15 +6061,15 @@
       "Joshua T. White"
     ],
     "published": "Available online 22 July 2026",
-    "abstract": "Pandey et al. (2026) examine whether the auditor independence provisions of Sarbanes-Oxley (SOX) impact accounting careers and human-capital development. I discuss how the paper shows that independence regulation affects not just the economic ties of auditors and clients, but also the organization of work through which auditors develop human capital. I interpret the evidence as identifying both intended and unintended consequences of independence rules on accountants' learning, networks, and mobility. The paper adds an important labor-market cost dimension to the evaluation of SOX, but I argue it should be read as informing independence regulation rather than making a case against it. The broader implication is that auditor independence and human capital are complementary inputs into audit quality, which creates a regulatory design problem of protecting auditor objectivity while sustaining expertise.",
-    "abstract_en": "Pandey et al. (2026) examine whether the auditor independence provisions of Sarbanes-Oxley (SOX) impact accounting careers and human-capital development. I discuss how the paper shows that independence regulation affects not just the economic ties of auditors and clients, but also the organization of work through which auditors develop human capital. I interpret the evidence as identifying both intended and unintended consequences of independence rules on accountants' learning, networks, and mobility. The paper adds an important labor-market cost dimension to the evaluation of SOX, but I argue it should be read as informing independence regulation rather than making a case against it. The broader implication is that auditor independence and human capital are complementary inputs into audit quality, which creates a regulatory design problem of protecting auditor objectivity while sustaining expertise.",
+    "abstract": "The thesis explores the relationship between Audit Committees and External Auditors’ fees of a sample of FTSE 350 companies in the UK for the period of 2005-2006. This is achieved by providing answers to three main research questions. First, what are the determinants of Audit Committee activity? Second, what is the relationship between Audit Committee activity and external auditors’ fees? Third, what is the relationship between audit and non-audit fees and how does the Audit Committee affect these? Starting out with an Agency Theoretical background, the study found evidence consistent with the views that a higher proportion of Independent Non-Executive Directors on the board enhances Audit Committees’ activity, but the presence of financial expertise on the committee was not found to be statistically significant in explaining its activity. The thesis also documented evidence that shows that Audit Committee activity is inversely related to managerial ownership of shares in companies. In line with the economic theory of auditing, the researcher used fees paid to the external auditor to proxy for the level of economic bonding between auditors and their clients. Higher fees are interpreted to indicate compromised independence. Five alternative measures of economic bonding were used. The researcher found a stable and statistically significant positive relationship between measures of economic bonding and Audit Committee activity. This finding is consistent with the view that Audit Committees buy more services from the auditors in order to enhance auditing and reporting quality. Strong positive relationships between audit and non-audit services and vice versa were found using a single equation fees model but these relationships were not consistent when the researcher controlled for endogeneity between audit and non audit fees using Simultaneous Equation Models (SEM). Audit Committee activity was not statistically important in these relationships. This evidence taken together supports the proposition that economies of scope exist in the joint provision of both audit and non-auditing services to the same client. Finally the thesis also documents evidence that suggests that knowledge spill-over flows from non-audit services to auditing services and that auditor do not use audit as a loss leader.",
+    "abstract_en": "The thesis explores the relationship between Audit Committees and External Auditors’ fees of a sample of FTSE 350 companies in the UK for the period of 2005-2006. This is achieved by providing answers to three main research questions. First, what are the determinants of Audit Committee activity? Second, what is the relationship between Audit Committee activity and external auditors’ fees? Third, what is the relationship between audit and non-audit fees and how does the Audit Committee affect these? Starting out with an Agency Theoretical background, the study found evidence consistent with the views that a higher proportion of Independent Non-Executive Directors on the board enhances Audit Committees’ activity, but the presence of financial expertise on the committee was not found to be statistically significant in explaining its activity. The thesis also documented evidence that shows that Audit Committee activity is inversely related to managerial ownership of shares in companies. In line with the economic theory of auditing, the researcher used fees paid to the external auditor to proxy for the level of economic bonding between auditors and their clients. Higher fees are interpreted to indicate compromised independence. Five alternative measures of economic bonding were used. The researcher found a stable and statistically significant positive relationship between measures of economic bonding and Audit Committee activity. This finding is consistent with the view that Audit Committees buy more services from the auditors in order to enhance auditing and reporting quality. Strong positive relationships between audit and non-audit services and vice versa were found using a single equation fees model but these relationships were not consistent when the researcher controlled for endogeneity between audit and non audit fees using Simultaneous Equation Models (SEM). Audit Committee activity was not statistically important in these relationships. This evidence taken together supports the proposition that economies of scope exist in the joint provision of both audit and non-auditing services to the same client. Finally the thesis also documents evidence that suggests that knowledge spill-over flows from non-audit services to auditing services and that auditor do not use audit as a loss leader.",
     "abstract_zh": "",
     "source_info": "Publication date: Available online 22 July 2026 Source: Journal of Accounting and Economics Author(s): Joshua T. White",
     "method": "Unclassified",
     "tax_related": false,
     "link": "https://www.sciencedirect.com/science/article/pii/S0165410126000601?dgcid=rss_sd_all",
     "doi": "",
-    "fetched_at": "2026-11-09T21:58:32.542826+00:00"
+    "fetched_at": "2026-11-16T21:41:01.517828+00:00"
   },
   {
     "source_category": "journal_article",
@@ -6091,7 +6091,7 @@
     "tax_related": false,
     "link": "https://www.sciencedirect.com/science/article/pii/S0165410126000716?dgcid=rss_sd_all",
     "doi": "",
-    "fetched_at": "2026-11-09T21:58:32.542996+00:00"
+    "fetched_at": "2026-11-16T21:41:01.518042+00:00"
   },
   {
     "source_category": "journal_article",
@@ -6165,15 +6165,15 @@
       "Jan Lampe, \nUtz Schäffer, \nDaniel Schaupp"
     ],
     "published": "Tue, 22 Sep 2026 00:00:00 -0700",
-    "abstract": "ABSTRACT With the widespread use of narrative feedback in companies, understanding how such feedback can be valuable for employee performance improvement is important. Drawing on proprietary data from an e‐commerce company, we investigate the role of specificity and causality—two key language characteristics for self‐regulation and learning. Our findings suggest that neither specificity nor causality is always beneficial; instead, their effects depend on whether the feedback refers to strengths or weaknesses. Specifically, employees are more likely to improve when they receive more specific narrative feedback on their strengths, consistent with employees engaging in more systematic exploration when feedback provides concrete references to desirable behaviors. In contrast, we find that increases in the specificity of narrative feedback on weaknesses can have negative performance consequences, as employees who are confronted with many specific examples of undesirable behaviors may attempt too many behavioral changes at once, undermining learning and improvement. Furthermore, employees are more likely to improve when feedback on their weaknesses uses more causal language, suggesting that explanations of why certain behaviors were ineffective help employees understand and correct those behaviors. Our study informs HR leaders, supervisors, and experts responsible for designing management control systems by showing that narrative feedback should be specific when describing strengths, but more selective and richer in causal explanations when addressing weaknesses.",
-    "abstract_en": "ABSTRACT With the widespread use of narrative feedback in companies, understanding how such feedback can be valuable for employee performance improvement is important. Drawing on proprietary data from an e‐commerce company, we investigate the role of specificity and causality—two key language characteristics for self‐regulation and learning. Our findings suggest that neither specificity nor causality is always beneficial; instead, their effects depend on whether the feedback refers to strengths or weaknesses. Specifically, employees are more likely to improve when they receive more specific narrative feedback on their strengths, consistent with employees engaging in more systematic exploration when feedback provides concrete references to desirable behaviors. In contrast, we find that increases in the specificity of narrative feedback on weaknesses can have negative performance consequences, as employees who are confronted with many specific examples of undesirable behaviors may attempt too many behavioral changes at once, undermining learning and improvement. Furthermore, employees are more likely to improve when feedback on their weaknesses uses more causal language, suggesting that explanations of why certain behaviors were ineffective help employees understand and correct those behaviors. Our study informs HR leaders, supervisors, and experts responsible for designing management control systems by showing that narrative feedback should be specific when describing strengths, but more selective and richer in causal explanations when addressing weaknesses.",
+    "abstract": "With the widespread use of narrative feedback in companies, understanding how such feedback can be valuable for employee performance improvement is important. Drawing on proprietary data from an e-commerce company, we investigate the role of specificity and causality—two key language characteristics for self-regulation and learning. Our findings suggest that neither specificity nor causality is always beneficial; instead, their effects depend on whether the feedback refers to strengths or weaknesses. Specifically, employees are more likely to improve when they receive more specific narrative feedback on their strengths, consistent with employees engaging in more systematic exploration when feedback provides concrete references to desirable behaviors. In contrast, we find that increases in the specificity of narrative feedback on weaknesses can have negative performance consequences, as employees who are confronted with many specific examples of undesirable behaviors may attempt too many behavioral changes at once, undermining learning and improvement. Furthermore, employees are more likely to improve when feedback on their weaknesses uses more causal language, suggesting that explanations of why certain behaviors were ineffective help employees understand and correct those behaviors. Our study informs HR leaders, supervisors, and experts responsible for designing management control systems by showing that narrative feedback should be specific when describing strengths, but more selective and richer in causal explanations when addressing weaknesses.",
+    "abstract_en": "With the widespread use of narrative feedback in companies, understanding how such feedback can be valuable for employee performance improvement is important. Drawing on proprietary data from an e-commerce company, we investigate the role of specificity and causality—two key language characteristics for self-regulation and learning. Our findings suggest that neither specificity nor causality is always beneficial; instead, their effects depend on whether the feedback refers to strengths or weaknesses. Specifically, employees are more likely to improve when they receive more specific narrative feedback on their strengths, consistent with employees engaging in more systematic exploration when feedback provides concrete references to desirable behaviors. In contrast, we find that increases in the specificity of narrative feedback on weaknesses can have negative performance consequences, as employees who are confronted with many specific examples of undesirable behaviors may attempt too many behavioral changes at once, undermining learning and improvement. Furthermore, employees are more likely to improve when feedback on their weaknesses uses more causal language, suggesting that explanations of why certain behaviors were ineffective help employees understand and correct those behaviors. Our study informs HR leaders, supervisors, and experts responsible for designing management control systems by showing that narrative feedback should be specific when describing strengths, but more selective and richer in causal explanations when addressing weaknesses.",
     "abstract_zh": "",
     "source_info": "Contemporary Accounting Research, Volume 43, Issue 3, Page 1777-1803, Fall 2026.",
     "method": "Unclassified",
     "tax_related": false,
     "link": "https://onlinelibrary.wiley.com/doi/10.1111/1911-3846.70067?af=R",
     "doi": "",
-    "fetched_at": "2026-11-09T21:58:32.942706+00:00"
+    "fetched_at": "2026-11-16T21:41:01.974045+00:00"
   },
   {
     "source_category": "journal_article",
@@ -6195,7 +6195,7 @@
     "tax_related": false,
     "link": "https://onlinelibrary.wiley.com/doi/10.1111/1911-3846.70053?af=R",
     "doi": "",
-    "fetched_at": "2026-11-09T21:58:32.940996+00:00"
+    "fetched_at": "2026-11-16T21:41:01.971774+00:00"
   },
   {
     "source_category": "journal_article",
@@ -6215,7 +6215,7 @@
     "tax_related": false,
     "link": "https://link.springer.com/article/10.1007/s11142-026-09971-2",
     "doi": "",
-    "fetched_at": "2026-11-09T21:58:35.742154+00:00"
+    "fetched_at": "2026-11-16T21:41:04.717468+00:00"
   },
   {
     "source_category": "journal_article",
@@ -6235,7 +6235,7 @@
     "tax_related": false,
     "link": "https://link.springer.com/article/10.1007/s11142-026-09975-y",
     "doi": "",
-    "fetched_at": "2026-11-09T21:58:35.742226+00:00"
+    "fetched_at": "2026-11-16T21:41:04.717579+00:00"
   },
   {
     "source_category": "journal_article",
@@ -6259,7 +6259,7 @@
     "tax_related": true,
     "link": "https://doi.org/10.2308/tar-2023-0226",
     "doi": "10.2308/tar-2023-0226",
-    "fetched_at": "2026-11-09T21:58:32.219128+00:00"
+    "fetched_at": "2026-11-16T21:41:01.240554+00:00"
   },
   {
     "source_category": "journal_article",
@@ -6283,7 +6283,7 @@
     "tax_related": false,
     "link": "https://doi.org/10.2308/tar-2024-0166",
     "doi": "10.2308/tar-2024-0166",
-    "fetched_at": "2026-11-09T21:58:32.218178+00:00"
+    "fetched_at": "2026-11-16T21:41:01.239229+00:00"
   },
   {
     "source_category": "journal_article",
@@ -6306,7 +6306,7 @@
     "tax_related": true,
     "link": "https://doi.org/10.2308/tar-2023-0208",
     "doi": "10.2308/tar-2023-0208",
-    "fetched_at": "2026-11-09T21:58:32.218409+00:00"
+    "fetched_at": "2026-11-16T21:41:01.239533+00:00"
   },
   {
     "source_category": "journal_article",
@@ -6328,7 +6328,7 @@
     "tax_related": false,
     "link": "https://www.sciencedirect.com/science/article/pii/S0165410126000704?dgcid=rss_sd_all",
     "doi": "",
-    "fetched_at": "2026-11-09T21:58:32.542250+00:00"
+    "fetched_at": "2026-11-16T21:41:01.516991+00:00"
   },
   {
     "source_category": "journal_article",
@@ -6350,7 +6350,7 @@
     "tax_related": false,
     "link": "https://www.sciencedirect.com/science/article/pii/S0165410126000698?dgcid=rss_sd_all",
     "doi": "",
-    "fetched_at": "2026-11-09T21:58:32.542392+00:00"
+    "fetched_at": "2026-11-16T21:41:01.517194+00:00"
   },
   {
     "source_category": "journal_article",
@@ -6372,7 +6372,7 @@
     "tax_related": false,
     "link": "https://onlinelibrary.wiley.com/doi/10.1111/1475-679x.70079?af=R",
     "doi": "",
-    "fetched_at": "2026-11-09T21:58:32.716223+00:00"
+    "fetched_at": "2026-11-16T21:41:01.708207+00:00"
   },
   {
     "source_category": "journal_article",
@@ -6394,7 +6394,7 @@
     "tax_related": false,
     "link": "https://onlinelibrary.wiley.com/doi/10.1111/1911-3846.70069?af=R",
     "doi": "",
-    "fetched_at": "2026-11-09T21:58:32.942810+00:00"
+    "fetched_at": "2026-11-16T21:41:01.974291+00:00"
   },
   {
     "source_category": "journal_article",
@@ -6416,7 +6416,7 @@
     "tax_related": false,
     "link": "https://onlinelibrary.wiley.com/doi/10.1111/1911-3846.70070?af=R",
     "doi": "",
-    "fetched_at": "2026-11-09T21:58:32.942914+00:00"
+    "fetched_at": "2026-11-16T21:41:01.974450+00:00"
   },
   {
     "source_category": "journal_article",
@@ -6436,7 +6436,7 @@
     "tax_related": false,
     "link": "https://link.springer.com/article/10.1007/s11142-026-09982-z",
     "doi": "",
-    "fetched_at": "2026-11-09T21:58:35.742083+00:00"
+    "fetched_at": "2026-11-16T21:41:04.717374+00:00"
   },
   {
     "source_category": "journal_article",
@@ -6460,7 +6460,7 @@
     "tax_related": false,
     "link": "https://doi.org/10.2308/tar-2023-0699",
     "doi": "10.2308/tar-2023-0699",
-    "fetched_at": "2026-11-09T21:58:32.215871+00:00"
+    "fetched_at": "2026-11-16T21:41:01.237064+00:00"
   },
   {
     "source_category": "journal_article",
@@ -6485,7 +6485,7 @@
     "tax_related": false,
     "link": "https://www.sciencedirect.com/science/article/pii/S0165410126000790?dgcid=rss_sd_all",
     "doi": "",
-    "fetched_at": "2026-11-09T21:58:32.539655+00:00"
+    "fetched_at": "2026-11-16T21:41:01.513525+00:00"
   },
   {
     "source_category": "journal_article",
@@ -6509,7 +6509,7 @@
     "tax_related": false,
     "link": "https://www.sciencedirect.com/science/article/pii/S0165410126000753?dgcid=rss_sd_all",
     "doi": "",
-    "fetched_at": "2026-11-09T21:58:32.534759+00:00"
+    "fetched_at": "2026-11-16T21:41:01.506814+00:00"
   },
   {
     "source_category": "journal_article",
@@ -6532,7 +6532,7 @@
     "tax_related": false,
     "link": "https://www.sciencedirect.com/science/article/pii/S0165410126000777?dgcid=rss_sd_all",
     "doi": "",
-    "fetched_at": "2026-11-09T21:58:32.539792+00:00"
+    "fetched_at": "2026-11-16T21:41:01.513734+00:00"
   },
   {
     "source_category": "journal_article",
@@ -6554,7 +6554,7 @@
     "tax_related": false,
     "link": "https://onlinelibrary.wiley.com/doi/10.1111/1475-679x.70081?af=R",
     "doi": "",
-    "fetched_at": "2026-11-09T21:58:32.716126+00:00"
+    "fetched_at": "2026-11-16T21:41:01.708078+00:00"
   },
   {
     "source_category": "journal_article",
@@ -6568,15 +6568,15 @@
       "Lin Liao, \nMiguel Minutti‐Meza, \nValbona Sulcaj, \nYun Zhang, \nYouli Zou"
     ],
     "published": "Tue, 22 Sep 2026 00:00:00 -0700",
-    "abstract": "",
-    "abstract_en": "",
+    "abstract": "ABSTRACT We examine the adoption of expanded audit reports that include key audit matters (KAMs) in Hong Kong (2016) and mainland China (2017). These jurisdictions are highly integrated and together constitute one of the largest economies to adopt the IAASB's reporting standards in a staggered fashion, while also differing in investor protection and legal enforcement. Using matched samples, pre‐post tests, and staggered difference‐in‐differences analyses with company fixed effects, we do not find compelling evidence that expanded audit reports affect market reactions or audit quality. These findings suggest a substantial gap between regulatory intent and implementation—on average, in these markets, KAMs do not appear to meet investors' demand for incremental information or to improve audit quality substantially. At the same time, our cross‐sectional evidence on KAM characteristics is more nuanced. A higher number of KAMs and the presence of novel or transaction‐specific KAMs are associated with stronger pricing of fundamentals, consistent with investors perceiving the related financial statements as better vetted. Yet a higher number of KAMs and novel KAMs are also associated with lower profitability persistence, consistent with these disclosures reflecting company risk and volatility. In contrast, industry‐common KAMs appear less relevant for valuation, consistent with investors discounting routine disclosures, even though they are associated with more persistent performance likely reflecting more stable industry conditions. Overall, our evidence suggests that mandating expanded audit reports alone may be of limited value, whereas better tailored KAM disclosures may still serve as signals of firm fundamentals and future performance.",
+    "abstract_en": "ABSTRACT We examine the adoption of expanded audit reports that include key audit matters (KAMs) in Hong Kong (2016) and mainland China (2017). These jurisdictions are highly integrated and together constitute one of the largest economies to adopt the IAASB's reporting standards in a staggered fashion, while also differing in investor protection and legal enforcement. Using matched samples, pre‐post tests, and staggered difference‐in‐differences analyses with company fixed effects, we do not find compelling evidence that expanded audit reports affect market reactions or audit quality. These findings suggest a substantial gap between regulatory intent and implementation—on average, in these markets, KAMs do not appear to meet investors' demand for incremental information or to improve audit quality substantially. At the same time, our cross‐sectional evidence on KAM characteristics is more nuanced. A higher number of KAMs and the presence of novel or transaction‐specific KAMs are associated with stronger pricing of fundamentals, consistent with investors perceiving the related financial statements as better vetted. Yet a higher number of KAMs and novel KAMs are also associated with lower profitability persistence, consistent with these disclosures reflecting company risk and volatility. In contrast, industry‐common KAMs appear less relevant for valuation, consistent with investors discounting routine disclosures, even though they are associated with more persistent performance likely reflecting more stable industry conditions. Overall, our evidence suggests that mandating expanded audit reports alone may be of limited value, whereas better tailored KAM disclosures may still serve as signals of firm fundamentals and future performance.",
     "abstract_zh": "",
     "source_info": "Contemporary Accounting Research, Volume 43, Issue 3, Page 1439-1473, Fall 2026.",
     "method": "Unclassified",
     "tax_related": false,
     "link": "https://onlinelibrary.wiley.com/doi/10.1111/1911-3846.70072?af=R",
     "doi": "",
-    "fetched_at": "2026-11-09T21:58:32.943078+00:00"
+    "fetched_at": "2026-11-16T21:41:01.974656+00:00"
   },
   {
     "source_category": "journal_article",
@@ -6600,7 +6600,7 @@
     "tax_related": false,
     "link": "https://doi.org/10.2308/tar-2024-0758",
     "doi": "10.2308/tar-2024-0758",
-    "fetched_at": "2026-11-09T21:58:32.216958+00:00"
+    "fetched_at": "2026-11-16T21:41:01.236384+00:00"
   },
   {
     "source_category": "journal_article",
@@ -6624,7 +6624,7 @@
     "tax_related": false,
     "link": "https://doi.org/10.2308/tar-2023-0485",
     "doi": "10.2308/tar-2023-0485",
-    "fetched_at": "2026-11-09T21:58:32.220924+00:00"
+    "fetched_at": "2026-11-16T21:41:01.242787+00:00"
   },
   {
     "source_category": "journal_article",
@@ -6648,7 +6648,7 @@
     "tax_related": false,
     "link": "https://doi.org/10.2308/tar-2022-0526",
     "doi": "10.2308/tar-2022-0526",
-    "fetched_at": "2026-11-09T21:58:32.214321+00:00"
+    "fetched_at": "2026-11-16T21:41:01.234306+00:00"
   },
   {
     "source_category": "journal_article",
@@ -6673,7 +6673,7 @@
     "tax_related": true,
     "link": "https://doi.org/10.2308/tar-2023-0689",
     "doi": "10.2308/tar-2023-0689",
-    "fetched_at": "2026-11-09T21:58:32.218921+00:00"
+    "fetched_at": "2026-11-16T21:41:01.240261+00:00"
   },
   {
     "source_category": "journal_article",
@@ -6696,7 +6696,7 @@
     "tax_related": false,
     "link": "https://www.sciencedirect.com/science/article/pii/S0165410126000807?dgcid=rss_sd_all",
     "doi": "",
-    "fetched_at": "2026-11-09T21:58:32.539364+00:00"
+    "fetched_at": "2026-11-16T21:41:01.513116+00:00"
   },
   {
     "source_category": "journal_article",
@@ -6720,7 +6720,7 @@
     "tax_related": false,
     "link": "https://www.sciencedirect.com/science/article/pii/S0165410126000789?dgcid=rss_sd_all",
     "doi": "",
-    "fetched_at": "2026-11-09T21:58:32.539505+00:00"
+    "fetched_at": "2026-11-16T21:41:01.513315+00:00"
   },
   {
     "source_category": "journal_article",
@@ -6734,15 +6734,15 @@
       "John M. Barrios, \nJung Ho Choi, \nYael V. Hochberg, \nJinhwan Kim, \nMiao Liu"
     ],
     "published": "Sun, 16 Aug 2026 22:10:03 -0700",
-    "abstract": "We examine the spillover effects of local initial public offerings (IPOs) on new business formation. An IPO in a local area is associated with a 1% to 4% increase in new business registrations, and this effect is particularly pronounced in counties facing higher economic uncertainty. New business registrations are significantly influenced by the extent of EDGAR downloads related to the IPO firm’s public disclosures and the information in the IPO firm’s S-1 disclosure. The findings highlight the role of IPOs in conveying crucial information through signaling of potential success prospects and additional provision of information through disclosures. A field survey further supports these conclusions.",
-    "abstract_en": "We examine the spillover effects of local initial public offerings (IPOs) on new business formation. An IPO in a local area is associated with a 1% to 4% increase in new business registrations, and this effect is particularly pronounced in counties facing higher economic uncertainty. New business registrations are significantly influenced by the extent of EDGAR downloads related to the IPO firm’s public disclosures and the information in the IPO firm’s S-1 disclosure. The findings highlight the role of IPOs in conveying crucial information through signaling of potential success prospects and additional provision of information through disclosures. A field survey further supports these conclusions.",
+    "abstract": "ABSTRACT We examine the spillover effects of local initial public offerings (IPOs) on new business formation. An IPO in a local area is associated with a 1%–4% increase in new business registrations, and this effect is particularly pronounced in counties facing higher economic uncertainty. New business registrations are significantly influenced by the extent of EDGAR downloads related to the IPO firm's public disclosures and the information in the IPO firm's S‐1 disclosure. The findings highlight the role of IPOs in conveying crucial information through signaling of potential success prospects and additional provision of information through disclosures. A field survey of 503 entrepreneurs further supports these conclusions.",
+    "abstract_en": "ABSTRACT We examine the spillover effects of local initial public offerings (IPOs) on new business formation. An IPO in a local area is associated with a 1%–4% increase in new business registrations, and this effect is particularly pronounced in counties facing higher economic uncertainty. New business registrations are significantly influenced by the extent of EDGAR downloads related to the IPO firm's public disclosures and the information in the IPO firm's S‐1 disclosure. The findings highlight the role of IPOs in conveying crucial information through signaling of potential success prospects and additional provision of information through disclosures. A field survey of 503 entrepreneurs further supports these conclusions.",
     "abstract_zh": "",
     "source_info": "",
     "method": "Unclassified",
     "tax_related": false,
     "link": "https://onlinelibrary.wiley.com/doi/10.1111/1475-679x.70082?af=R",
     "doi": "",
-    "fetched_at": "2026-11-09T21:58:32.715919+00:00"
+    "fetched_at": "2026-11-16T21:41:01.707809+00:00"
   },
   {
     "source_category": "journal_article",
@@ -6764,7 +6764,7 @@
     "tax_related": false,
     "link": "https://onlinelibrary.wiley.com/doi/10.1111/1475-679x.70080?af=R",
     "doi": "",
-    "fetched_at": "2026-11-09T21:58:32.716017+00:00"
+    "fetched_at": "2026-11-16T21:41:01.707928+00:00"
   },
   {
     "source_category": "journal_article",
@@ -6787,7 +6787,7 @@
     "tax_related": true,
     "link": "https://doi.org/10.2308/tar-2024-0708",
     "doi": "10.2308/tar-2024-0708",
-    "fetched_at": "2026-11-09T21:58:32.218692+00:00"
+    "fetched_at": "2026-11-16T21:41:01.239938+00:00"
   },
   {
     "source_category": "journal_article",
@@ -6810,7 +6810,7 @@
     "tax_related": false,
     "link": "https://doi.org/10.2308/tar-2023-0731",
     "doi": "10.2308/tar-2023-0731",
-    "fetched_at": "2026-11-09T21:58:32.220218+00:00"
+    "fetched_at": "2026-11-16T21:41:01.241879+00:00"
   },
   {
     "source_category": "journal_article",
@@ -6859,7 +6859,7 @@
     "tax_related": false,
     "link": "https://www.sciencedirect.com/science/article/pii/S0165410126000820?dgcid=rss_sd_all",
     "doi": "",
-    "fetched_at": "2026-11-09T21:58:32.539204+00:00"
+    "fetched_at": "2026-11-16T21:41:01.512873+00:00"
   },
   {
     "source_category": "journal_article",
@@ -6881,7 +6881,7 @@
     "tax_related": false,
     "link": "https://onlinelibrary.wiley.com/doi/10.1111/1475-679x.70083?af=R",
     "doi": "",
-    "fetched_at": "2026-11-09T21:58:32.715826+00:00"
+    "fetched_at": "2026-11-16T21:41:01.707678+00:00"
   },
   {
     "source_category": "journal_article",
@@ -6903,7 +6903,7 @@
     "tax_related": false,
     "link": "https://onlinelibrary.wiley.com/doi/10.1111/1911-3846.70073?af=R",
     "doi": "",
-    "fetched_at": "2026-11-09T21:58:32.944460+00:00"
+    "fetched_at": "2026-11-16T21:41:01.976476+00:00"
   },
   {
     "source_category": "journal_article",
@@ -6925,7 +6925,7 @@
     "tax_related": false,
     "link": "https://onlinelibrary.wiley.com/doi/10.1111/1911-3846.70068?af=R",
     "doi": "",
-    "fetched_at": "2026-11-09T21:58:32.944574+00:00"
+    "fetched_at": "2026-11-16T21:41:01.976641+00:00"
   },
   {
     "source_category": "journal_article",
@@ -6947,7 +6947,7 @@
     "tax_related": false,
     "link": "https://onlinelibrary.wiley.com/doi/10.1111/1911-3846.70075?af=R",
     "doi": "",
-    "fetched_at": "2026-11-09T21:58:32.944708+00:00"
+    "fetched_at": "2026-11-16T21:41:01.976828+00:00"
   },
   {
     "source_category": "journal_article",
@@ -6961,15 +6961,15 @@
       "Jing Kong, \nHarlow Loch, \nMichael Shen"
     ],
     "published": "Tue, 18 Aug 2026 21:22:33 -0700",
-    "abstract": "ABSTRACT Whereas prior studies primarily examine how environmental shocks affect manufacturing, distribution, and supply chains, we examine a distinct and understudied channel: the effect of wildfire smoke on human capital operating from firm headquarters. Using satellite‐based smoke plume measures, we show that wildfire smoke exposure in a firm's headquarters county is associated with lower operating income, with effects strengthening as smoke becomes more frequent and severe. Exposure is associated with increased employee health concerns, higher employee turnover, and shorter tenure. The negative association is stronger for firms that rely more heavily on skilled employees, and it is concentrated in higher operating costs. Collectively, these findings are consistent with wildfire smoke impairing workforce stability and productivity. Our study points to the need for enhanced climate‐risk and human‐capital disclosures. It also informs HR managers' planning for absenteeism and employee well‐being, and helps investors, audit committees, and auditors better assess smoke‐related operating risks.",
-    "abstract_en": "ABSTRACT Whereas prior studies primarily examine how environmental shocks affect manufacturing, distribution, and supply chains, we examine a distinct and understudied channel: the effect of wildfire smoke on human capital operating from firm headquarters. Using satellite‐based smoke plume measures, we show that wildfire smoke exposure in a firm's headquarters county is associated with lower operating income, with effects strengthening as smoke becomes more frequent and severe. Exposure is associated with increased employee health concerns, higher employee turnover, and shorter tenure. The negative association is stronger for firms that rely more heavily on skilled employees, and it is concentrated in higher operating costs. Collectively, these findings are consistent with wildfire smoke impairing workforce stability and productivity. Our study points to the need for enhanced climate‐risk and human‐capital disclosures. It also informs HR managers' planning for absenteeism and employee well‐being, and helps investors, audit committees, and auditors better assess smoke‐related operating risks.",
+    "abstract": "",
+    "abstract_en": "",
     "abstract_zh": "",
     "source_info": "",
     "method": "Unclassified",
     "tax_related": false,
     "link": "https://onlinelibrary.wiley.com/doi/10.1111/1911-3846.70079?af=R",
     "doi": "",
-    "fetched_at": "2026-11-09T21:58:32.944816+00:00"
+    "fetched_at": "2026-11-16T21:41:01.976985+00:00"
   },
   {
     "source_category": "journal_article",
@@ -6993,7 +6993,7 @@
     "tax_related": false,
     "link": "https://doi.org/10.2308/tar-2023-0477",
     "doi": "10.2308/tar-2023-0477",
-    "fetched_at": "2026-11-09T21:58:32.219669+00:00"
+    "fetched_at": "2026-11-16T21:41:01.241213+00:00"
   },
   {
     "source_category": "journal_article",
@@ -7018,7 +7018,7 @@
     "tax_related": true,
     "link": "https://doi.org/10.2308/tar-2025-0338",
     "doi": "10.2308/tar-2025-0338",
-    "fetched_at": "2026-11-09T21:58:32.220397+00:00"
+    "fetched_at": "2026-11-16T21:41:01.242135+00:00"
   },
   {
     "source_category": "journal_article",
@@ -7063,7 +7063,7 @@
     "tax_related": false,
     "link": "https://www.sciencedirect.com/science/article/pii/S0165410126000832?dgcid=rss_sd_all",
     "doi": "",
-    "fetched_at": "2026-11-09T21:58:32.537338+00:00"
+    "fetched_at": "2026-11-16T21:41:01.510259+00:00"
   },
   {
     "source_category": "journal_article",
@@ -7088,7 +7088,7 @@
     "tax_related": false,
     "link": "https://www.sciencedirect.com/science/article/pii/S0165410126000819?dgcid=rss_sd_all",
     "doi": "",
-    "fetched_at": "2026-11-09T21:58:32.539058+00:00"
+    "fetched_at": "2026-11-16T21:41:01.512663+00:00"
   },
   {
     "source_category": "journal_article",
@@ -7110,7 +7110,7 @@
     "tax_related": true,
     "link": "https://onlinelibrary.wiley.com/doi/10.1111/1475-679x.70084?af=R",
     "doi": "",
-    "fetched_at": "2026-11-09T21:58:32.715735+00:00"
+    "fetched_at": "2026-11-16T21:41:01.707530+00:00"
   },
   {
     "source_category": "journal_article",
@@ -7132,7 +7132,7 @@
     "tax_related": false,
     "link": "https://onlinelibrary.wiley.com/doi/10.1111/1911-3846.70081?af=R",
     "doi": "",
-    "fetched_at": "2026-11-09T21:58:32.944329+00:00"
+    "fetched_at": "2026-11-16T21:41:01.976316+00:00"
   },
   {
     "source_category": "journal_article",
@@ -7197,7 +7197,7 @@
     "tax_related": false,
     "link": "https://www.sciencedirect.com/science/article/pii/S016541012600087X?dgcid=rss_sd_all",
     "doi": "",
-    "fetched_at": "2026-11-09T21:58:32.537469+00:00"
+    "fetched_at": "2026-11-16T21:41:01.510446+00:00"
   },
   {
     "source_category": "journal_article",
@@ -7219,7 +7219,7 @@
     "tax_related": false,
     "link": "https://onlinelibrary.wiley.com/doi/10.1111/1911-3846.70082?af=R",
     "doi": "",
-    "fetched_at": "2026-11-09T21:58:32.943977+00:00"
+    "fetched_at": "2026-11-16T21:41:01.975968+00:00"
   },
   {
     "source_category": "journal_article",
@@ -7241,7 +7241,7 @@
     "tax_related": false,
     "link": "https://onlinelibrary.wiley.com/doi/10.1111/1911-3846.70074?af=R",
     "doi": "",
-    "fetched_at": "2026-11-09T21:58:32.944117+00:00"
+    "fetched_at": "2026-11-16T21:41:01.976153+00:00"
   },
   {
     "source_category": "journal_article",
@@ -7358,7 +7358,7 @@
     "tax_related": false,
     "link": "https://onlinelibrary.wiley.com/doi/10.1111/1911-3846.70076?af=R",
     "doi": "",
-    "fetched_at": "2026-11-09T21:58:32.943845+00:00"
+    "fetched_at": "2026-11-16T21:41:01.975794+00:00"
   },
   {
     "source_category": "journal_article",
@@ -7380,7 +7380,7 @@
     "tax_related": false,
     "link": "https://onlinelibrary.wiley.com/doi/10.1111/1475-679x.70085?af=R",
     "doi": "",
-    "fetched_at": "2026-11-09T21:58:32.715672+00:00"
+    "fetched_at": "2026-11-16T21:41:01.707432+00:00"
   },
   {
     "source_category": "journal_article",
@@ -7394,15 +7394,15 @@
       "Musaib Ashraf, \nGus De Franco, \nR. Christopher Small, \nSpencer Young"
     ],
     "published": "Fri, 18 Sep 2026 07:37:57 -0700",
-    "abstract": "",
-    "abstract_en": "",
+    "abstract": "ABSTRACT We examine how GAAP‐based restrictions on managers' discretion over financial reporting influence financial statement users' efforts to acquire disclosure from management. During the question‐and‐answer part of a firm's conference call, we find that GAAP‐based restrictions are associated with more “account‐specific” questions by analysts (i.e., questions related to specific financial statement accounts). Managers appear to adjust current and future disclosure in response to analysts' questions, particularly when GAAP is restrictive: When an analyst asks a question about a particular account, managers are more likely to provide corresponding account‐specific information in their very next comment during the current call and in the presentation part of the next quarter's call. Furthermore, our tests suggest that when managers answer analysts' account‐specific questions, analysts' forecast quality is higher. Our study sheds light on the dynamic nature of the disclosure process between the constraints that managers face when preparing financial reports, users' efforts to acquire more financial statement information, and managers' provision of additional information. Overall, our findings suggest that users play an important role in triggering management disclosures and identifying the disclosures that are useful. Our analyses inform (1) standard setters, by showing that restrictions of reporting discretion shape not only mandatory reports but also the voluntary disclosure that emerges through manager–user interactions, and that restrictive GAAP may impose information acquisition costs on financial statement users; (2) managers, by showing that they can preempt the information deficiency created by restrictive GAAP through supplemental disclosure; and (3) analysts, by showing that they can achieve higher quality forecasts by actively soliciting information about accounts for which GAAP constrains what financial statements convey.",
+    "abstract_en": "ABSTRACT We examine how GAAP‐based restrictions on managers' discretion over financial reporting influence financial statement users' efforts to acquire disclosure from management. During the question‐and‐answer part of a firm's conference call, we find that GAAP‐based restrictions are associated with more “account‐specific” questions by analysts (i.e., questions related to specific financial statement accounts). Managers appear to adjust current and future disclosure in response to analysts' questions, particularly when GAAP is restrictive: When an analyst asks a question about a particular account, managers are more likely to provide corresponding account‐specific information in their very next comment during the current call and in the presentation part of the next quarter's call. Furthermore, our tests suggest that when managers answer analysts' account‐specific questions, analysts' forecast quality is higher. Our study sheds light on the dynamic nature of the disclosure process between the constraints that managers face when preparing financial reports, users' efforts to acquire more financial statement information, and managers' provision of additional information. Overall, our findings suggest that users play an important role in triggering management disclosures and identifying the disclosures that are useful. Our analyses inform (1) standard setters, by showing that restrictions of reporting discretion shape not only mandatory reports but also the voluntary disclosure that emerges through manager–user interactions, and that restrictive GAAP may impose information acquisition costs on financial statement users; (2) managers, by showing that they can preempt the information deficiency created by restrictive GAAP through supplemental disclosure; and (3) analysts, by showing that they can achieve higher quality forecasts by actively soliciting information about accounts for which GAAP constrains what financial statements convey.",
     "abstract_zh": "",
     "source_info": "",
     "method": "Unclassified",
     "tax_related": false,
     "link": "https://onlinelibrary.wiley.com/doi/10.1111/1911-3846.70089?af=R",
     "doi": "",
-    "fetched_at": "2026-11-09T21:58:32.943357+00:00"
+    "fetched_at": "2026-11-16T21:41:01.975075+00:00"
   },
   {
     "source_category": "journal_article",
@@ -7424,7 +7424,7 @@
     "tax_related": false,
     "link": "https://onlinelibrary.wiley.com/doi/10.1111/1911-3846.70085?af=R",
     "doi": "",
-    "fetched_at": "2026-11-09T21:58:32.943464+00:00"
+    "fetched_at": "2026-11-16T21:41:01.975227+00:00"
   },
   {
     "source_category": "journal_article",
@@ -7446,7 +7446,7 @@
     "tax_related": false,
     "link": "https://onlinelibrary.wiley.com/doi/10.1111/1911-3846.70078?af=R",
     "doi": "",
-    "fetched_at": "2026-11-09T21:58:32.943599+00:00"
+    "fetched_at": "2026-11-16T21:41:01.975418+00:00"
   },
   {
     "source_category": "journal_article",
@@ -7468,7 +7468,7 @@
     "tax_related": false,
     "link": "https://onlinelibrary.wiley.com/doi/10.1111/1911-3846.70080?af=R",
     "doi": "",
-    "fetched_at": "2026-11-09T21:58:32.943716+00:00"
+    "fetched_at": "2026-11-16T21:41:01.975604+00:00"
   },
   {
     "source_category": "journal_article",
@@ -7609,7 +7609,7 @@
     "tax_related": false,
     "link": "https://www.sciencedirect.com/science/article/pii/S0165410126000947?dgcid=rss_sd_all",
     "doi": "",
-    "fetched_at": "2026-11-09T21:58:32.538756+00:00"
+    "fetched_at": "2026-11-16T21:41:01.512241+00:00"
   },
   {
     "source_category": "journal_article",
@@ -7631,7 +7631,7 @@
     "tax_related": false,
     "link": "https://www.sciencedirect.com/science/article/pii/S0165410126000960?dgcid=rss_sd_all",
     "doi": "",
-    "fetched_at": "2026-11-09T21:58:32.538903+00:00"
+    "fetched_at": "2026-11-16T21:41:01.512447+00:00"
   },
   {
     "source_category": "journal_article",
@@ -7645,15 +7645,15 @@
       "Lisa Koonce, \nCassie Mongold, \nLaura Quaid, \nJennifer Winchel"
     ],
     "published": "Tue, 22 Sep 2026 22:27:52 -0700",
-    "abstract": "<p><a rel=\"nofollow\"><span>Financial accounting standard setters recently changed the accounting for certain estimates—namely, those involving credit risk. The change shifted the accounting from an incurred-loss model (ILM), which is based on credit-risk conditions that exist at the time of the estimate, to a model based on expected credit losses over the life of the asset in question (ELM), which considers expectations of future conditions. Our paper is based on the theoretical premise that ELM will reduce surprise via its Day 1 forewarning which, in turn, should lessen the potential for hindsight bias (i.e., Monday-morning quarterbacking) and judging management as having made a poor quality lending decision if an actual credit loss later occurs. Three experiments support this premise, revealing when ELM accounting should have a differential impact over the prior accounting.&nbsp;</span></a></p>",
-    "abstract_en": "<p><a rel=\"nofollow\"><span>Financial accounting standard setters recently changed the accounting for certain estimates—namely, those involving credit risk. The change shifted the accounting from an incurred-loss model (ILM), which is based on credit-risk conditions that exist at the time of the estimate, to a model based on expected credit losses over the life of the asset in question (ELM), which considers expectations of future conditions. Our paper is based on the theoretical premise that ELM will reduce surprise via its Day 1 forewarning which, in turn, should lessen the potential for hindsight bias (i.e., Monday-morning quarterbacking) and judging management as having made a poor quality lending decision if an actual credit loss later occurs. Three experiments support this premise, revealing when ELM accounting should have a differential impact over the prior accounting.&nbsp;</span></a></p>",
+    "abstract": "",
+    "abstract_en": "",
     "abstract_zh": "",
     "source_info": "",
     "method": "Unclassified",
     "tax_related": false,
     "link": "https://onlinelibrary.wiley.com/doi/10.1111/1911-3846.70090?af=R",
     "doi": "",
-    "fetched_at": "2026-11-09T21:58:32.940719+00:00"
+    "fetched_at": "2026-11-16T21:41:01.971270+00:00"
   },
   {
     "source_category": "journal_article",
@@ -7673,7 +7673,7 @@
     "tax_related": false,
     "link": "https://onlinelibrary.wiley.com/doi/10.1111/1911-3846.70086?af=R",
     "doi": "",
-    "fetched_at": "2026-11-09T21:58:32.940795+00:00"
+    "fetched_at": "2026-11-16T21:41:01.971487+00:00"
   },
   {
     "source_category": "journal_article",
@@ -7698,7 +7698,7 @@
     "tax_related": false,
     "link": "https://doi.org/10.2308/tar-2024-0833",
     "doi": "10.2308/tar-2024-0833",
-    "fetched_at": "2026-11-09T21:58:32.223626+00:00"
+    "fetched_at": "2026-11-16T21:41:01.245575+00:00"
   },
   {
     "source_category": "journal_article",
@@ -7893,7 +7893,7 @@
     "tax_related": false,
     "link": "https://www.sciencedirect.com/science/article/pii/S0165410126000972?dgcid=rss_sd_all",
     "doi": "",
-    "fetched_at": "2026-11-09T21:58:32.538469+00:00"
+    "fetched_at": "2026-11-16T21:41:01.511829+00:00"
   },
   {
     "source_category": "journal_article",
@@ -7915,7 +7915,7 @@
     "tax_related": false,
     "link": "https://www.sciencedirect.com/science/article/pii/S0165410126000959?dgcid=rss_sd_all",
     "doi": "",
-    "fetched_at": "2026-11-09T21:58:32.538613+00:00"
+    "fetched_at": "2026-11-16T21:41:01.512039+00:00"
   },
   {
     "source_category": "journal_article",
@@ -7937,7 +7937,7 @@
     "tax_related": true,
     "link": "https://onlinelibrary.wiley.com/doi/10.1111/1475-679x.70087?af=R",
     "doi": "",
-    "fetched_at": "2026-11-09T21:58:32.715301+00:00"
+    "fetched_at": "2026-11-16T21:41:01.706910+00:00"
   },
   {
     "source_category": "journal_article",
@@ -7951,15 +7951,15 @@
       "MINJAE KIM"
     ],
     "published": "Wed, 30 Sep 2026 08:43:03 -0700",
-    "abstract": "Bank regulators use the peer information for bank evaluations and publicly disclose this information. This study examines whether regulatory use and disclosure of peer information induce bank herding behaviors in regulatory capital ratios. To answer this question, I consider a 2004 peer group reform that introduced “class-of” peer groups for newly chartered banks, grouping them with their cohorts, while established banks remained in the group with other similar-sized banks. I find that post-reform, bank regulatory capital ratios exhibit heightened sensitivity to their peer group averages. Moreover, I find that banks strategically adjust loan loss provisions and loan portfolios to manage their capital ratios. I also provide evidence that bank lending decisions become more sensitive to regulatory capital ratio rankings within peer groups and the recognition of expected losses is delayed.",
-    "abstract_en": "Bank regulators use the peer information for bank evaluations and publicly disclose this information. This study examines whether regulatory use and disclosure of peer information induce bank herding behaviors in regulatory capital ratios. To answer this question, I consider a 2004 peer group reform that introduced “class-of” peer groups for newly chartered banks, grouping them with their cohorts, while established banks remained in the group with other similar-sized banks. I find that post-reform, bank regulatory capital ratios exhibit heightened sensitivity to their peer group averages. Moreover, I find that banks strategically adjust loan loss provisions and loan portfolios to manage their capital ratios. I also provide evidence that bank lending decisions become more sensitive to regulatory capital ratio rankings within peer groups and the recognition of expected losses is delayed.",
+    "abstract": "ABSTRACT Bank regulators use peer information for bank evaluations and publicly disclose this information. This study investigates whether the regulatory use and disclosure of peer information induce herding behavior in banks' regulatory capital ratios. I examine this question using a 2004 peer group reform that introduced class‐of peer groups for newly chartered banks, grouping them exclusively with their cohorts, while established banks continued to be compared with similar‐sized banks. The results show that, post‐reform, banks exhibit heightened herding behavior in their regulatory capital ratios. Depending on their relative capital position, banks either become more sensitive to changes in the peer group average or converge toward it. Additionally, I find that under‐capitalized banks adjust loan portfolios to manage their capital ratios, and this gap‐closing behavior is associated with worse subsequent loan quality, higher bank failure rates during the financial crisis, and, at the bank holding company level, larger systemic‐risk contributions. These findings highlight significant implications of regulatory disclosure for bank behavior and stability.",
+    "abstract_en": "ABSTRACT Bank regulators use peer information for bank evaluations and publicly disclose this information. This study investigates whether the regulatory use and disclosure of peer information induce herding behavior in banks' regulatory capital ratios. I examine this question using a 2004 peer group reform that introduced class‐of peer groups for newly chartered banks, grouping them exclusively with their cohorts, while established banks continued to be compared with similar‐sized banks. The results show that, post‐reform, banks exhibit heightened herding behavior in their regulatory capital ratios. Depending on their relative capital position, banks either become more sensitive to changes in the peer group average or converge toward it. Additionally, I find that under‐capitalized banks adjust loan portfolios to manage their capital ratios, and this gap‐closing behavior is associated with worse subsequent loan quality, higher bank failure rates during the financial crisis, and, at the bank holding company level, larger systemic‐risk contributions. These findings highlight significant implications of regulatory disclosure for bank behavior and stability.",
     "abstract_zh": "",
     "source_info": "",
     "method": "Unclassified",
     "tax_related": false,
     "link": "https://onlinelibrary.wiley.com/doi/10.1111/1475-679x.70086?af=R",
     "doi": "",
-    "fetched_at": "2026-11-09T21:58:32.715381+00:00"
+    "fetched_at": "2026-11-16T21:41:01.707024+00:00"
   },
   {
     "source_category": "journal_article",
@@ -7973,15 +7973,15 @@
       "João Granja, \nErica Xuewei Jiang, \nGregor Matvos, \nTomasz Piskorski, \nAmit Seru"
     ],
     "published": "Tue, 29 Sep 2026 23:25:46 -0700",
-    "abstract": "We document that as interest rates rose in 2022, banks limited the impact on the accounting value of their assets but left most long-duration assets exposed to interest rate risk. Call report and SEC data show that only about 6% of U.S. banking assets were hedged with derivatives, and even the heaviest users hedged only a small share of their portfolios. Rather than hedge market-value risk, banks relied on held-to-maturity (HTM) accounting to shield book capital, reclassifying roughly $1 trillion of securities as HTM once rates began to rise. More vulnerable banks, especially those overseen by less stringent state regulators, were more likely to shift into HTM. We develop a simple model of how capital regulation, accounting rules, and bank incentives interact in determining whether banks hedge interest rate risk or recapitalize. Capital regulation can reduce run risk, particularly when equity holders are unwilling to hedge or raise new capital. HTM accounting can help well-capitalized banks avoid the costs of excessively tight capital requirements, but it can also enable weaker, moderately-capitalized, banks to window-dress capital ratios, leaving them susceptible to runs. Incorporating deposit franchise value into regulatory capital without considering run risk may further weaken the effectiveness of capital regulation. These findings carry important implications for regulatory capital accounting and risk-management practices across the banking sector.",
-    "abstract_en": "We document that as interest rates rose in 2022, banks limited the impact on the accounting value of their assets but left most long-duration assets exposed to interest rate risk. Call report and SEC data show that only about 6% of U.S. banking assets were hedged with derivatives, and even the heaviest users hedged only a small share of their portfolios. Rather than hedge market-value risk, banks relied on held-to-maturity (HTM) accounting to shield book capital, reclassifying roughly $1 trillion of securities as HTM once rates began to rise. More vulnerable banks, especially those overseen by less stringent state regulators, were more likely to shift into HTM. We develop a simple model of how capital regulation, accounting rules, and bank incentives interact in determining whether banks hedge interest rate risk or recapitalize. Capital regulation can reduce run risk, particularly when equity holders are unwilling to hedge or raise new capital. HTM accounting can help well-capitalized banks avoid the costs of excessively tight capital requirements, but it can also enable weaker, moderately-capitalized, banks to window-dress capital ratios, leaving them susceptible to runs. Incorporating deposit franchise value into regulatory capital without considering run risk may further weaken the effectiveness of capital regulation. These findings carry important implications for regulatory capital accounting and risk-management practices across the banking sector.",
+    "abstract": "<p>We document that as interest rates rose in 2022, banks limited the impact on the accounting value of their&nbsp;<span>assets but left most long-duration assets exposed to interest rate risk. Call report and SEC data show that&nbsp;</span><span>only about 6% of U.S. banking assets were hedged with derivatives, and even the heaviest users hedged&nbsp;</span><span>only a small share of their portfolios. Rather than hedge market-value risk, banks relied on held-to-maturity&nbsp;</span><span>(HTM) accounting to shield book capital, reclassifying roughly $1 trillion of securities as HTM once rates&nbsp;</span><span>began to rise. More vulnerable banks, especially those overseen by less stringent state regulators, were more&nbsp;</span><span>likely to shift into HTM. We develop a simple model of how capital regulation, accounting rules, and bank&nbsp;</span><span>incentives interact in determining whether banks hedge interest rate risk or recapitalize. Capital regulation&nbsp;</span><span>can reduce run risk, particularly when equity holders are unwilling to hedge or raise new capital. HTM&nbsp;</span><span>accounting can help well-capitalized banks avoid the costs of excessively tight capital requirements, but it&nbsp;</span><span>can also enable weaker, moderately-capitalized, banks to window-dress capital ratios, leaving them&nbsp;</span><span>susceptible to runs. Incorporating deposit franchise value into regulatory capital without considering run&nbsp;</span><span>risk may further weaken the effectiveness of capital regulation. These findings carry important implications&nbsp;</span><span>for regulatory capital accounting and risk-management practices across the banking sector.</span></p>",
+    "abstract_en": "<p>We document that as interest rates rose in 2022, banks limited the impact on the accounting value of their&nbsp;<span>assets but left most long-duration assets exposed to interest rate risk. Call report and SEC data show that&nbsp;</span><span>only about 6% of U.S. banking assets were hedged with derivatives, and even the heaviest users hedged&nbsp;</span><span>only a small share of their portfolios. Rather than hedge market-value risk, banks relied on held-to-maturity&nbsp;</span><span>(HTM) accounting to shield book capital, reclassifying roughly $1 trillion of securities as HTM once rates&nbsp;</span><span>began to rise. More vulnerable banks, especially those overseen by less stringent state regulators, were more&nbsp;</span><span>likely to shift into HTM. We develop a simple model of how capital regulation, accounting rules, and bank&nbsp;</span><span>incentives interact in determining whether banks hedge interest rate risk or recapitalize. Capital regulation&nbsp;</span><span>can reduce run risk, particularly when equity holders are unwilling to hedge or raise new capital. HTM&nbsp;</span><span>accounting can help well-capitalized banks avoid the costs of excessively tight capital requirements, but it&nbsp;</span><span>can also enable weaker, moderately-capitalized, banks to window-dress capital ratios, leaving them&nbsp;</span><span>susceptible to runs. Incorporating deposit franchise value into regulatory capital without considering run&nbsp;</span><span>risk may further weaken the effectiveness of capital regulation. These findings carry important implications&nbsp;</span><span>for regulatory capital accounting and risk-management practices across the banking sector.</span></p>",
     "abstract_zh": "",
     "source_info": "",
     "method": "Unclassified",
     "tax_related": false,
     "link": "https://onlinelibrary.wiley.com/doi/10.1111/1475-679x.70090?af=R",
     "doi": "",
-    "fetched_at": "2026-11-09T21:58:32.715480+00:00"
+    "fetched_at": "2026-11-16T21:41:01.707163+00:00"
   },
   {
     "source_category": "journal_article",
@@ -8003,7 +8003,7 @@
     "tax_related": false,
     "link": "https://onlinelibrary.wiley.com/doi/10.1111/1475-679x.70089?af=R",
     "doi": "",
-    "fetched_at": "2026-11-09T21:58:32.715570+00:00"
+    "fetched_at": "2026-11-16T21:41:01.707292+00:00"
   },
   {
     "source_category": "journal_article",
@@ -8025,7 +8025,7 @@
     "tax_related": false,
     "link": "https://onlinelibrary.wiley.com/doi/10.1111/1911-3846.70088?af=R",
     "doi": "",
-    "fetched_at": "2026-11-09T21:58:32.940092+00:00"
+    "fetched_at": "2026-11-16T21:41:01.970378+00:00"
   },
   {
     "source_category": "journal_article",
@@ -8047,7 +8047,7 @@
     "tax_related": false,
     "link": "https://onlinelibrary.wiley.com/doi/10.1111/1911-3846.70077?af=R",
     "doi": "",
-    "fetched_at": "2026-11-09T21:58:32.940210+00:00"
+    "fetched_at": "2026-11-16T21:41:01.970530+00:00"
   },
   {
     "source_category": "journal_article",
@@ -8069,7 +8069,7 @@
     "tax_related": false,
     "link": "https://onlinelibrary.wiley.com/doi/10.1111/1911-3846.70084?af=R",
     "doi": "",
-    "fetched_at": "2026-11-09T21:58:32.940356+00:00"
+    "fetched_at": "2026-11-16T21:41:01.970742+00:00"
   },
   {
     "source_category": "journal_article",
@@ -8091,7 +8091,7 @@
     "tax_related": false,
     "link": "https://onlinelibrary.wiley.com/doi/10.1111/1911-3846.70083?af=R",
     "doi": "",
-    "fetched_at": "2026-11-09T21:58:32.940475+00:00"
+    "fetched_at": "2026-11-16T21:41:01.970920+00:00"
   },
   {
     "source_category": "journal_article",
@@ -8113,7 +8113,7 @@
     "tax_related": false,
     "link": "https://onlinelibrary.wiley.com/doi/10.1111/1911-3846.70087?af=R",
     "doi": "",
-    "fetched_at": "2026-11-09T21:58:32.940579+00:00"
+    "fetched_at": "2026-11-16T21:41:01.971073+00:00"
   },
   {
     "source_category": "journal_article",
@@ -8130,7 +8130,7 @@
       "S. Katie Moon",
       "Jiwoo Ryou"
     ],
-    "published": "2026-10-19",
+    "published": "2026-11-11",
     "abstract": "ABSTRACT People’s right to free speech can have profound effects on how firms discharge their social and environmental responsibilities. We examine these effects by analyzing the impact of the staggered enactment of anti-SLAPP free speech laws across U.S. states on firms’ corporate social responsibility (CSR) behavior. We theorize that, following the enactment of anti-SLAPP laws, firms enhance their CSR activities as an economically effective means to counter negative publicity from stakeholders. Supporting this idea, we find that firm CSR activity increases after the enactment of anti-SLAPP laws, accompanied by an increase in stakeholder criticism of firms’ social and environmental practices. Further, we observe an increase in the level of CSR disclosure. The link between anti-SLAPP law enactment and subsequent CSR engagement is stronger in states with more comprehensive anti-SLAPP protections than in those with weaker protections. Data Availability: From public sources identified in the study. Some may require a subscription. JEL Classifications: A13; D80; K15; K22; L21; M14; O32.",
     "abstract_en": "ABSTRACT People’s right to free speech can have profound effects on how firms discharge their social and environmental responsibilities. We examine these effects by analyzing the impact of the staggered enactment of anti-SLAPP free speech laws across U.S. states on firms’ corporate social responsibility (CSR) behavior. We theorize that, following the enactment of anti-SLAPP laws, firms enhance their CSR activities as an economically effective means to counter negative publicity from stakeholders. Supporting this idea, we find that firm CSR activity increases after the enactment of anti-SLAPP laws, accompanied by an increase in stakeholder criticism of firms’ social and environmental practices. Further, we observe an increase in the level of CSR disclosure. The link between anti-SLAPP law enactment and subsequent CSR engagement is stronger in states with more comprehensive anti-SLAPP protections than in those with weaker protections. Data Availability: From public sources identified in the study. Some may require a subscription. JEL Classifications: A13; D80; K15; K22; L21; M14; O32.",
     "abstract_zh": "",
@@ -8139,7 +8139,7 @@
     "tax_related": false,
     "link": "https://doi.org/10.2308/tar-2023-0659",
     "doi": "10.2308/tar-2023-0659",
-    "fetched_at": "2026-11-09T21:58:32.223191+00:00"
+    "fetched_at": "2026-11-16T21:41:01.219158+00:00"
   },
   {
     "source_category": "journal_article",
@@ -8163,7 +8163,7 @@
     "tax_related": false,
     "link": "https://doi.org/10.2308/tar-2024-0348",
     "doi": "10.2308/tar-2024-0348",
-    "fetched_at": "2026-11-09T21:58:32.224192+00:00"
+    "fetched_at": "2026-11-16T21:41:01.246278+00:00"
   },
   {
     "source_category": "journal_article",
@@ -8188,7 +8188,7 @@
     "tax_related": false,
     "link": "https://doi.org/10.2308/tar-2025-0493",
     "doi": "10.2308/tar-2025-0493",
-    "fetched_at": "2026-11-09T21:58:32.225826+00:00"
+    "fetched_at": "2026-11-16T21:41:01.248386+00:00"
   },
   {
     "source_category": "journal_article",
@@ -8284,7 +8284,7 @@
     "tax_related": false,
     "link": "https://www.sciencedirect.com/science/article/pii/S0165410126000984?dgcid=rss_sd_all",
     "doi": "",
-    "fetched_at": "2026-11-09T21:58:32.537909+00:00"
+    "fetched_at": "2026-11-16T21:41:01.511071+00:00"
   },
   {
     "source_category": "journal_article",
@@ -8300,15 +8300,15 @@
       "Hai Lu"
     ],
     "published": "Available online 14 October 2026",
-    "abstract": "Using a comprehensive visual deception score estimated with computer vision and machine learning algorithms, we find that visual deception cues revealed from mandatorily disclosed IPO roadshow videos in China predict IPO financial fraud. The predictive power of visual cues is incremental to financial, textual, and audio fraud indicators. Analyses on these deception cues show that they are well grounded in prior psychology research. Furthermore, decomposing the entire video into five topics, we show that only the deception score of the topic on financial performance predicts fraud. We further show that insiders from the firms with higher visual deception scores are more likely to sell stocks quickly following the expiration of lockup periods and the subsequent stock returns of these firms are significantly lower. Our study highlights the potential benefits of mandatory video disclosure to investors and regulators.",
-    "abstract_en": "Using a comprehensive visual deception score estimated with computer vision and machine learning algorithms, we find that visual deception cues revealed from mandatorily disclosed IPO roadshow videos in China predict IPO financial fraud. The predictive power of visual cues is incremental to financial, textual, and audio fraud indicators. Analyses on these deception cues show that they are well grounded in prior psychology research. Furthermore, decomposing the entire video into five topics, we show that only the deception score of the topic on financial performance predicts fraud. We further show that insiders from the firms with higher visual deception scores are more likely to sell stocks quickly following the expiration of lockup periods and the subsequent stock returns of these firms are significantly lower. Our study highlights the potential benefits of mandatory video disclosure to investors and regulators.",
+    "abstract": "ABSTRACT Based on a comprehensive visual deception score constructed from China’s mandatorily disclosed IPO roadshow videos using computer vision and machine learning, we find that visual cues embedded in these videos predict IPO financial fraud. The predictive power is incremental to financial, textual, and audio indicators. Further analyses show that these cues are well grounded in psychology research and focusing on the psychology-based deception-cue-area features improves fraud predicting performance. Furthermore, decomposing each video into five topics, we find that only the deception score of the topic on financial performance is positively associated with financial fraud. We further show that insiders of firms with higher visual deception scores are more likely to sell shares shortly after lock-up periods expire, and these firms experience significantly lower subsequent stock returns. Our study demonstrates the feasibility and potential value of using video information for fraud detection in accounting and finance.",
+    "abstract_en": "ABSTRACT Based on a comprehensive visual deception score constructed from China’s mandatorily disclosed IPO roadshow videos using computer vision and machine learning, we find that visual cues embedded in these videos predict IPO financial fraud. The predictive power is incremental to financial, textual, and audio indicators. Further analyses show that these cues are well grounded in psychology research and focusing on the psychology-based deception-cue-area features improves fraud predicting performance. Furthermore, decomposing each video into five topics, we find that only the deception score of the topic on financial performance is positively associated with financial fraud. We further show that insiders of firms with higher visual deception scores are more likely to sell shares shortly after lock-up periods expire, and these firms experience significantly lower subsequent stock returns. Our study demonstrates the feasibility and potential value of using video information for fraud detection in accounting and finance.",
     "abstract_zh": "",
     "source_info": "Publication date: Available online 14 October 2026 Source: Journal of Accounting and Economics Author(s): Binglei Duan, Danqi Hu, Hai Lu",
     "method": "Unclassified",
     "tax_related": false,
     "link": "https://www.sciencedirect.com/science/article/pii/S0165410126000996?dgcid=rss_sd_all",
     "doi": "",
-    "fetched_at": "2026-11-09T21:58:32.538066+00:00"
+    "fetched_at": "2026-11-16T21:41:01.511269+00:00"
   },
   {
     "source_category": "journal_article",
@@ -8333,7 +8333,7 @@
     "tax_related": false,
     "link": "https://www.sciencedirect.com/science/article/pii/S0165410126000935?dgcid=rss_sd_all",
     "doi": "",
-    "fetched_at": "2026-11-09T21:58:32.538324+00:00"
+    "fetched_at": "2026-11-16T21:41:01.511620+00:00"
   },
   {
     "source_category": "journal_article",
@@ -8355,7 +8355,7 @@
     "tax_related": false,
     "link": "https://onlinelibrary.wiley.com/doi/10.1111/1475-679x.70088?af=R",
     "doi": "",
-    "fetched_at": "2026-11-09T21:58:32.715238+00:00"
+    "fetched_at": "2026-11-16T21:41:01.706816+00:00"
   },
   {
     "source_category": "journal_article",
@@ -8369,15 +8369,15 @@
       "Brant E. Christensen, \nNathan G. Lundstrom, \nNathan J. Newton"
     ],
     "published": "Tue, 13 Oct 2026 21:19:20 -0700",
-    "abstract": "ABSTRACT Litigation risk is an important source of motivation for auditors to conduct high‐quality audits, but theory suggests that certain lawsuits will have a more salient disciplining effect on auditor behavior. To this end, we identify lawsuits naming an individual partner as a co‐defendant along with the audit firm. We then examine how these lawsuits affect subsequent behavior of other auditors in the office of the sued partner. Relative to lawsuits naming only the firm, our results indicate that lawsuits naming individual partners as co‐defendants are significant office‐level events that motivate a meaningful response from non‐sued audit partners in the form of higher quality and fees on existing clients and more careful client portfolio management. These results have practical implications about how auditor litigation incentivizes individual auditors to fulfill their professional duties. For regulators and audit firms seeking to promote audit quality, these findings highlight the disciplining effect of auditors' concern for their personal reputation and litigation exposure. Furthermore, audit committees, clients, and investors may observe elevated audit quality, effort, and fees following partner‐level litigation in the local office.",
-    "abstract_en": "ABSTRACT Litigation risk is an important source of motivation for auditors to conduct high‐quality audits, but theory suggests that certain lawsuits will have a more salient disciplining effect on auditor behavior. To this end, we identify lawsuits naming an individual partner as a co‐defendant along with the audit firm. We then examine how these lawsuits affect subsequent behavior of other auditors in the office of the sued partner. Relative to lawsuits naming only the firm, our results indicate that lawsuits naming individual partners as co‐defendants are significant office‐level events that motivate a meaningful response from non‐sued audit partners in the form of higher quality and fees on existing clients and more careful client portfolio management. These results have practical implications about how auditor litigation incentivizes individual auditors to fulfill their professional duties. For regulators and audit firms seeking to promote audit quality, these findings highlight the disciplining effect of auditors' concern for their personal reputation and litigation exposure. Furthermore, audit committees, clients, and investors may observe elevated audit quality, effort, and fees following partner‐level litigation in the local office.",
+    "abstract": "",
+    "abstract_en": "",
     "abstract_zh": "",
     "source_info": "",
     "method": "Unclassified",
     "tax_related": false,
     "link": "https://onlinelibrary.wiley.com/doi/10.1111/1911-3846.70093?af=R",
     "doi": "",
-    "fetched_at": "2026-11-09T21:58:32.939710+00:00"
+    "fetched_at": "2026-11-16T21:41:01.970008+00:00"
   },
   {
     "source_category": "journal_article",
@@ -8399,7 +8399,7 @@
     "tax_related": false,
     "link": "https://onlinelibrary.wiley.com/doi/10.1111/1911-3846.70091?af=R",
     "doi": "",
-    "fetched_at": "2026-11-09T21:58:32.939848+00:00"
+    "fetched_at": "2026-11-16T21:41:01.970200+00:00"
   },
   {
     "source_category": "journal_article",
@@ -8424,7 +8424,7 @@
     "tax_related": false,
     "link": "https://doi.org/10.2308/tar-2024-0576",
     "doi": "10.2308/tar-2024-0576",
-    "fetched_at": "2026-11-09T21:58:32.221975+00:00"
+    "fetched_at": "2026-11-16T21:41:01.244138+00:00"
   },
   {
     "source_category": "journal_article",
@@ -8448,7 +8448,7 @@
     "tax_related": false,
     "link": "https://doi.org/10.2308/tar-2025-0183",
     "doi": "10.2308/tar-2025-0183",
-    "fetched_at": "2026-11-09T21:58:32.222636+00:00"
+    "fetched_at": "2026-11-16T21:41:01.244966+00:00"
   },
   {
     "source_category": "journal_article",
@@ -8472,7 +8472,7 @@
     "tax_related": false,
     "link": "https://doi.org/10.2308/tar-2024-0063",
     "doi": "10.2308/tar-2024-0063",
-    "fetched_at": "2026-11-09T21:58:32.225295+00:00"
+    "fetched_at": "2026-11-16T21:41:01.247694+00:00"
   },
   {
     "source_category": "journal_article",
@@ -8520,7 +8520,7 @@
     "tax_related": false,
     "link": "https://www.sciencedirect.com/science/article/pii/S016541012600100X?dgcid=rss_sd_all",
     "doi": "",
-    "fetched_at": "2026-11-09T21:58:32.537775+00:00"
+    "fetched_at": "2026-11-16T21:41:01.510882+00:00"
   },
   {
     "source_category": "journal_article",
@@ -8540,7 +8540,7 @@
     "tax_related": false,
     "link": "https://onlinelibrary.wiley.com/doi/10.1111/1475-679x.70091?af=R",
     "doi": "",
-    "fetched_at": "2026-11-09T21:58:32.714978+00:00"
+    "fetched_at": "2026-11-16T21:41:01.706439+00:00"
   },
   {
     "source_category": "journal_article",
@@ -8560,7 +8560,7 @@
     "tax_related": false,
     "link": "https://onlinelibrary.wiley.com/doi/10.1111/1475-679x.70092?af=R",
     "doi": "",
-    "fetched_at": "2026-11-09T21:58:32.715064+00:00"
+    "fetched_at": "2026-11-16T21:41:01.706562+00:00"
   },
   {
     "source_category": "journal_article",
@@ -8580,7 +8580,7 @@
     "tax_related": false,
     "link": "https://onlinelibrary.wiley.com/doi/10.1111/1475-679x.70093?af=R",
     "doi": "",
-    "fetched_at": "2026-11-09T21:58:32.715137+00:00"
+    "fetched_at": "2026-11-16T21:41:01.706675+00:00"
   },
   {
     "source_category": "journal_article",
@@ -8602,7 +8602,7 @@
     "tax_related": false,
     "link": "https://onlinelibrary.wiley.com/doi/10.1111/1911-3846.70096?af=R",
     "doi": "",
-    "fetched_at": "2026-11-09T21:58:32.939459+00:00"
+    "fetched_at": "2026-11-16T21:41:01.969650+00:00"
   },
   {
     "source_category": "journal_article",
@@ -8616,15 +8616,15 @@
       "Bing Li, \nYifu Li, \nJeffrey Pittman, \nWenfeng Wang"
     ],
     "published": "Wed, 21 Oct 2026 00:00:00 -0700",
-    "abstract": "ABSTRACT Using online job postings data, we explore whether auditors adjust their human capital in response to clients' cyber breach incidents. We find that audit offices increase their demand for cybersecurity specialists after their clients' cyber breaches, implying that cyber breaches change not only client risk but also their auditor's production function. Consistent with expectations, we document that this impact is larger when breaches involve their own clients (rather than those of peer offices within the same audit firm) and when breaches directly involve financial information. Our evidence holds for both cyber‐focused and non‐cyber‐focused offices, highlighting the broad impact of cybersecurity risks on audit practices. Additionally, we find that audit offices with relatively high investment in cybersecurity human capital are better able to preserve their market share among clients in high‐cyber‐risk industries after a client's cyber breach.",
-    "abstract_en": "ABSTRACT Using online job postings data, we explore whether auditors adjust their human capital in response to clients' cyber breach incidents. We find that audit offices increase their demand for cybersecurity specialists after their clients' cyber breaches, implying that cyber breaches change not only client risk but also their auditor's production function. Consistent with expectations, we document that this impact is larger when breaches involve their own clients (rather than those of peer offices within the same audit firm) and when breaches directly involve financial information. Our evidence holds for both cyber‐focused and non‐cyber‐focused offices, highlighting the broad impact of cybersecurity risks on audit practices. Additionally, we find that audit offices with relatively high investment in cybersecurity human capital are better able to preserve their market share among clients in high‐cyber‐risk industries after a client's cyber breach.",
+    "abstract": "",
+    "abstract_en": "",
     "abstract_zh": "",
     "source_info": "",
     "method": "Unclassified",
     "tax_related": false,
     "link": "https://onlinelibrary.wiley.com/doi/10.1111/1911-3846.70092?af=R",
     "doi": "",
-    "fetched_at": "2026-11-09T21:58:32.939584+00:00"
+    "fetched_at": "2026-11-16T21:41:01.969834+00:00"
   },
   {
     "source_category": "journal_article",
@@ -8648,7 +8648,7 @@
     "tax_related": false,
     "link": "https://doi.org/10.2308/tar-2025-0720",
     "doi": "10.2308/tar-2025-0720",
-    "fetched_at": "2026-11-09T21:58:32.224802+00:00"
+    "fetched_at": "2026-11-16T21:41:01.247045+00:00"
   },
   {
     "source_category": "journal_article",
@@ -8670,15 +8670,15 @@
     "tax_related": false,
     "link": "https://doi.org/10.2308/tar-2024-0591",
     "doi": "10.2308/tar-2024-0591",
-    "fetched_at": "2026-11-09T21:58:32.226355+00:00"
+    "fetched_at": "2026-11-16T21:41:01.249052+00:00"
   },
   {
     "source_category": "journal_article",
     "journal_id": "JAE",
     "journal": "Journal of Accounting and Economics",
     "section": "RSS / Latest Articles",
-    "title": "Diversification versus Consumption Motives for Early Exercise of Employee Stock Options",
-    "title_en": "Diversification versus Consumption Motives for Early Exercise of Employee Stock Options",
+    "title": "Diversification versus consumption motives for early exercise of employee stock options",
+    "title_en": "Diversification versus consumption motives for early exercise of employee stock options",
     "title_zh": "",
     "authors": [
       "Kevin J. Murphy",
@@ -8693,7 +8693,7 @@
     "tax_related": false,
     "link": "https://www.sciencedirect.com/science/article/pii/S0165410126001011?dgcid=rss_sd_all",
     "doi": "",
-    "fetched_at": "2026-11-09T21:58:32.537625+00:00"
+    "fetched_at": "2026-11-16T21:41:01.510672+00:00"
   },
   {
     "source_category": "journal_article",
@@ -8715,7 +8715,7 @@
     "tax_related": false,
     "link": "https://onlinelibrary.wiley.com/doi/10.1111/1911-3846.70094?af=R",
     "doi": "",
-    "fetched_at": "2026-11-09T21:58:32.938998+00:00"
+    "fetched_at": "2026-11-16T21:41:01.969019+00:00"
   },
   {
     "source_category": "journal_article",
@@ -8729,15 +8729,15 @@
       "Adam Bross, \nRyan D. Sommerfeldt"
     ],
     "published": "Thu, 29 Oct 2026 00:00:00 -0700",
-    "abstract": "Aujourd’hui, plus que jamais, les Directions des Ressources Humaines se trouvent dans l’obligation de se préoccuper davantage du bien-être des employés pour atteindre et maintenir des niveaux de productivité concurrentiels. Dans cette perspective, de nombreuses entreprises ont mis l’accent sur la promotion du divertissement au travail comme un levier stratégique pour favoriser le bien-être au travail. Cependant, contre toute attente, certaines recherches dénoncent un aspect plus sombre de ce phénomène. Le divertissement au travail loin d’être un phénomène purement négatif ou positif, est plutôt à l’origine d’une série de résultats pouvant être potentiellement bénéfiques ou néfastes. Notre recherche vise donc à éclairer l’ambivalence du divertissement au travail sur le bien-être des employés. Pour ce faire, deux théories complémentaires ont été mobilisés : la théorie des besoins psychologiques, qui s’inscrit dans une approche eudémonique du bien-être, et la théorie de l’évaluation cognitive, davantage ancrée dans une approche hédonique centrée sur les ressentis affectifs. L’articulation de ces deux cadres théoriques permet ainsi d’adopter une vision intégrée du bien-être, en cohérence avec notre recherche qui se situe à la croisée des approches eudémonique et hédonique. Afin d’atteindre notre objectif, nous avons opté pour une étude de cas unique portant sur une entreprise multinationale du secteur informatique implantée en Tunisie. Dans une optique de bien-être au travail, cette entreprise organise chaque année près d’une centaine d’activités divertissantes pour ses 1400 employés. Pour comprendre en profondeur l’influence ambivalente du divertissement au travail sur le bien-être des employés nous avons mobilisé trois sources de collecte de données : l’observation non participante, l’analyse documentaire et les entretiens semi-directifs. Cette triangulation des données a enrichi notre analyse et a permis une compréhension approfondie du phénomène étudié.",
-    "abstract_en": "Aujourd’hui, plus que jamais, les Directions des Ressources Humaines se trouvent dans l’obligation de se préoccuper davantage du bien-être des employés pour atteindre et maintenir des niveaux de productivité concurrentiels. Dans cette perspective, de nombreuses entreprises ont mis l’accent sur la promotion du divertissement au travail comme un levier stratégique pour favoriser le bien-être au travail. Cependant, contre toute attente, certaines recherches dénoncent un aspect plus sombre de ce phénomène. Le divertissement au travail loin d’être un phénomène purement négatif ou positif, est plutôt à l’origine d’une série de résultats pouvant être potentiellement bénéfiques ou néfastes. Notre recherche vise donc à éclairer l’ambivalence du divertissement au travail sur le bien-être des employés. Pour ce faire, deux théories complémentaires ont été mobilisés : la théorie des besoins psychologiques, qui s’inscrit dans une approche eudémonique du bien-être, et la théorie de l’évaluation cognitive, davantage ancrée dans une approche hédonique centrée sur les ressentis affectifs. L’articulation de ces deux cadres théoriques permet ainsi d’adopter une vision intégrée du bien-être, en cohérence avec notre recherche qui se situe à la croisée des approches eudémonique et hédonique. Afin d’atteindre notre objectif, nous avons opté pour une étude de cas unique portant sur une entreprise multinationale du secteur informatique implantée en Tunisie. Dans une optique de bien-être au travail, cette entreprise organise chaque année près d’une centaine d’activités divertissantes pour ses 1400 employés. Pour comprendre en profondeur l’influence ambivalente du divertissement au travail sur le bien-être des employés nous avons mobilisé trois sources de collecte de données : l’observation non participante, l’analyse documentaire et les entretiens semi-directifs. Cette triangulation des données a enrichi notre analyse et a permis une compréhension approfondie du phénomène étudié.",
+    "abstract": "",
+    "abstract_en": "",
     "abstract_zh": "",
     "source_info": "",
     "method": "Unclassified",
     "tax_related": false,
     "link": "https://onlinelibrary.wiley.com/doi/10.1111/1911-3846.70095?af=R",
     "doi": "",
-    "fetched_at": "2026-11-09T21:58:32.939142+00:00"
+    "fetched_at": "2026-11-16T21:41:01.969210+00:00"
   },
   {
     "source_category": "journal_article",
@@ -8759,7 +8759,7 @@
     "tax_related": false,
     "link": "https://onlinelibrary.wiley.com/doi/10.1111/1911-3846.70098?af=R",
     "doi": "",
-    "fetched_at": "2026-11-09T21:58:32.939324+00:00"
+    "fetched_at": "2026-11-16T21:41:01.969448+00:00"
   },
   {
     "source_category": "journal_article",
@@ -8779,7 +8779,7 @@
     "tax_related": false,
     "link": "https://link.springer.com/article/10.1007/s11142-026-09992-x",
     "doi": "",
-    "fetched_at": "2026-11-09T21:58:35.741242+00:00"
+    "fetched_at": "2026-11-16T21:41:04.716221+00:00"
   },
   {
     "source_category": "journal_article",
@@ -8799,7 +8799,7 @@
     "tax_related": false,
     "link": "https://link.springer.com/article/10.1007/s11142-026-09981-0",
     "doi": "",
-    "fetched_at": "2026-11-09T21:58:35.741304+00:00"
+    "fetched_at": "2026-11-16T21:41:04.716308+00:00"
   },
   {
     "source_category": "journal_article",
@@ -8819,7 +8819,7 @@
     "tax_related": false,
     "link": "https://link.springer.com/article/10.1007/s11142-026-09994-9",
     "doi": "",
-    "fetched_at": "2026-11-09T21:58:35.741371+00:00"
+    "fetched_at": "2026-11-16T21:41:04.716402+00:00"
   },
   {
     "source_category": "journal_article",
@@ -8839,7 +8839,7 @@
     "tax_related": false,
     "link": "https://link.springer.com/article/10.1007/s11142-026-09990-z",
     "doi": "",
-    "fetched_at": "2026-11-09T21:58:35.741438+00:00"
+    "fetched_at": "2026-11-16T21:41:04.716493+00:00"
   },
   {
     "source_category": "journal_article",
@@ -8859,7 +8859,7 @@
     "tax_related": false,
     "link": "https://link.springer.com/article/10.1007/s11142-026-09991-y",
     "doi": "",
-    "fetched_at": "2026-11-09T21:58:35.741504+00:00"
+    "fetched_at": "2026-11-16T21:41:04.716609+00:00"
   },
   {
     "source_category": "journal_article",
@@ -8879,7 +8879,7 @@
     "tax_related": false,
     "link": "https://link.springer.com/article/10.1007/s11142-026-09988-7",
     "doi": "",
-    "fetched_at": "2026-11-09T21:58:35.741607+00:00"
+    "fetched_at": "2026-11-16T21:41:04.716755+00:00"
   },
   {
     "source_category": "journal_article",
@@ -8899,7 +8899,7 @@
     "tax_related": false,
     "link": "https://link.springer.com/article/10.1007/s11142-026-09986-9",
     "doi": "",
-    "fetched_at": "2026-11-09T21:58:35.741691+00:00"
+    "fetched_at": "2026-11-16T21:41:04.716866+00:00"
   },
   {
     "source_category": "journal_article",
@@ -8919,7 +8919,7 @@
     "tax_related": false,
     "link": "https://link.springer.com/article/10.1007/s11142-026-09989-6",
     "doi": "",
-    "fetched_at": "2026-11-09T21:58:35.741763+00:00"
+    "fetched_at": "2026-11-16T21:41:04.716962+00:00"
   },
   {
     "source_category": "journal_article",
@@ -8939,7 +8939,7 @@
     "tax_related": false,
     "link": "https://link.springer.com/article/10.1007/s11142-026-09987-8",
     "doi": "",
-    "fetched_at": "2026-11-09T21:58:35.741843+00:00"
+    "fetched_at": "2026-11-16T21:41:04.717068+00:00"
   },
   {
     "source_category": "journal_article",
@@ -8959,7 +8959,7 @@
     "tax_related": false,
     "link": "https://link.springer.com/article/10.1007/s11142-026-09984-x",
     "doi": "",
-    "fetched_at": "2026-11-09T21:58:35.741906+00:00"
+    "fetched_at": "2026-11-16T21:41:04.717159+00:00"
   },
   {
     "source_category": "journal_article",
@@ -8979,7 +8979,7 @@
     "tax_related": false,
     "link": "https://link.springer.com/article/10.1007/s11142-026-09983-y",
     "doi": "",
-    "fetched_at": "2026-11-09T21:58:35.741981+00:00"
+    "fetched_at": "2026-11-16T21:41:04.717242+00:00"
   },
   {
     "source_category": "journal_article",
@@ -9005,7 +9005,7 @@
     "tax_related": false,
     "link": "https://doi.org/10.2308/tar-2024-0298",
     "doi": "10.2308/tar-2024-0298",
-    "fetched_at": "2026-11-09T21:58:32.199893+00:00"
+    "fetched_at": "2026-11-16T21:41:01.216783+00:00"
   },
   {
     "source_category": "journal_article",
@@ -9029,7 +9029,7 @@
     "tax_related": false,
     "link": "https://doi.org/10.2308/tar-2023-0304",
     "doi": "10.2308/tar-2023-0304",
-    "fetched_at": "2026-11-09T21:58:32.200630+00:00"
+    "fetched_at": "2026-11-16T21:41:01.218365+00:00"
   },
   {
     "source_category": "journal_article",
@@ -9053,7 +9053,7 @@
     "tax_related": false,
     "link": "https://doi.org/10.2308/tar-2024-0320",
     "doi": "10.2308/tar-2024-0320",
-    "fetched_at": "2026-11-09T21:58:32.201209+00:00"
+    "fetched_at": "2026-11-16T21:41:01.219836+00:00"
   },
   {
     "source_category": "journal_article",
@@ -9075,7 +9075,7 @@
     "tax_related": false,
     "link": "https://onlinelibrary.wiley.com/doi/10.1111/1475-679x.70095?af=R",
     "doi": "",
-    "fetched_at": "2026-11-09T21:58:32.713637+00:00"
+    "fetched_at": "2026-11-16T21:41:01.704678+00:00"
   },
   {
     "source_category": "journal_article",
@@ -9097,6 +9097,136 @@
     "tax_related": false,
     "link": "https://onlinelibrary.wiley.com/doi/10.1111/1911-3846.70099?af=R",
     "doi": "",
-    "fetched_at": "2026-11-09T21:58:32.938810+00:00"
+    "fetched_at": "2026-11-16T21:41:01.968840+00:00"
+  },
+  {
+    "source_category": "journal_article",
+    "journal_id": "TAR",
+    "journal": "The Accounting Review",
+    "section": "Crossref Fallback / Recent Articles",
+    "title": "Private Firm Disclosures and Public Firms' Debt Choice",
+    "title_en": "Private Firm Disclosures and Public Firms' Debt Choice",
+    "title_zh": "",
+    "authors": [
+      "Fengqin Chen",
+      "Jeffrey Pittman",
+      "Walid Saffar"
+    ],
+    "published": "2026-11-10",
+    "abstract": "ABSTRACT Analyzing a cross-country sample, we provide evidence implying that private firm disclosure transparency narrows information asymmetry, which, in turn, lowers public firms' reliance on bank debt. Channel tests help substantiate that private firm disclosure elicits this positive externality, evident in lower monitoring demand, lower borrowing costs, and higher credit rating quality. Cross-sectional results suggest that the impact of private firm transparency is larger when public firms suffer worse information opacity, private firm disclosures are more important to their public peers, and bond markets are more developed. In relying on the staggered implementation of electronic business registers as a plausibly exogenous shock and a simulated disclosure scope as the instrumental variable, we continue to find that private firm disclosures reduce public firms' bank debt reliance, helping to alleviate endogeneity threats. Data Availability Statement: The data used in this study are obtained from publicly available sources identified in the paper. JEL Classifications: G32; G21; M41.",
+    "abstract_en": "ABSTRACT Analyzing a cross-country sample, we provide evidence implying that private firm disclosure transparency narrows information asymmetry, which, in turn, lowers public firms' reliance on bank debt. Channel tests help substantiate that private firm disclosure elicits this positive externality, evident in lower monitoring demand, lower borrowing costs, and higher credit rating quality. Cross-sectional results suggest that the impact of private firm transparency is larger when public firms suffer worse information opacity, private firm disclosures are more important to their public peers, and bond markets are more developed. In relying on the staggered implementation of electronic business registers as a plausibly exogenous shock and a simulated disclosure scope as the instrumental variable, we continue to find that private firm disclosures reduce public firms' bank debt reliance, helping to alleviate endogeneity threats. Data Availability Statement: The data used in this study are obtained from publicly available sources identified in the paper. JEL Classifications: G32; G21; M41.",
+    "abstract_zh": "",
+    "source_info": "Source: Crossref fallback because publisher page blocked script access.",
+    "method": "Archival empirical",
+    "tax_related": false,
+    "link": "https://doi.org/10.2308/tar-2024-0646",
+    "doi": "10.2308/tar-2024-0646",
+    "fetched_at": "2026-11-16T21:41:01.217579+00:00"
+  },
+  {
+    "source_category": "journal_article",
+    "journal_id": "JAR",
+    "journal": "Journal of Accounting Research",
+    "section": "Most Recent RSS",
+    "title": "The Role of Supply Chains in Climate Disclosure",
+    "title_en": "The Role of Supply Chains in Climate Disclosure",
+    "title_zh": "",
+    "authors": [
+      "Pietro Bonetti, \nYang (Ellen) EN, \nIgor Kadach, \nGaizka Ormazabal"
+    ],
+    "published": "Wed, 11 Nov 2026 19:52:33 -0800",
+    "abstract": "ABSTRACT We examine the role of supply chains in shaping the public disclosure of climate information. We leverage a unique empirical setting enabled by CDP—the leading platform for corporate climate risk reporting—which allows customers to demand climate‐related information from their suppliers. Using a large international sample of customer–supplier pairs, we find a positive association between customers’ information demand and suppliers’ public disclosure on the CDP. While the estimated association is modest on average, it exhibits substantial cross‐sectional variation reflecting the disclosure incentives of both customers and suppliers as well as their relative bargaining power. We also find descriptive evidence consistent with one potential implication of the documented association for corporate decision‐making: shifts in supply network relationships toward greener and more transparent suppliers. Overall, our findings contribute to ongoing debates on how to foster climate disclosure.",
+    "abstract_en": "ABSTRACT We examine the role of supply chains in shaping the public disclosure of climate information. We leverage a unique empirical setting enabled by CDP—the leading platform for corporate climate risk reporting—which allows customers to demand climate‐related information from their suppliers. Using a large international sample of customer–supplier pairs, we find a positive association between customers’ information demand and suppliers’ public disclosure on the CDP. While the estimated association is modest on average, it exhibits substantial cross‐sectional variation reflecting the disclosure incentives of both customers and suppliers as well as their relative bargaining power. We also find descriptive evidence consistent with one potential implication of the documented association for corporate decision‐making: shifts in supply network relationships toward greener and more transparent suppliers. Overall, our findings contribute to ongoing debates on how to foster climate disclosure.",
+    "abstract_zh": "",
+    "source_info": "",
+    "method": "Unclassified",
+    "tax_related": false,
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/1475-679x.70096?af=R",
+    "doi": "",
+    "fetched_at": "2026-11-16T21:41:01.704499+00:00"
+  },
+  {
+    "source_category": "journal_article",
+    "journal_id": "CAR",
+    "journal": "Contemporary Accounting Research",
+    "section": "Most Recent RSS",
+    "title": "Intertemporal Dynamics of Cost AsymmetryDynamique intertemporelle d'asymétrie des coûts",
+    "title_en": "Intertemporal Dynamics of Cost AsymmetryDynamique intertemporelle d'asymétrie des coûts",
+    "title_zh": "",
+    "authors": [
+      "Eti Einhorn, \nEfrat Shust"
+    ],
+    "published": "Wed, 11 Nov 2026 22:46:34 -0800",
+    "abstract": "",
+    "abstract_en": "",
+    "abstract_zh": "",
+    "source_info": "",
+    "method": "Unclassified",
+    "tax_related": false,
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/1911-3846.70097?af=R",
+    "doi": "",
+    "fetched_at": "2026-11-16T21:41:01.968467+00:00"
+  },
+  {
+    "source_category": "journal_article",
+    "journal_id": "CAR",
+    "journal": "Contemporary Accounting Research",
+    "section": "Most Recent RSS",
+    "title": "The Effect of Non‐US Tax Authority Monitoring on Income Shifting by Affiliates of US Multinationals: Evidence From EDGAR Search ActivityL'efficacité de la surveillance exercée par les autorités fiscales étrangères sur le transfert de revenus des sociétés affiliées des multinationales états‐uniennes : données issues des recherches effectuées sur EDGAR",
+    "title_en": "The Effect of Non‐US Tax Authority Monitoring on Income Shifting by Affiliates of US Multinationals: Evidence From EDGAR Search ActivityL'efficacité de la surveillance exercée par les autorités fiscales étrangères sur le transfert de revenus des sociétés affiliées des multinationales états‐uniennes : données issues des recherches effectuées sur EDGAR",
+    "title_zh": "",
+    "authors": [
+      "Sabrina Chi, \nAnh V. Persson, \nTerry Shevlin, \nOktay Urcan"
+    ],
+    "published": "Tue, 10 Nov 2026 21:13:01 -0800",
+    "abstract": "ABSTRACT Governments worldwide are concerned that multinational enterprises (MNEs) shift profits across borders to avoid taxes. While prior research shows that home‐country tax enforcement can reduce tax avoidance, far less is known about whether foreign tax authorities (FTAs) can constrain income shifting by MNE affiliates. We measure FTA monitoring using data on FTAs' downloads of US MNEs' annual reports filed with the SEC. We find that FTA monitoring is more intensive in higher‐tax‐rate countries with a larger MNE presence, consistent with those jurisdictions facing stronger incentives to monitor income shifting. More importantly, we find that monitoring by an affiliate's local tax authority does not systematically reduce income shifting by US MNE affiliates, whereas aggregate monitoring in the MNE group affects an affiliate even when its own local FTA is not observably monitoring it. This result is consistent with a spillover effect of FTA monitoring. This association is stronger when FTAs operate under information‐exchange treaties, when company disclosures are more detailed, and when enforcement capacity is greater. We also find positive associations between aggregate FTA monitoring and subsequent tax avoidance and tax settlements of US MNEs. Our findings suggest monitoring by multiple FTAs effectively combats MNE tax avoidance and have implications for how tax administrations design and coordinate monitoring efforts.",
+    "abstract_en": "ABSTRACT Governments worldwide are concerned that multinational enterprises (MNEs) shift profits across borders to avoid taxes. While prior research shows that home‐country tax enforcement can reduce tax avoidance, far less is known about whether foreign tax authorities (FTAs) can constrain income shifting by MNE affiliates. We measure FTA monitoring using data on FTAs' downloads of US MNEs' annual reports filed with the SEC. We find that FTA monitoring is more intensive in higher‐tax‐rate countries with a larger MNE presence, consistent with those jurisdictions facing stronger incentives to monitor income shifting. More importantly, we find that monitoring by an affiliate's local tax authority does not systematically reduce income shifting by US MNE affiliates, whereas aggregate monitoring in the MNE group affects an affiliate even when its own local FTA is not observably monitoring it. This result is consistent with a spillover effect of FTA monitoring. This association is stronger when FTAs operate under information‐exchange treaties, when company disclosures are more detailed, and when enforcement capacity is greater. We also find positive associations between aggregate FTA monitoring and subsequent tax avoidance and tax settlements of US MNEs. Our findings suggest monitoring by multiple FTAs effectively combats MNE tax avoidance and have implications for how tax administrations design and coordinate monitoring efforts.",
+    "abstract_zh": "",
+    "source_info": "",
+    "method": "Unclassified",
+    "tax_related": true,
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/1911-3846.70101?af=R",
+    "doi": "",
+    "fetched_at": "2026-11-16T21:41:01.968646+00:00"
+  },
+  {
+    "source_category": "journal_article",
+    "journal_id": "RAST",
+    "journal": "Review of Accounting Studies",
+    "section": "Latest Articles",
+    "title": "From incidents to outcomes: consumer reactions and firm responses to negative environmental and social practices",
+    "title_en": "From incidents to outcomes: consumer reactions and firm responses to negative environmental and social practices",
+    "title_zh": "",
+    "authors": [],
+    "published": "",
+    "abstract": "We examine how negative environmental and social (E&S) incidents affect consumer behavior and firms’ responses. Using high-frequency store-visit data from SafeGraph linked to firm E&S incidents from RepRisk, we find that negative incidents lead to a modest decline in store visits on average, with substantially larger reductions among more environmentally and socially conscious consumers in Democratic-leaning areas. The effects are stronger for more severe and influential incidents, among younger and more educated consumers, for firms with higher pre-incident advertising intensity and E&S ratings, and in more competitive markets. Following these incidents, firms temporarily reduce discretionary disclosures and increase advertising expenditures over the longer run. Together, the results highlight consumer behavior as a way in which E&S incidents affect firm cash flows and suggest that firms adjust disclosure and advertising following these incidents.",
+    "abstract_en": "We examine how negative environmental and social (E&S) incidents affect consumer behavior and firms’ responses. Using high-frequency store-visit data from SafeGraph linked to firm E&S incidents from RepRisk, we find that negative incidents lead to a modest decline in store visits on average, with substantially larger reductions among more environmentally and socially conscious consumers in Democratic-leaning areas. The effects are stronger for more severe and influential incidents, among younger and more educated consumers, for firms with higher pre-incident advertising intensity and E&S ratings, and in more competitive markets. Following these incidents, firms temporarily reduce discretionary disclosures and increase advertising expenditures over the longer run. Together, the results highlight consumer behavior as a way in which E&S incidents affect firm cash flows and suggest that firms adjust disclosure and advertising following these incidents.",
+    "abstract_zh": "",
+    "source_info": "",
+    "method": "Unclassified",
+    "tax_related": false,
+    "link": "https://link.springer.com/article/10.1007/s11142-026-09998-5",
+    "doi": "",
+    "fetched_at": "2026-11-16T21:41:04.715976+00:00"
+  },
+  {
+    "source_category": "journal_article",
+    "journal_id": "RAST",
+    "journal": "Review of Accounting Studies",
+    "section": "Latest Articles",
+    "title": "Auditors’ (non)responses to public warnings of audit risk: evidence from short-selling campaigns",
+    "title_en": "Auditors’ (non)responses to public warnings of audit risk: evidence from short-selling campaigns",
+    "title_zh": "",
+    "authors": [],
+    "published": "",
+    "abstract": "Using a novel setting, we examine auditors’ responses to public warnings of audit risk and whether their nonresponses are associated with auditor and client characteristics. We focus on 243 short-selling campaigns from 2006 to 2020 in which short sellers make public, credible allegations of audit-related issues against listed companies. Of those companies’ auditors, 48.3% do not take any observable actions in terms of raising audit fees substantially, terminating the engagement, issuing going concern opinions, or reporting internal control weaknesses in the year after the short sellers’ allegations. We further find that longer auditor–client tenure is the factor most consistently associated with auditors’ nonresponse to public warnings of audit risk, a pattern arguably consistent with impaired independence. Additional analyses show that the litigation and reputation costs of auditors’ inactions are minimal, further reducing auditors’ incentives for responses.",
+    "abstract_en": "Using a novel setting, we examine auditors’ responses to public warnings of audit risk and whether their nonresponses are associated with auditor and client characteristics. We focus on 243 short-selling campaigns from 2006 to 2020 in which short sellers make public, credible allegations of audit-related issues against listed companies. Of those companies’ auditors, 48.3% do not take any observable actions in terms of raising audit fees substantially, terminating the engagement, issuing going concern opinions, or reporting internal control weaknesses in the year after the short sellers’ allegations. We further find that longer auditor–client tenure is the factor most consistently associated with auditors’ nonresponse to public warnings of audit risk, a pattern arguably consistent with impaired independence. Additional analyses show that the litigation and reputation costs of auditors’ inactions are minimal, further reducing auditors’ incentives for responses.",
+    "abstract_zh": "",
+    "source_info": "",
+    "method": "Unclassified",
+    "tax_related": false,
+    "link": "https://link.springer.com/article/10.1007/s11142-026-09996-7",
+    "doi": "",
+    "fetched_at": "2026-11-16T21:41:04.716100+00:00"
   }
 ]
